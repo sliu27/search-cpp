@@ -1,0 +1,5527 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="aa">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>aawiki</dbname>
+    <base>https://aa.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.14</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>1269</id>
+    <restrictions>edit=autoconfirmed:move=autoconfirmed</restrictions>
+    <revision>
+      <id>3988</id>
+      <parentid>3807</parentid>
+      <timestamp>2009-03-16T01:13:23Z</timestamp>
+      <contributor>
+        <username>Pathoschild</username>
+        <id>177</id>
+      </contributor>
+      <comment>blanked, closed &amp; redundant with site notice</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Community Portal</title>
+    <ns>4</ns>
+    <id>1270</id>
+    <revision>
+      <id>3990</id>
+      <parentid>3901</parentid>
+      <timestamp>2010-03-25T07:14:32Z</timestamp>
+      <contributor>
+        <username>Jyothis</username>
+        <id>1968</id>
+      </contributor>
+      <comment>/* Alecs.bot */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">==Welcome==
+en: Please note, as I did preeceding this, whenever using a langauge other than afar. We do not have any speakers of the language it seems at the moment. Thank you! [[User:Aeæ|Aeæ]] 02:56, 6 July 2006 (UTC)
+
+==[[Kurów]]==
+
+Could they please write a stub http://aa.wikipedia.org/wiki/Kur%C3%B3w - just a few sentences based on http://en.wikipedia.org/wiki/Kur%C3%B3w ? Only 2 -5 sentences enough. Please. [[:pl:User:Pietras1988|Pietras1988]] 12:34, 18 February 2006 (UTC)
+
+== Bot bit request [[User:SieBot|SieBot]] ==
+Please give a bot bit to [[User:SieBot|SieBot]], so it will not flood your RC as it adds interwiki links using pywikipedia's interwiki.py. [[User:SieBot|SieBot]] is active on about 160 Wikipedias. See the [[User:SieBot|user page]] of the bot for more details, or check a complete overview of its activities [[:nl:Gebruiker:SieBot/Overview|here]]. Cheers! [[User:Siebrand|Siebrand]] ([[:nl:User talk:Siebrand|talk]]) 08:21, 17 August 2007 (UTC)
+
+: '''Done.''' &lt;small&gt;—[[m:user:Pathoschild/s|Pathoschild]] 04:36, 3 September 2007 (UTC)&lt;/small&gt;
+
+== Bot bit [[user:BotMultichill|BotMultichill]] ==
+I request a bot bit for [[user:BotMultichill|BotMultichill]]. Bot is active on a lot of wiki's (100+ with botbit) and i want to run the bot here too without flooding the [[Special:Recentchanges|recent changes]]. [[User:Multichill|Multichill]] 20:49, 27 August 2007 (UTC)
+
+==Betawiki: better support for your language in MediaWiki ==
+Dear community. I am writing to you to promote a special wiki called [http://nike.users.idler.fi/betawiki Betawiki]. This wiki facilitates the localisation (l10n) of the MediaWiki interface. You may have changed many messages here on Wikipedia to use your language for your language profile, but if you would log in to for example the English language Wiktionary, you would not be able to use the interface as well translated as here. Infact, of the 1792 messages in the core of MediaWiki, 0 messages have been translated. Betawiki also supports the translation of messages of over 75 extensions, with 981 messages.
+
+If you wish to contribute to better support of your language in MediaWiki, as well as for many MediaWiki extensions, please visit [http://nike.users.idler.fi/betawiki/Translating:Intro Betawiki], [http://nike.users.idler.fi/dev/?title=Special:Userlogin&amp;type=signup&amp;uselang=en create an account] and [http://nike.users.idler.fi/betawiki/Betawiki:Rights request translator priviledges]. You can see the current status of localisation of your language on [[meta:Localization_statistics|meta]] and do not forget to get in touch with others that may already be [http://nike.users.idler.fi/betawiki/Translating:Languages working on your language on Betawiki].
+
+If you have any further questions, [http://nike.users.idler.fi/betawiki/User_talk:Siebrand please let me know on my talk page on Betawiki]. We will try and assist you as much as possible, for example by importing all messages from a local wiki for you to start with, if you so desire.
+
+You can also find us on the Freenode [[wikipedia:Internet Relay Chat|IRC]] network in the channel #mediawiki-i18n where we would be happy to help you get started.
+
+Thank you very much for your attention and I do hope to see some of you on [http://nike.users.idler.fi/betawiki/Etusivu Betawiki] soon! Cheers! [http://nike.users.idler.fi/betawiki/User:Siebrand Siebrand@Betawiki] 09:13, 20 September 2007 (UTC)
+
+== [[User:AlleborgoBot|AlleborgoBot]] ==
+Hi, AlleborgoBot is an interwiki bot run by [[:it:Utente:Alleborgo|Alleborgo]] starting at the italian wikipedia. The bot uses the pywikipedia framework daily updated to the last SVN version. The Bot runs in autonomous, but sometimes, it will run in manual assisted mode to solve interwiki conflicts. Already has a bot flag in ar, am, an, ast, az, bar, bat-smg, bg, br, bn, bpy, bs, ca, ceb, cs, cv, da, de, el, en, eo, es, et, eu, fa, fi, fiu-vro, fr, frp, fy, ga, gl, he, hr, hsb, ht, hu, hy, id, is, it, iu, ja, jv, ka, kk, ksh, ku, lb, li, lmo, ln, lt, lv, mk, mi, ml, mr, ms, mt, nap, nds, nds-nl, nl, nn, no, pl, pms, ps, pt, ro, roa-tara, ru, sco, sh, sk, simple, sl, sq, sr, su, sv, ta, tg, th, to, tr, tt, uk, ur, vec, vi, vls, vo, zh, zh-classical, zh-min-nan, zh-yue. On it wiki has done more than 65000 edit. Now I'm requesting the flag here, thanks  --[[User:AlleborgoBot|AlleborgoBot]] 14:35, 2 November 2007 (UTC)
+: Done. [[m:User:Sj|Sj]] 19:46, 16 December 2007 (UTC)
+== [[User:Alexbot|Alexbot]] ==
+Alexbot is an interwiki bot run by [[:zh:User:Alexsh]], use pywikipedia, run autonomous.All languages flag statistics in [[:zh:User:Alexbot]], I request the flag in here, thanks--[[User:Alexsh|Alexsh]] 11:40, 5 January 2008 (UTC)
+:'''Done''' --[[User:Dungodung|Dungodung]] 16:51, 26 January 2008 (UTC)
+
+== [[:User:Purbo_T|Purbo_T]] ==
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; style=&quot;text-align:left&quot;&gt;
+Hi, I'd like to request a bot flag for  [[:User:Purbo_T|Purbo_T]]
+*'''Operator''': [[:User:Purodha]] = [[:ksh:User:Purodha]] (b'crat @ [[:ksh:|ksh]])
+*'''Function''': interwiki link maintenance
+*'''Operation''':  manually-assisted, occasionally in automatic or autonomous mode, starting mostly from the [[:ksh:|Wikipedia of Ripuarian languages]]
+*'''Software:''' [[:meta:pywikipedia|pywikipediabot]] framework updated daily from [http://svn.wikimedia.org/svnroot/pywikipedia/trunk/pywikipedia/ svn] to latest version
+*'''Already has bot flag on:''' [[:am:|am]], [[:ar:|ar]], [[:be-x-old:|be-x-old]], [[:bn:|bn]], [[:bo:|bo]], [[:bxr:|bxr]], [[:cdo:|cdo]], [[:co:|co]], [[:crh:|crh]], [[:dsb:|dsb]], [[:dz:|dz]], [[:fa:|fa]], [[:fr:|fr]], [[:gv:|gv]], [[:hr:|hr]], [[:hsb:|hsb]], [[:ht:|ht]], [[:ig:|ig]], [[:ksh:|ksh]], [[:ku:|ku]], [[:lbe:|lbe]], [[:lmo:|lmo]], [[:ml:|ml]], [[:mr:|mr]], [[:nds:|nds]], [[:nl:|nl]], [[:pms:|pms]], [[:simple:|simple]], [[:stq:|stq]], [[:sv:|sv]], [[:tg:|tg]], [[:ts:|ts]], [[:vec:|vec]], [[:vi:|vi]], [[:vo:|vo]], more pending, [http://tools.wikimedia.de/~purodha/sample/dbswithuser.php?usr=Purbo_T recent&amp;nbsp;data] (sorry, the [[:m:toolserver|toolserver]] is having technical problems at the moment, partial data is at the end)
+Thank you! --[[User:Purodha|Purodha Blissenbach]] 19:55, 3 February 2008 (UTC)
+&lt;/div&gt;
+
+==[[:fr:Utilisateur:Alecs.bot|Alecs.bot]]==
+
+I'd like to request a bot flag for interwiki bot Alecs.bot.
+
+* '''Operator''': [[User:Alecs.y|Alecs.y]] or [[:fr:User:Alecs.y|fr:Alecs.y]]
+* '''Bot user page''': [[User:Alecs.bot|Alecs.bot]]
+* '''Function''': interwiki link maintenance
+* '''Software''': Pywikipedia
+* '''Already has bot flag on''': [[:als:Special:Contributions/Alecs.bot|als]], [[:ast:Special:Contributions/Alecs.bot|ast]], [[:de:Special:Contributions/Alecs.bot|de]], [[:eo:Special:Contributions/Alecs.bot|eo]], [[:es:Special:Contributions/Alecs.bot|es]], [[:fr:Special:Contributions/Alecs.bot|fr]], [[:it:Special:Contributions/Alecs.bot|it]]
+
+Thank you! -- [[User:Alecs.y|Alecs.y]] 18:24, 19 February 2008 (UTC)
+
+=== [[User:CarsracBot|CarsracBot]] ===
+I would like to get a bot-flag on this wiki.
+*'''Operator:''' [[:nl:User:Carsrac]]
+*'''Purpose:''' Interwiki links: It adds/modifies/deletes interwiki links.
+*'''Software:''' pywikipediabot framework via SVN
+*'''Already has bot flag on:''' nl, en, nap, sq, tr and many more look at this [http://tools.wikimedia.de/~vvv/sulutil.php?user=CarsracBot&amp;rights=1 alternative page])
+Thanks [[User:Carsrac|Carsrac]] 16:27, 17 June 2008 (UTC)
+
+==Wikimania Scholarships==
+The call for applications for Wikimania Scholarships to attend Wikimania 2010 in Gdansk, Poland (July 9-11) is now open. The Wikimedia Foundation offers Scholarships to pay for selected individuals' round trip travel, accommodations, and registration at the conference.
+To apply, visit the [[wm2010:Main Page|Wikimania 2010]] [[wm2010:Scholarships|scholarships information page]], click the secure link available there, and fill out the form to apply.
+For additional information, please visit the Scholarships information and FAQ pages:
+* [[wm2010:Scholarships|Scholarships]]
+* [[wm2010:Scholarships/FAQ|Scholarships FAQ]]
+Yours very truly,
+[[m:User:Cary Bass|Cary Bass]]&lt;/br&gt;
+Volunteer Coordinator&lt;/br&gt;
+Wikimedia Foundation</text>
+      <sha1>e4povp2iw3yxcfobg2347c9f35a1nos</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Administrators</title>
+    <ns>4</ns>
+    <id>1293</id>
+    <revision>
+      <id>3942</id>
+      <parentid>2874</parentid>
+      <timestamp>2008-07-02T15:10:33Z</timestamp>
+      <contributor>
+        <username>Hercule</username>
+        <id>293</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">See also [[m:Stewards|Stewards]].</text>
+      <sha1>7bdnnqtk0kget8fgq41qfnw7kfdrqlb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Main page</title>
+    <ns>0</ns>
+    <id>1426</id>
+    <redirect title="Main Page" />
+    <revision>
+      <id>2266</id>
+      <parentid>2264</parentid>
+      <timestamp>2006-05-16T12:17:17Z</timestamp>
+      <contributor>
+        <ip>71.253.132.149</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#redirect [[Main Page]]</text>
+      <sha1>ei3pamodcl9r8uzbobel6vigpdcp2rq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Delete</title>
+    <ns>10</ns>
+    <id>1505</id>
+    <revision>
+      <id>3984</id>
+      <parentid>3053</parentid>
+      <timestamp>2008-07-04T18:42:36Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Image:Icono aviso borrar.png|80px|left]]
+&lt;div name=&quot;Deletion notice&quot; class=&quot;boilerplate metadata&quot; id=&quot;delete&quot; style=&quot;margin: 0 5%; padding: 0 7px 7px 7px; background: #fee; border: 1px solid #999999; text-align: left; font-size:95%;&quot;&gt;
+&lt;big&gt;THIS PAGE SHOULD BE DELETED! . Reason: '''{{{1}}}'''&lt;/big&gt;
+
+If you disagree with its speedy deletion, please explain why on [[{{TALKPAGENAME}}|its talk page]].  If this page obviously does not meet the criteria for speedy deletion, or you intend to fix it, please remove this notice, but do not remove this notice from a page that you have created yourself.
+
+&lt;span class=&quot;plainlinks&quot;&gt;''Administrators, remember to check  [[Special:Whatlinkshere/{{NAMESPACE}}:{{PAGENAME}}|if anything links here]] and [{{fullurl:{{NAMESPACE}}:{{PAGENAME}}|action=history}} the page history] ([{{fullurl:{{NAMESPACE}}:{{PAGENAME}}|diff=0}} last edit]) before [{{fullurl:{{NAMESPACE}}:{{PAGENAME}}|action=delete}} deletion].''&lt;/span&gt;
+&lt;/div&gt;&lt;includeonly&gt;{{{category|[[Category:Candidates for speedy deletion]]}}}&lt;/includeonly&gt;</text>
+      <sha1>sly9u7f89vjcpr9g84u9gl92jdy66by</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Candidates for speedy deletion</title>
+    <ns>14</ns>
+    <id>1506</id>
+    <revision>
+      <id>3494</id>
+      <parentid>2193</parentid>
+      <timestamp>2008-01-01T07:16:14Z</timestamp>
+      <contributor>
+        <username>Tiyoringo</username>
+        <id>143</id>
+      </contributor>
+      <comment>+interwiki</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">These pages should be deleted.
+
+To propose a page for deletion, add '''&lt;nowiki&gt;{{delete|&lt;/nowiki&gt;''your reason for deletion''&lt;nowiki&gt;}}&lt;/nowiki&gt;'''. If the page contains spam, blank it first.
+
+[[Category:Wikipedia]]
+
+[[als:Kategorie:Wikipedia:Schnelllöschen]]
+[[ang:Category:Candidates for speedy deletion]]
+[[ar:تصنيف:صفحات حذف سريع]]
+[[ay:Categoría:Candidates for speedy deletion]]
+[[bar:Kategorie:Wikipedia:Schnelllöschen]]
+[[be:Катэгорыя:Вікіпэдыя:Кандыдатуры на выдаленьне]]
+[[be-x-old:Катэгорыя:Вікіпэдыя:Кандыдатуры на выдаленьне]]
+[[cs:Kategorie:Stránky ke smazání]]
+[[de:Kategorie:Wikipedia:Schnelllöschen]]
+[[en:Category:Candidates for speedy deletion]]
+[[es:Categoría:Wikipedia:Borrar (definitivo)]]
+[[fa:رده:مقالات نامزد حذف سریع]]
+[[fi:Luokka:Roskaa]]
+[[gn:Categoría:Candidates for speedy deletion]]
+[[hsb:Kategorija:Strony k spěšnemu wušmórnjenju]]
+[[ia:Categoria:Wikipedia:Eliminar]]
+[[ko:분류:삭제 신청 문서]]
+[[ks:Category:Candidates for speedy deletion]]
+[[mh:Category:Candidates for speedy deletion]]
+[[nah:Categoría:Huiquipedia:Borrar (definitivo)]]
+[[nds:Kategorie:Wikipedia:Gauweg]]
+[[nl:Categorie:Wikipedia:Nuweg]]
+[[no:Kategori:Sider som er foreslått raskt slettet]]
+[[or:Category:Candidates for speedy deletion]]
+[[pl:Kategoria:Ekspresowe kasowanko]]
+[[pt:Categoria:Páginas para eliminação rápida]]
+[[ru:Категория:Википедия:К быстрому удалению]]
+[[sl:Kategorija:Predlogi za hitro brisanje]]
+[[sv:Kategori:Snabba raderingar]]
+[[tr:Kategori:Vikipedi silinecek sayfalar]]
+[[uk:Категорія:Статті до швидкого вилучення]]
+[[vi:Thể loại:Chờ xoá]]
+[[zh:Category:快速删除候选]]
+[[zh-classical:Category:速刪候]]
+[[zh-yue:Category:快速刪除候選]]</text>
+      <sha1>lrfs6oskeh6v0ilw9czzudjqrkdekvp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Wikipedia</title>
+    <ns>14</ns>
+    <id>1507</id>
+    <revision>
+      <id>3973</id>
+      <parentid>2194</parentid>
+      <timestamp>2008-07-04T12:55:06Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''[[Wikipedia]]'''.
+
+[[Category:Top Level]]
+
+[[en:Category:Wikipedia administration]]</text>
+      <sha1>opiycjoh63iw4utis7rhtfn451iryny</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:User aa-0</title>
+    <ns>10</ns>
+    <id>1779</id>
+    <revision>
+      <id>3302</id>
+      <parentid>2685</parentid>
+      <timestamp>2007-10-06T06:54:23Z</timestamp>
+      <contributor>
+        <username>Jorunn</username>
+        <id>53</id>
+      </contributor>
+      <comment>removing [[Category:User aa]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;float:left;border:solid #FFB3B3 1px;margin:1px&quot;&gt;
+
+{| cellspacing=&quot;0&quot; style=&quot;width:238px;background:#FFE0E8&quot;
+|-----
+| style=&quot;width:45px;height:45px;background:#FFB3B3;text-align:center;font-size:14pt&quot; | '''[[Afar|aa]]-0'''
+| style=&quot;font-size:8pt;padding:4pt;line-height:1.25em&quot; |  This user can '''[[:Category:User aa-0|not]]''' speak '''[[:Category:User aa|Afar]]'''. [[Category:User aa-0]]
+|}&lt;/div&gt;</text>
+      <sha1>bcz74tdps8780rbjlbrqkc2zrkrux4q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Sandbox</title>
+    <ns>4</ns>
+    <id>1792</id>
+    <revision>
+      <id>2783</id>
+      <parentid>2782</parentid>
+      <timestamp>2006-12-13T22:56:36Z</timestamp>
+      <contributor>
+        <ip>70.16.247.100</ip>
+      </contributor>
+      <comment>Undo revision 2781 by [[Special:Contributions/70.16.247.100]] ([[User talk:70.16.247.100]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Bu'eka!  Welcome to the Afar Wikipedia Sandbox!
+
+==Test 1==
+
+test 1a
+
+
+==Test 2==
+
+Test 3
+
+test 3.5
+
+==test 4==
+
+test 5
+
+==test 6==
+
+test 7</text>
+      <sha1>ca330y0fp19xy51cluvxzl80a7ril9v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User aa</title>
+    <ns>14</ns>
+    <id>1835</id>
+    <revision>
+      <id>3948</id>
+      <parentid>3616</parentid>
+      <timestamp>2008-07-04T12:29:50Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Wikipedians by language]]
+
+[[de:Kategorie:User aa]]
+[[en:Category:User aa]]
+[[fr:Catégorie:Utilisateur aa]]
+[[ko:분류:사용자 aa]]
+[[ksh:Saachjrupp:Wikipedia:Medmaacher kann Afar]]
+[[sq:Category:User aa]]
+[[sv:Kategori:Användare aa]]</text>
+      <sha1>aap4j4f4gafy6sc9lygkjienysl0lxg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Protected pages</title>
+    <ns>4</ns>
+    <id>1942</id>
+    <revision>
+      <id>3216</id>
+      <parentid>3215</parentid>
+      <timestamp>2007-08-16T10:32:36Z</timestamp>
+      <contributor>
+        <username>Jon Harald Søby</username>
+        <id>106</id>
+      </contributor>
+      <minor />
+      <comment>Protected &quot;[[Wikipedia:Protected pages]]&quot;: protecting spam from recreation [edit=sysop:move=sysop] [cascading]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Pages that are protected from recreation. Only administrators may edit this page.
+
+* [[MediaWiki talk:Ipb expiry invalid/w/w/w/w/index.php]]</text>
+      <sha1>1z9shhwdl3ndyh1ewrazaqgkzth5ga0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Babel</title>
+    <ns>10</ns>
+    <id>1958</id>
+    <revision>
+      <id>3260</id>
+      <timestamp>2007-09-07T10:18:06Z</timestamp>
+      <contributor>
+        <username>Multichill</username>
+        <id>195</id>
+      </contributor>
+      <comment>Based on http://en.wikipedia.org/w/index.php?title=Template:Babel&amp;oldid=150053392</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{| class=&quot;userboxes&quot; style=&quot;float: {{{align|right}}}; margin-left: {{{left|1}}}em; margin-bottom: {{{bottom|0.5}}}em; width: {{{width|248}}}px; border: {{{bordercolor|#99B3FF}}} solid {{{solid|1}}}px; clear: {{{align|right}}}; color: {{{textcolor|#000000}}}; {{{extra-css|}}}&quot;
+|-
+! style=&quot;background-color: {{{color|inherit}}}; text-align: center&quot; colspan=&quot;10&quot; | {{{header|[[Wikipedia:Babel]]}}}
+|- style=&quot;vertical-align:top;&quot;
+| {{#if:{{{1|}}}|{{User {{{1}}}}}
+}}{{#if:{{{2|}}}|{{User {{{2}}}}}
+}}{{#if:{{{3|}}}|{{User {{{3}}}}}
+}}{{#if:{{{4|}}}|{{User {{{4}}}}}
+}}{{#if:{{{5|}}}|{{User {{{5}}}}}
+}}{{#if:{{{6|}}}|{{User {{{6}}}}}
+}}{{#if:{{{7|}}}|{{User {{{7}}}}}
+}}{{#if:{{{8|}}}|{{User {{{8}}}}}
+}}{{#if:{{{9|}}}|{{User {{{9}}}}}
+}}{{#if:{{{10|}}}|{{User {{{10}}}}}
+}}{{#if:{{{11|}}}|{{User {{{11}}}}}
+}}{{#if:{{{12|}}}|{{User {{{12}}}}}
+}}{{#if:{{{13|}}}|{{User {{{13}}}}}
+}}{{#if:{{{14|}}}|{{User {{{14}}}}}
+}}{{#if:{{{15|}}}|{{User {{{15}}}}}
+}}{{#if:{{{16|}}}|{{User {{{16}}}}}
+}}{{#if:{{{17|}}}|{{User {{{17}}}}}
+}}{{#if:{{{18|}}}|{{User {{{18}}}}}
+}}{{#if:{{{19|}}}|{{User {{{19}}}}}
+}}{{#if:{{{20|}}}|{{User {{{20}}}}}
+}}{{#if:{{{21|}}}|{{User {{{21}}}}}
+}}{{#if:{{{22|}}}|{{User {{{22}}}}}
+}}{{#if:{{{23|}}}|{{User {{{23}}}}}
+}}{{#if:{{{24|}}}|{{User {{{24}}}}}
+}}{{#if:{{{25|}}}|{{User {{{25}}}}}
+}}{{#if:{{{26|}}}|{{User {{{26}}}}}
+}}{{#if:{{{27|}}}|{{User {{{27}}}}}
+}}{{#if:{{{28|}}}|{{User {{{28}}}}}
+}}{{#if:{{{29|}}}|{{User {{{29}}}}}
+}}{{#if:{{{30|}}}|{{User {{{30}}}}}
+}}{{#if:{{{31|}}}|{{User {{{31}}}}}
+}}{{#if:{{{32|}}}|{{User {{{32}}}}}
+}}{{#if:{{{33|}}}|{{User {{{33}}}}}
+}}{{#if:{{{34|}}}|{{User {{{34}}}}}
+}}{{#if:{{{35|}}}|{{User {{{35}}}}}
+}}{{#if:{{{36|}}}|{{User {{{36}}}}}
+}}{{#if:{{{37|}}}|{{User {{{37}}}}}
+}}{{#if:{{{38|}}}|{{User {{{38}}}}}
+}}{{#if:{{{39|}}}|{{User {{{39}}}}}
+}}{{#if:{{{40|}}}|{{User {{{40}}}}}
+}}{{#if:{{{41|}}}|{{User {{{41}}}}}
+}}{{#if:{{{42|}}}|{{User {{{42}}}}}
+}}{{#if:{{{43|}}}|{{User {{{43}}}}}
+}}{{#if:{{{44|}}}|{{User {{{44}}}}}
+}}{{#if:{{{45|}}}|{{User {{{45}}}}}
+}}{{#if:{{{46|}}}|{{User {{{46}}}}}
+}}{{#if:{{{47|}}}|{{User {{{47}}}}}
+}}{{#if:{{{48|}}}|{{User {{{48}}}}}
+}}{{#if:{{{49|}}}|{{User {{{49}}}}}
+}}{{#if:{{{50|}}}|{{User {{{50}}}}}
+}}{{#if:{{{51|}}}|{{User {{{51}}}}}
+}}{{#if:{{{52|}}}|{{User {{{52}}}}}
+}}{{#if:{{{53|}}}|{{User {{{53}}}}}
+}}{{#if:{{{54|}}}|{{User {{{54}}}}}
+}}{{#if:{{{55|}}}|{{User {{{55}}}}}
+}}{{#if:{{{56|}}}|{{User {{{56}}}}}
+}}{{#if:{{{57|}}}|{{User {{{57}}}}}
+}}{{#if:{{{58|}}}|{{User {{{58}}}}}
+}}{{#if:{{{59|}}}|{{User {{{59}}}}}
+}}{{#if:{{{60|}}}|{{User {{{60}}}}}
+}}{{#if:{{{61|}}}|{{User {{{61}}}}}
+}}{{#if:{{{62|}}}|{{User {{{62}}}}}
+}}{{#if:{{{63|}}}|{{User {{{63}}}}}
+}}{{#if:{{{64|}}}|{{User {{{64}}}}}
+}}{{#if:{{{65|}}}|{{User {{{65}}}}}
+}}{{#if:{{{66|}}}|{{User {{{66}}}}}
+}}{{#if:{{{67|}}}|{{User {{{67}}}}}
+}}{{#if:{{{68|}}}|{{User {{{68}}}}}
+}}{{#if:{{{69|}}}|{{User {{{69}}}}}
+}}{{#if:{{{70|}}}|{{User {{{70}}}}}
+}}{{#if:{{{71|}}}|{{User {{{71}}}}}
+}}{{#if:{{{72|}}}|{{User {{{72}}}}}
+}}{{#if:{{{73|}}}|{{User {{{73}}}}}
+}}{{#if:{{{74|}}}|{{User {{{74}}}}}
+}}{{#if:{{{75|}}}|{{User {{{75}}}}}
+}}{{#if:{{{76|}}}|{{User {{{76}}}}}
+}}{{#if:{{{77|}}}|{{User {{{77}}}}}
+}}{{#if:{{{78|}}}|{{User {{{78}}}}}
+}}{{#if:{{{79|}}}|{{User {{{79}}}}}
+}}{{#if:{{{80|}}}|{{User {{{80}}}}}
+}}{{#if:{{{81|}}}|{{User {{{81}}}}}
+}}{{#if:{{{82|}}}|{{User {{{82}}}}}
+}}{{#if:{{{83|}}}|{{User {{{83}}}}}
+}}{{#if:{{{84|}}}|{{User {{{84}}}}}
+}}{{#if:{{{85|}}}|{{User {{{85}}}}}
+}}{{#if:{{{86|}}}|{{User {{{86}}}}}
+}}{{#if:{{{87|}}}|{{User {{{87}}}}}
+}}{{#if:{{{88|}}}|{{User {{{88}}}}}
+}}{{#if:{{{89|}}}|{{User {{{89}}}}}
+}}{{#if:{{{90|}}}|{{User {{{90}}}}}
+}}{{#if:{{{91|}}}|{{User {{{91}}}}}
+}}{{#if:{{{92|}}}|{{User {{{92}}}}}
+}}{{#if:{{{93|}}}|{{User {{{93}}}}}
+}}{{#if:{{{94|}}}|{{User {{{94}}}}}
+}}{{#if:{{{95|}}}|{{User {{{95}}}}}
+}}{{#if:{{{96|}}}|{{User {{{96}}}}}
+}}{{#if:{{{97|}}}|{{User {{{97}}}}}
+}}{{#if:{{{98|}}}|{{User {{{98}}}}}
+}}{{#if:{{{99|}}}|{{User {{{99}}}}}
+}}{{#if:{{{100|}}}|{{User {{{100}}}}}
+}}{{{special-boxes|}}}
+|-
+| style=&quot;background-color: {{{color|inherit}}}; text-align: center;&quot; colspan=&quot;10&quot; | {{{footer|[[:Category:Wikipedians by language|Search user languages]]}}}
+|}&lt;noinclude&gt;
+[[ak:Template:Babel]]
+[[ang:Template:Babel]]
+[[ar:قالب:Babel]]
+[[az:Şablon:Babel]]
+[[bn:Template:Babel]]
+[[bo:Template:Babel]]
+[[bpy:মডেল:Babel]]
+[[ce:Шаблон:Бабел]]
+[[ceb:Template:Babel]]
+[[cr:Template:Babel]]
+[[cs:Šablona:Babel]]
+[[da:Skabelon:Babel]]
+[[de:Vorlage:Babel]]
+[[eo:Ŝablono:Babel]]
+[[es:Plantilla:Babel-X]]
+[[fa:الگو:Babel]]
+[[ff:Template:Babel]]
+[[fj:Template:Babel]]
+[[fr:Modèle:Babel]]
+[[gv:Template:Babel]]
+[[he:תבנית:Babel]]
+[[hi:साँचा:Babel-X]]
+[[hsb:Předłoha:Babel]]
+[[id:Templat:Babel]]
+[[is:Snið:Málkassi-X]]
+[[ja:Template:Babel]]
+[[jbo:Template:Babel]]
+[[kk:Үлгі:Babel]]
+[[km:Template:Babel]]
+[[ko:틀:바벨]]
+[[la:Formula:Babel-X]]
+[[lb:Template:Babel-X]]
+[[lg:Template:Babel]]
+[[lmo:Template:Babel]]
+[[mn:Template:Babel]]
+[[mr:साचा:Babel]]
+[[new:Template:Babel]]
+[[no:Mal:Babel]]
+[[os:Шаблон:Babel]]
+[[pap:Template:Babel]]
+[[pl:Szablon:Babel]]
+[[pt:Predefinição:Babel]]
+[[ru:Шаблон:Babel]]
+[[sco:Template:Babel]]
+[[se:Template:Babel]]
+[[sh:Template:Babel]]
+[[simple:Template:Babel]]
+[[sl:Predloga:Babilon]]
+[[sq:Stampa:Babel]]
+[[sr:Шаблон:Babel]]
+[[sw:Template:Babel]]
+[[tg:Шаблон:Babel]]
+[[th:แม่แบบ:บาเบล]]
+[[tl:Template:Babel]]
+[[tr:Şablon:Babil]]
+[[ug:Template:Babel]]
+[[vi:Tiêu bản:Babel]]
+[[vo:Samafomot:Babel]]
+[[war:Template:Babel]]
+[[wuu:Template:Babel]]
+[[yi:מוסטער:באבעל]]
+[[zh-classical:Template:Babel]]
+[[zh-min-nan:Template:Babel]]
+[[zh-yue:Template:Babel]]
+[[zh:Template:Babel]]
+&lt;/noinclude&gt;</text>
+      <sha1>cvgtvoejy92batnlqeftcbq2vk57ubz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:User nl</title>
+    <ns>10</ns>
+    <id>1959</id>
+    <revision>
+      <id>3261</id>
+      <timestamp>2007-09-07T10:22:53Z</timestamp>
+      <contributor>
+        <username>Multichill</username>
+        <id>195</id>
+      </contributor>
+      <comment>New page: &lt;div style=&quot;float:left;border:solid #6EF7A7 1px;margin:1px&quot;&gt; {| cellspacing=&quot;0&quot; style=&quot;width:238px;background:#C5FCDC&quot; | style=&quot;width:45px;height:45px;background:#6EF7A7;text-align:center;...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;float:left;border:solid #6EF7A7 1px;margin:1px&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width:238px;background:#C5FCDC&quot;
+| style=&quot;width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt&quot; | '''[[Dutch language|nl]]'''
+| style=&quot;font-size:8pt;padding:4pt;line-height:1.25em&quot; | Deze gebruiker spreekt '''[[:Category:User nl|Nederlands]]''' als '''[[:Category:User nl-N|moedertaal]]'''.[[Category:User nl|{{PAGENAME}}]][[Category:User nl-N|{{PAGENAME}}]]
+|}&lt;/div&gt;
+&lt;noinclude&gt;
+[[Category:User templates nl|nl-N]]
+[[en:Template:User nl]]
+[[eu:Txantiloi:·Hizkuntza (nl)]]
+[[mk:Шаблон:Корисник nl]]
+[[nl:Sjabloon:Gebruiker nl]]
+[[tl:Template:User nl]]
+&lt;/noinclude&gt;</text>
+      <sha1>dgrjpkelni42udumkc5ha0gc05tpc1e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:User en-3</title>
+    <ns>10</ns>
+    <id>1960</id>
+    <revision>
+      <id>3774</id>
+      <parentid>3773</parentid>
+      <timestamp>2008-04-23T21:41:40Z</timestamp>
+      <contributor>
+        <username>Hercule</username>
+        <id>293</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;float:left;border:solid #99B3FF 1px;margin:1px&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width:238px;background:#E0E8FF&quot;
+| style=&quot;width:45px;height:45px;background:#99B3FF;text-align:center;font-size:14pt&quot; | '''[[English language|en]]-3'''
+| style=&quot;font-size:8pt;padding:4pt;line-height:1.25em&quot; | This user is able to contribute with an '''[[:Category:User en-3|advanced]]''' level of '''[[:Category:User en|English]]'''.{{{category|[[Category:User en|{{PAGENAME}}]][[Category:User en-3|{{PAGENAME}}]]}}}
+|}&lt;/div&gt;&lt;noinclude&gt;&lt;br clear=&quot;all&quot;/&gt;
+
+[[af:Sjabloon:Gebruiker en-3]]
+[[als:Vorlage:User en-3]]
+[[am:Template:User en-3]]
+[[ar:قالب:مستخدم en-3]]
+[[an:Plantilla:User en-3]]
+[[roa-rup:Template:User en-3]]
+[[ast:Plantilla:Usuarios por idioma (en-3)]]
+[[gn:Plantilla:User en-3]]
+[[ay:Plantilla:Aru:en-3]]
+[[az:Şablon:User en-3]]
+[[zh-min-nan:Template:User en-3]]
+[[map-bms:Template:User en-3]]
+[[be-x-old:Шаблён:User en-3]]
+[[bo:Template:User en-3]]
+[[bs:Šablon:Korisnik en-3]]
+[[br:Patrom:User en-3]]
+[[bg:Шаблон:User en-3]]
+[[ca:Plantilla:Babel en-3]]
+[[cv:Шаблон:User en-3]]
+[[ceb:Template:User en-3]]
+[[cs:Šablona:User en-3]]
+[[cho:Template:User en-3]]
+[[co:Template:User en-3]]
+[[cy:Nodyn:User en-3]]
+[[da:Skabelon:Bruger en-3]]
+[[pdc:Template:User en-3]]
+[[de:Vorlage:User en-3]]
+[[et:Mall:User en-3]]
+[[el:Πρότυπο:Χρήστης en-3]]
+[[eml:Template:User en-3]]
+[[es:Plantilla:·Usuarios por idioma (en-3)]]
+[[eo:Ŝablono:Vikipediisto en-3]]
+[[eu:Txantiloi:·Hizkuntza (en-3)]]
+[[fa:الگو:User en-3]]
+[[fo:Fyrimynd:User en-3]]
+[[fr:Modèle:Utilisateur en-3]]
+[[fy:Berjocht:Meidogger/Taal en-3]]
+[[fur:Model:Utent en-3]]
+[[ga:Teimpléad:Úsáideoir en-3]]
+[[gl:Template:User en-3]]
+[[got:Template:Niutands en-3]]
+[[zh-classical:Template:User en-3]]
+[[ko:틀:User en-3]]
+[[hy:Կաղապար:User en-3]]
+[[hi:साँचा:User en-3]]
+[[hsb:Předłoha:User en-3]]
+[[hr:Predložak:Suradnik en-3]]
+[[io:Template:User en-3]]
+[[ilo:Template:User en-3]]
+[[bpy:মডেল:আতাকুরা en-3]]
+[[id:Templat:User en-3]]
+[[ie:Template:User en-3]]
+[[os:Шаблон:User en-3]]
+[[is:Snið:User en-3]]
+[[it:Template:Utente en-3]]
+[[he:תבנית:User en-3]]
+[[jv:Cithakan:User en-3]]
+[[kn:ಟೆಂಪ್ಲೇಟು:User en-3]]
+[[ka:თარგი:User en-3]]
+[[csb:Szablóna:User en-3]]
+[[kk:Үлгі:User en-3]]
+[[ky:Template:User en-3]]
+[[sw:Template:User en-3]]
+[[ht:Template:User en-3]]
+[[ku:Şablon:User en-3]]
+[[lad:Template:User en-3]]
+[[lo:Template:User en-3]]
+[[la:Formula:Usor en-3]]
+[[lv:Veidne:User en-3]]
+[[lb:Template:User en-3]]
+[[lt:Šablonas:User en-3]]
+[[li:Sjabloon:Gebroeker en-3]]
+[[ln:Template:User en-3]]
+[[jbo:Template:pilno en-3]]
+[[lg:Template:User en-3]]
+[[lmo:Template:User en-3]]
+[[hu:Sablon:User en-3]]
+[[mk:Шаблон:Корисник en-3]]
+[[mg:Template:User en-3]]
+[[ml:Template:User en-3]]
+[[mt:Template:User en-3]]
+[[mi:Template:User en-3]]
+[[ms:Templat:Pengguna en-3]]
+[[mn:Template:User en-3]]
+[[nah:Plantilla:Tlatequitiltililli en-3]]
+[[na:Template:User en-3]]
+[[nl:Sjabloon:Gebruiker en-3]]
+[[nds-nl:Sjabloon:Gebruker en-3]]
+[[new:Template:User en-3]]
+[[ja:Template:User en-3]]
+[[nap:Template:User eng-3]]
+[[no:Mal:Bruker en-3]]
+[[nn:Mal:Brukar en-3]]
+[[oc:Modèl:Utilizaire en-3]]
+[[ug:Template:User en-3]]
+[[uz:Shablon:User en-3]]
+[[pap:Template:User en-3]]
+[[km:Template:User en-3]]
+[[pms:Stamp:User eng-3]]
+[[nds:Vörlaag:User en-3]]
+[[pl:Szablon:User en-3]]
+[[pt:Predefinição:User en-3]]
+[[ro:Format:Utilizator en-3]]
+[[qu:Plantilla:Ruwaq:en-3]]
+[[ru:Шаблон:User en-3]]
+[[se:Template:User en-3]]
+[[sc:Template:Utente en-3]]
+[[sco:Template:Uiser en-3]]
+[[sq:Stampa:User en-3]]
+[[scn:Template:User en-3]]
+[[simple:Template:User en-3]]
+[[sd:Template:User en-3]]
+[[sk:Šablóna:User en-3]]
+[[sl:Predloga:Uporabnik en-3]]
+[[so:Template:User en-3]]
+[[sr:Шаблон:Корисник en-3]]
+[[sh:Template:User en-3]]
+[[su:Citakan:User en-3]]
+[[fi:Malline:User en-3]]
+[[sv:Mall:Användare en-3]]
+[[tl:Template:User en-3]]
+[[ta:வார்ப்புரு:User en-3]]
+[[tt:Ürnäk:Äğzä en-3]]
+[[te:మూస:User en-3]]
+[[th:แม่แบบ:User en-3]]
+[[vi:Tiêu bản:User en-3]]
+[[tg:Шаблон:User en-3]]
+[[tpi:Template:User en-3]]
+[[chr:Template:User en-3]]
+[[tr:Şablon:Kullanıcı en-3]]
+[[tk:Template:User en-3]]
+[[uk:Шаблон:User en-3]]
+[[ur:سانچہ:User en-3]]
+[[vec:Template:Utente en-3]]
+[[vo:Samafomot:User en-3]]
+[[fiu-vro:Näüdüs:User en-3]]
+[[wa:Modele:User en-3]]
+[[war:Template:User (en-3)]]
+[[wo:Template:User en-3]]
+[[wuu:Template:User en-3]]
+[[yi:מוסטער:User en-3]]
+[[zh-yue:Template:User en-3]]
+[[diq:Template:Karber en-3]]
+[[zea:Sjabloon:Gebruker en-3]]
+[[bat-smg:Šablonas:User en-3]]
+[[zh:Template:User en-3]]
+&lt;/noinclude&gt;</text>
+      <sha1>kfkqmy02hf49ounz1ne5abnd4uu8zqw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:User de-1</title>
+    <ns>10</ns>
+    <id>1961</id>
+    <revision>
+      <id>3263</id>
+      <timestamp>2007-09-07T10:43:50Z</timestamp>
+      <contributor>
+        <username>Multichill</username>
+        <id>195</id>
+      </contributor>
+      <comment>New page: &lt;div style=&quot;float:left;border:solid #C0C8FF 1px;margin:1px&quot;&gt; {| cellspacing=&quot;0&quot; style=&quot;width:238px;background:#F0F8FF&quot; | style=&quot;width:45px;height:45px;background:#C0C8FF;text-align:center;...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;float:left;border:solid #C0C8FF 1px;margin:1px&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width:238px;background:#F0F8FF&quot;
+| style=&quot;width:45px;height:45px;background:#C0C8FF;text-align:center;font-size:14pt&quot; | '''[[German language|de]]-1'''
+| style=&quot;font-size:8pt;padding:4pt;line-height:1.25em&quot; | Dieser Benutzer hat '''[[:Category:User de-1|grundlegende]] [[:Category:User de|Deutschkenntnisse]]'''.
+|}&lt;/div&gt;&lt;includeonly&gt;
+[[Category:User de|{{PAGENAME}}]]
+[[Category:User de-1|{{PAGENAME}}]]&lt;/includeonly&gt;
+&lt;noinclude&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+[[Category:User templates de|de-1]]
+[[Category:User de| ]]
+[[Category:User de-1| ]]
+
+[[als:Vorlage:User de-1]]
+[[ar:قالب:مستخدم de-1]]
+[[bg:Шаблон:User de-1]]
+[[br:Patrom:User de-1]]
+[[ca:Plantilla:Babel de-1]]
+[[da:Skabelon:Bruger de-1]]
+[[de:Vorlage:User de-1]]
+[[es:Plantilla:·Usuarios por idioma (de-1)]]
+[[eu:Txantiloi:·Hizkuntza (de-1)]]
+[[eo:Ŝablono:Vikipediisto de-1]]
+[[fa:الگو:User de-1]]
+[[fo:Fyrimynd:User de-1]]
+[[fr:Modèle:User de-1]]
+[[hy:Template:User de-1]]
+[[id:Templat:User de-1]]
+[[ie:Template:User de-1]]
+[[it:Template:Utente de-1]]
+[[ja:Template:User de-1]]
+[[ku:Şablon:User de-1]]
+[[la:Formula:Usor de-1]]
+[[lt:Šablonas:User de-1]]
+[[lv:Veidne:User de-1]]
+[[nah:Plantilla:•Usuarios ic tlahtōlli (de-1)]]
+[[nds:Vörlaag:User de-1]]
+[[nl:Sjabloon:Gebruiker de-1]]
+[[pt:Predefinição:User de-1]]
+[[ro:Format:Utilizator de-1]]
+[[ru:Шаблон:User de-1]]
+[[sk:Šablóna:User de-1]]
+[[so:Template:User de-1]]
+[[sv:Mall:Användare de-1]]
+[[tpi:Template:User de-1]]
+[[uk:Шаблон:User de-1]]
+[[vi:Tiêu bản:User de-1]]
+
+&lt;/noinclude&gt;</text>
+      <sha1>ptlo04uvg7k2zkj8xaj6677gilgnjbc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:User fr-1</title>
+    <ns>10</ns>
+    <id>1962</id>
+    <revision>
+      <id>3659</id>
+      <parentid>3658</parentid>
+      <timestamp>2008-03-17T21:51:59Z</timestamp>
+      <contributor>
+        <username>EVula</username>
+        <id>254</id>
+      </contributor>
+      <minor />
+      <comment>-/+ [[ar:قالب:مستخدم fr-1]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;float:left;border:solid #C0C8FF 1px;margin:1px&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width:238px;background:#F0F8FF&quot;
+| style=&quot;width:45px;height:45px;background:#C0C8FF;text-align:center;font-size:14pt;white-space:pre&quot; | '''[[French language|fr]]-1'''
+| style=&quot;font-size:8pt;padding:1px 4pt;line-height:1.25em&quot; | Cet utilisateur peut contribuer avec un niveau '''[[:Category:User fr-1|élémentaire]]''' de '''[[:Category:User fr|français]]'''. [[Category:User fr|{{PAGENAME}}]] [[Category:User fr-1|{{PAGENAME}}]]
+|} &lt;/div&gt;
+&lt;noinclude&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+[[Category:User templates fr|fr-1]]
+
+[[af:Sjabloon:Gebruiker fr-1]]
+[[als:Vorlage:User fr-1]]
+[[am:Template:User fr-1]]
+[[an:Plantilla:User fr-1]]
+[[ang:Template:Brūcend fr-1]]
+[[ar:قالب:مستخدم fr-1]]
+[[ast:Plantía:Usuarios por idioma (fr-1)]]
+[[az:Şablon:User fr-1]]
+[[bar:Vorlage:User fr-1]]
+[[bat-smg:Šabluons:User fr-1]]
+[[be:Шаблон:User fr-1]]
+[[be-x-old:Шаблён:User fr-1]]
+[[bg:Шаблон:Потребител fr-1]]
+[[br:Patrom:User fr-1]]
+[[ca:Plantilla:Babel fr-1]]
+[[cdo:Template:User fr-1]]
+[[ce:Дакъа:Юзер fr-1]]
+[[ceb:Template:User fr-1]]
+[[chr:Template:User fr-1]]
+[[co:Template:Utilizatore fr-1]]
+[[cr:Template:User fr-1]]
+[[crh:Şablon:User fr-1]]
+[[cs:Šablona:User fr-1]]
+[[cu:Образьць:User fr-1]]
+[[cy:Nodyn:User fr-1]]
+[[da:Skabelon:Bruger fr-1]]
+[[de:Vorlage:User fr-1]]
+[[dsb:Pśedłoga:Wužywaŕ fr-1]]
+[[ee:Template:User fr-1]]
+[[el:Πρότυπο:Χρήστης fr-1]]
+[[eml:Template:User fr-1]]
+[[en:Template:User fr-1]]
+[[eo:Ŝablono:Vikipediisto fr-1]]
+[[es:Plantilla:·Usuarios por idioma (fr-1)]]
+[[et:Mall:User fr-1]]
+[[eu:Txantiloi:·Hizkuntza (fr-1)]]
+[[fa:الگو:User fr-1]]
+[[ff:Modèle:User fr-1]]
+[[fi:Malline:User fr-1]]
+[[fo:Fyrimynd:Brúkari fr-1]]
+[[fr:Modèle:Utilisateur fr-1]]
+[[fur:Model:Utent fr-1]]
+[[fy:Berjocht:Meidogger/Taal fr-1]]
+[[ga:Teimpléad:Úsáideoir fr-1]]
+[[gl:Modelo:User fr-1]]
+[[glk:الگو:User fr-1]]
+[[gn:Tembiecharã:User fr-1]]
+[[got:Template:Niutands fr-1]]
+[[gv:Template:User fr-1]]
+[[he:תבנית:User fr-1]]
+[[hi:साँचा:User fr-1]]
+[[hr:Predložak:Suradnik fr-1]]
+[[hsb:Předłoha:User fr-1]]
+[[ht:Modèl:User fr-1]]
+[[hu:Sablon:User fr-1]]
+[[hy:Կաղապար:User fr-1]]
+[[ia:Patrono:Usator fr-1]]
+[[id:Templat:User fr-1]]
+[[ie:Template:User fr-1]]
+[[ilo:Template:User fr-1]]
+[[io:Shablono:User fr-1]]
+[[is:Snið:Notandi fr-1]]
+[[it:Template:Utente fr-1]]
+[[ja:Template:User fr-1]]
+[[jbo:Template:pilno fr-1]]
+[[jv:Cithakan:User fr-1]]
+[[ka:თარგი:User fr-1]]
+[[kg:Template:Babel fr-1]]
+[[kk:Үлгі:User fr-1]]
+[[km:ទំព័រគំរូ:User fr-1]]
+[[ko:틀:User fr-1]]
+[[ku:Şablon:User fr-1]]
+[[la:Formula:Usor fr-1]]
+[[lad:Template:User fr-1]]
+[[lb:Schabloun:User fr-1]]
+[[lbe:Шаблон:User fr-1]]
+[[lmo:Template:User fr-1]]
+[[lo:ແມ່ແບບ:User fr-1]]
+[[ln:Modèle:User fr-1]]
+[[lt:Šablonas:User fr-1]]
+[[lv:Veidne:User fr-1]]
+[[map-bms:Template:User fr-1]]
+[[mg:Modèle:User fr-1]]
+[[mi:Template:User fr-1]]
+[[mk:Шаблон:User fr-1]]
+[[mn:Template:User fr-1]]
+[[mt:Template:User fr-1]]
+[[na:Template:User fr-1]]
+[[nah:Plantilla:Tlatequitiltilīlli fr-1]]
+[[nap:Template:Utente fr-1]]
+[[nds:Vörlaag:User fr-1]]
+[[nds-nl:Sjabloon:Gebruker fr-1]]
+[[new:Template:User fr-1]]
+[[nl:Sjabloon:Gebruiker fr-1]]
+[[nn:Mal:Brukar fr-1]]
+[[no:Mal:Bruker fr-1]]
+[[nov:Template:Usere fr-1]]
+[[oc:Modèl:Utilizaire fr-1]]
+[[or:Template:User fr-1]]
+[[os:Шаблон:User fr-1]]
+[[pag:Template:User fr-1]]
+[[pdc:Vorlage:User fr-1]]
+[[pl:Szablon:User fr-1]]
+[[pt:Predefinição:User fr-1]]
+[[qu:Plantilla:Ruwaq:fr-1]]
+[[rm:Template:User fr-1]]
+[[ro:Format:Utilizator fr-1]]
+[[ru:Шаблон:User fr-1]]
+[[sc:Template:Utente fr-1]]
+[[sco:Template:Uiser fr-1]]
+[[scn:Template:User fr-1]]
+[[se:Template:User fr-1]]
+[[sh:Template:User fr-1]]
+[[simple:Template:User fr-1]]
+[[so:Template:User fr-1]]
+[[sk:Šablóna:User fr-1]]
+[[sl:Predloga:Uporabnik fr-1]]
+[[sq:Stampa:User fr-1]]
+[[sr:Шаблон:Корисник fr-1]]
+[[ss:Template:User fr-1]]
+[[su:Citakan:User fr-1]]
+[[sv:Mall:Användare fr-1]]
+[[sw:Template:User fr-1]]
+[[ta:வார்ப்புரு:User fr-1]]
+[[te:మూస:User fr-1]]
+[[tet:Template:User fr-1]]
+[[th:แม่แบบ:User fr-1]]
+[[tl:Template:User fr-1]]
+[[to:Template:ʻetita fr-1]]
+[[tpi:Template:User fr-1]]
+[[tr:Şablon:Kullanıcı fr-1]]
+[[ty:Modèle:User fr-1]]
+[[udm:Шаблон:User fr-1]]
+[[uk:Шаблон:User fr-1]]
+[[ur:سانچہ:User fr-1]]
+[[uz:Shablon:User fr-1]]
+[[vec:Template:Utente fr-1]]
+[[vi:Tiêu bản:User fr-1]]
+[[vls:Patrôon:User fr-1]]
+[[vo:Samafomot:User fr-1]]
+[[wa:Modele:User fr-1]]
+[[wo:Modèle:User fr-1]]
+[[yi:מוסטער:User fr-1]]
+[[yo:Template:User fr-1]]
+[[zh:Template:User fr-1]]
+[[zh-classical:Template:User fr-1]]
+[[zh-min-nan:Template:User fr-1]]
+[[zh-yue:Template:User fr-1]]
+[[zu:Template:User fr-1]]
+&lt;/noinclude&gt;</text>
+      <sha1>08kzmmutw1r4zlbo5xru90c7t23f9lt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Nospam</title>
+    <ns>4</ns>
+    <id>1965</id>
+    <revision>
+      <id>3370</id>
+      <parentid>3319</parentid>
+      <timestamp>2007-11-16T17:28:53Z</timestamp>
+      <contributor>
+        <username>Drini</username>
+        <id>167</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">== Pages locked from recreation ==
+&lt;small&gt;1.3
+
+: [en] '''Administrators:''' add a new line here to stop pages being created 
+: [es] '''Administradores:''' añadan una nueva línea para evitar que una página vuelva a ser creada
+: [nl] '''Beheerders:''' voeg hier een nieuwe regel toe om het aanmaken van pagina's te voorkomen
+: [it] '''Amministratori:''' aggiungete una riga qui per impedire la creazione di altre pagine
+: [de] '''Administratoren:''' hier eine neue Zeile hinzufügen, um das Neueinstellen einer Seite zu verhindern
+:[ms] '''Penyelia:''' sila tambah baris baru untuk menghalang laman tersebut dicipta &lt;small&gt;(Jika sudah mempunyai laman ini dengan tajuk berbeza, sila alihkannya ke sini)&lt;/small&gt;
+&lt;/small&gt;
+====bot entries ====
+
+* {{:*}}
+* {{:Can not be against traditional law}}
+* {{:divergent money}}
+* {{:divergent money and power}}
+* {{:divergent moneyaction}}
+* {{:eu american japon language friendship}}
+* {{:english usa divergent friendship}}
+* {{:get europe and usa science kind}}
+* {{:Get power and money divergent}}
+* {{:get science kind}}
+* {{:survival of all human up to divergent}}
+* {{:National science2}}
+* {{:National science3}}
+* {{:National science4}}
+* {{:National science5}}
+* {{:National science6}}
+
+== index.php ==
+* {{:Talk:Main page/}}
+* {{:MediaWiki Talk:Ipb cant unblock}}
+* {{:MediaWiki Talk:Ipb cant unblock/}}
+* {{:MediaWiki Talk:Ipb cant unblock/index.php}}
+* {{:MediaWiki Talk:Ipb cant unblock/w/index.php}}
+* {{:MediaWiki Talk:Ipb cant unblock/w/w/index.php}}
+* {{:MediaWiki Talk:Ipb cant unblock/w/w/w/index.php}}
+* {{:MediaWiki Talk:Ipb cant unblock/w/w/w/w/w/index.php}}
+* {{:MediaWiki talk:Ipb already blocked/wiki/MediaWiki talk:Ipb already blocked/w/w/w/index.php}}
+* {{:MediaWiki talk:Ipb already blocked/wiki/MediaWiki talk:Ipb already blocked/w/w/w/w/index.php}}
+
+* {{:Talk:Main Page/}}
+* {{:Talk:Main Page/index.php}}
+* {{:Talk:Main Page/w/index.php}}
+* {{:Talk:Main Page/w/w/index.php}}
+* {{:Talk:Main Page/w/w/w/index.php}}
+* {{:Talk:Main Page/w/w/w/w/index.php}}
+
+* {{:Main Page/index.php}}
+* {{:Main Page/w/index.php}}
+* {{:Main Page/w/w/index.php}}
+* {{:Main Page/w/w/w/index.php}}
+* {{:Main Page/w/w/w/w/index.php}}
+* {{:Main Page/w/w/w/w/w/index.php}}
+
+* {{:Talk:Main Page/w/index.php?title=Main Page/w/index.php}}
+
+* {{:index.php}}
+* {{:W/index.php}}
+* {{:W/w/index.php}}
+* {{:W/w/w/index.php}}
+* {{:W/w/w/w/index.php}}
+* {{:W/w/w/w/w/index.php}}
+* {{:W/w/w/w/w/w/index.php}}
+&lt;!-- wiktionaries are case sensitive, but it won't hurt on other wikis, so again: --&gt;
+* {{:w/index.php}}
+* {{:w/w/index.php}}
+* {{:w/w/w/index.php}}
+* {{:w/w/w/w/index.php}}
+* {{:w/w/w/w/w/index.php}}
+* {{:w/w/w/w/w/w/index.php}}
+
+* {{:MediaWiki talk:Ipb expiry invalid}}
+* {{:MediaWiki talk:Ipb expiry invalid/}}
+* {{:MediaWiki talk:Ipb expiry invalid/index.php}}
+* {{:MediaWiki talk:Ipb expiry invalid/w/index.php}}
+* {{:MediaWiki talk:Ipb expiry invalid/w/w/index.php}}
+* {{:MediaWiki talk:Ipb expiry invalid/w/w/w/index.php}}
+* {{:MediaWiki talk:Ipb expiry invalid/w/w/w/w/index.php}}
+* {{:MediaWiki talk:Ipb expiry invalid/w/w/w/w/w/index.php}}
+
+* {{:MediaWiki talk:Ipb already blocked/index.php}}
+* {{:MediaWiki talk:Ipb already blocked/w/index.php}}
+* {{:MediaWiki talk:Ipb already blocked/w/w/index.php}}
+* {{:MediaWiki talk:Ipb already blocked/w/w/w/index.php}}
+* {{:MediaWiki talk:Ipb already blocked/w/w/w/w/index.php}}
+* {{:MediaWiki talk:Ipb already blocked/w/w/w/w/w/index.php}}
+
+* {{:MediaWiki talk:Ipb already blocked/wiki/MediaWiki talk:Ipb already blocked/w/w/index.php}}
+
+* {{:Talk:index.php}}
+* {{:Talk:w/index.php}}
+* {{:Talk:w/w/index.php}}
+* {{:Talk:w/w/w/index.php}}
+* {{:Talk:w/w/w/w/index.php}}
+* {{:Talk:w/w/w/w/w/index.php}}
+
+* {{:Talk:W/index.php}}
+* {{:Talk:W/w/index.php}}
+* {{:Talk:W/w/w/index.php}}
+* {{:Talk:W/w/w/w/index.php}}
+* {{:Talk:W/w/w/w/w/index.php}}
+* {{:Talk:W/w/w/w/w/w/index.php}}
+
+* {{:MediaWiki talk:Ipb expiry invalid/wiki/MediaWiki talk:Ipb expiry invalid/w/index.php}}
+* {{:MediaWiki talk:Ipb expiry invalid/wiki/MediaWiki talk:Ipb expiry invalid/w/w/index.php}}
+* {{:MediaWiki talk:Ipb expiry invalid/wiki/MediaWiki talk:Ipb expiry invalid/w/w/w/index.php}}
+* {{:MediaWiki talk:Ipb expiry invalid/wiki/MediaWiki talk:Ipb expiry invalid/w/w/w/w/index.php}}</text>
+      <sha1>2y3r6gmrok85jwcnw8038oo0aogmq7s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:User sk</title>
+    <ns>10</ns>
+    <id>1980</id>
+    <revision>
+      <id>3884</id>
+      <parentid>3338</parentid>
+      <timestamp>2008-06-11T23:38:24Z</timestamp>
+      <contributor>
+        <username>Kelovy</username>
+        <id>157</id>
+      </contributor>
+      <minor />
+      <comment>iw</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;float:left;border:solid #6EF7A7 1px;margin:1px&quot;&gt;
+&lt;table cellspacing=&quot;0&quot; style=&quot;width:238px;background:#C5FCDC&quot;&gt;&lt;tr&gt;
+&lt;td style=&quot;width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt&quot;&gt;'''sk'''&lt;/td&gt;
+&lt;td style=&quot;font-size:8pt;padding:4pt;line-height:1.25em&quot;&gt;Tento redaktor má '''[[:Category:User sk|slovenčinu]]''' ako '''[[:Category:User sk-N|materinský jazyk]]'''.[[Category:User sk|{{PAGENAME}}]][[Category:User sk-N|{{PAGENAME}}]]&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;noinclude&gt;
+[[ab:Шаблон:User sk]]
+[[af:Sjabloon:Gebruiker sk]]
+[[ak:Template:User sk]]
+[[als:Vorlage:User sk]]
+[[ar:قالب:مستخدم sk]]
+[[arc:Template:User sk]]
+[[roa-rup:Template:User sk]]
+[[frp:Modèlo:Utilisator sk]]
+[[gn:Plantilla:User sk]]
+[[as:Template:User sk]]
+[[av:Шаблон:User sk]]
+[[ay:Plantilla:Aru:sk-N]]
+[[az:Şablon:User sk]]
+[[id:Templat:User sk]]
+[[jv:Cithakan:User sk]]
+[[ms:Template:User sk]]
+[[bm:Modèle:User sk]]
+[[map-bms:Template:User sk]]
+[[su:Citakan:User sk]]
+[[zh-min-nan:Template:User sk]]
+[[ba:Ҡалып:User sk]]
+[[be:Шаблон:User sk]]
+[[be-x-old:Шаблён:User sk]]
+[[bi:Template:User sk]]
+[[bar:Vorlage:User sk]]
+[[bs:Šablon:Korisnik sk]]
+[[bg:Шаблон:Потребител sk]]
+[[bxr:Template:User sk]]
+[[ca:Plantilla:User sk]]
+[[ceb:Template:User sk]]
+[[cs:Šablona:User sk]]
+[[ch:Template:User sk]]
+[[ny:Template:User sk]]
+[[tum:Template:User sk]]
+[[sn:Template:User sk]]
+[[xal:Зура:User sk]]
+[[cho:Template:User sk]]
+[[co:Template:User sk]]
+[[za:Template:User sk]]
+[[chr:Template:User sk]]
+[[cv:Шаблон:User sk]]
+[[da:Skabelon:Bruger sk]]
+[[de:Vorlage:User sk]]
+[[mh:Template:User sk]]
+[[et:Mall:User sk]]
+[[el:Πρότυπο:Χρήστης sk]]
+[[eml:Template:User sk]]
+[[en:Template:User sk]]
+[[eo:Ŝablono:Vikipediisto sk]] 
+[[fr:Modèle:Utilisateur sk]]
+[[ff:Modèle:User sk]]
+[[sm:Template:User sk]]
+[[ga:Teimpléad:Úsáideoir sk]]
+[[ki:Template:User sk]]
+[[gv:Template:User sk]]
+[[ik:Template:User sk]]
+[[io:Template:User sk]]
+[[ig:Template:User sk]]
+[[ilo:Template:User sk]]
+[[ia:Patrono:User sk]]
+[[ie:Template:User sk]]
+[[zu:Template:User sk]]
+[[is:Snið:Notandi sk]]
+[[it:Template:Utente sk]]
+[[la:Formula:Usor sk]]
+[[lb:Template:User sk]]
+[[ln:Template:User sk]]
+[[lmo:Template:User sk]]
+[[rw:Template:User sk]]
+[[csb:Szablóna:User sk]]
+[[kk:Үлгі:User sk]]
+[[kl:Template:User sk]]
+[[sw:Template:User sk]]
+[[kv:Шаблон:User sk]]
+[[kw:Template:User sk]]
+[[ko:틀:User sk]]
+[[kg:Template:User sk]]
+[[ku:Şablon:User sk]]
+[[ml:ഫലകം:User sk]]
+[[mt: Template:User sk]]
+[[li:Sjabloon:Gebroeker sk]]
+[[lv:Veidne:User sk]]
+[[lt:Šablonas:User sk]]
+[[hu:Sablon:User sk]]
+[[mg:Template:User sk]]
+[[mi:Template:User sk]]
+[[no:Mal:Bruker sk]]
+[[nl:Sjabloon:Gebruiker sk]]
+[[ja:Template:User sk]]
+[[nv:Template:Choinish'įįhí sk]]
+[[oc:Modèl:Utilizaire sk]]
+[[pl:Szablon:User sk]]
+[[pt:Predefinição:User sk]]
+[[ro:Format:Utilizator sk]]
+[[rm:Template:User sk]]
+[[ru:Шаблон:User sk]]
+[[sq:Stampa:User sk]]
+[[simple:Template:User sk]]
+[[sk:Šablóna:User sk]]
+[[sl:Predloga:Uporabnik sk]]
+[[cu:Образьць:User sk]]
+[[fi:Malline:User sk]] 
+[[tr:Şablon:Kullanıcı sk]]
+[[udm:Шаблон:User sk]]
+[[uk:Шаблон:User sk]]
+[[vec:Template:Utente sk]]
+[[wa:Modele:User sk]]
+[[xh:Template:User sk]]
+[[ts:Template:User sk]]
+[[yo:Template:User sk]]
+[[cbk-zam:Template:User sk]]
+[[zea:Sjabloon:User sk]]
+[[zh:Template:User sk]]
+[[zh-classical:Template:User sk]]
+[[zh-yue:Template:User sk]]
+[[bat-smg:Šabluons:User sk]]
+&lt;/noinclude&gt;</text>
+      <sha1>ilpfbp228gefii4wksuc2ojrhov1lbf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User sk-N</title>
+    <ns>14</ns>
+    <id>1981</id>
+    <revision>
+      <id>3921</id>
+      <parentid>3905</parentid>
+      <timestamp>2008-06-25T11:42:35Z</timestamp>
+      <contributor>
+        <username>SieBot</username>
+        <id>193</id>
+      </contributor>
+      <minor />
+      <comment>robot  Modifying: [[pt:Categoria:Usuário sk]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;float:left;border:solid #6EF7A7 1px;margin:1px&quot;&gt;
+&lt;table cellspacing=&quot;0&quot; style=&quot;width:238px;background:#C5FCDC&quot;&gt;&lt;tr&gt;
+&lt;td style=&quot;width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt&quot;&gt;'''sk'''&lt;/td&gt;
+&lt;td style=&quot;font-size:8pt;padding:4pt;line-height:1.25em&quot;&gt;Títo redaktori majú '''[[:Category:User sk|slovenčinu]]''' ako '''[[:Category:User sk-N|materinský jazyk]]'''.[[Category:User sk|{{PAGENAME}}]][[Category:User sk|{{PAGENAME}}]]&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+[[Category:User sk|N]]
+
+[[ab:Категория:User sk-N]]
+[[af:Kategorie:Gebruiker sk-N]]
+[[ak:Category:User sk-N]]
+[[als:Kategorie:User sk-N]]
+[[am:Category:User sk-N]]
+[[an:Categoría:Usuario sk-N]]
+[[ang:Category:User sk-N]]
+[[ar:تصنيف:مستخدم sk-N]]
+[[arc:Category:User sk-N]]
+[[as:Category:User sk-N]]
+[[av:Категория:User sk-N]]
+[[ay:Categoría:Aru:sk-N]]
+[[az:Kateqoriya:User sk-A]]
+[[ba:Категория:User sk-N]]
+[[bar:Kategorie:User sk-N]]
+[[bat-smg:Kateguorėjė:User sk-N]]
+[[be:Катэгорыя:User sk-N]]
+[[be-x-old:Катэгорыя:Вікіпэдыйцы, якія ведаюць мову sk-N]]
+[[bg:Категория:Потребител sk-N]]
+[[bi:Category:User sk-N]]
+[[bm:Catégorie:User sk-N]]
+[[br:Rummad:Implijer sk-M]]
+[[bs:Kategorija:Korisnik sk-N]]
+[[bxr:Category:User sk-N]]
+[[ca:Categoria:Usuaris sk-N]]
+[[cbk-zam:Categoría:User sk-N]]
+[[ceb:Category:User sk-N]]
+[[ch:Category:User sk-N]]
+[[chr:Category:User sk-N]]
+[[cs:Kategorie:User sk-N]]
+[[csb:Kategòrëjô:Brëkòwnik sk-N]]
+[[cv:Категори:User sk-N]]
+[[cy:Categori:Defnyddiwr sk-M]]
+[[da:Kategori:Brugere sk-N]]
+[[de:Kategorie:User sk-M]]
+[[diq:Category:User sk-N]]
+[[el:Κατηγορία:Χρήστης sk-M]]
+[[eml:Categoria:User sk-N]]
+[[en:Category:User sk-N]]
+[[eo:Kategorio:Vikipediisto sk-D]]
+[[es:Categoría:Usuarios por idioma - Eslovaco nativo]]
+[[et:Kategooria:User sk-N]]
+[[eu:Kategoria:Eslovakiera ama hizkuntza]]
+[[ff:Catégorie:User sk-N]]
+[[fi:Luokka:User sk-N]]
+[[fiu-vro:Katõgooria:User sk-N]]
+[[fr:Catégorie:Utilisateur sk-M]]
+[[frp:Catègorie:Utilisator sk-N]]
+[[fy:Kategory:Meidogger/Taal sk-M]]
+[[ga:Catagóir:Úsáideoir sk-N]]
+[[gn:Ñemohenda:User sk-N]]
+[[gv:Category:User sk-N]]
+[[he:קטגוריה:User sk-N]]
+[[hsb:Kategorija:User sk-N]]
+[[hu:Kategória:User sk-N]]
+[[ia:Categoria:Usator sk-N]]
+[[id:Kategori:User sk-N]]
+[[ie:Category:User sk-M]]
+[[ig:Category:User sk-N]]
+[[ik:Category:User sk-N]]
+[[ilo:Category:User sk-N]]
+[[io:Kategorio:User sk-N]]
+[[is:Flokkur:Notandi sk-N]]
+[[it:Categoria:Utenti sk-M]]
+[[ja:Category:User sk-N]]
+[[jv:Kategori:User sk-N]]
+[[kg:Category:User sk-N]]
+[[ki:Category:User sk-N]]
+[[kk:Санат:User sk-N]]
+[[kl:Kategori:User sk-N]]
+[[ko:분류:사용자 sk-M]]
+[[ksh:Saachjrupp:Wikipedia:Medmaacher hätt ßlowakėsh als MottoShprooch]]
+[[ku:Kategorî:User sk-N]]
+[[kv:Категория:User sk-N]]
+[[kw:Category:User sk-N]]
+[[la:Categoria:Usor sk-N]]
+[[lad:Categoría:User sk-N]]
+[[lb:Kategorie:User sk-N]]
+[[li:Categorie:Gebroeker sk-N]]
+[[lmo:Categoria:User sk-N]]
+[[ln:Catégorie:User sk-N]]
+[[lt:Kategorija:User sk-N]]
+[[lv:Kategorija:User sk-N]]
+[[map-bms:Kategori:User sk-N]]
+[[mg:Catégorie:User sk-N]]
+[[mi:Category:User sk-N]]
+[[ml:വിഭാഗം:User sk-N]]
+[[ms:Kategori:Pengguna sk-N]]
+[[mt:Category:User sk-N]]
+[[nl:Categorie:Gebruiker sk-N]]
+[[nn:Kategori:Brukar sk-N]]
+[[no:Kategori:Bruker sk-N]]
+[[nv:T'ááłáhági át'éego:Choinish'įįhí sk-N]]
+[[ny:Category:User sk-N]]
+[[oc:Categoria:Utilizaire sk-M]]
+[[pag:Category:User sk-N]]
+[[pl:Kategoria:User sk-N]]
+[[pt:Categoria:Usuário sk]]
+[[rm:Category:User sk-N]]
+[[ro:Categorie:Utilizator sk-N]]
+[[roa-rup:Category:User sk-N]]
+[[roa-tara:Category:User sk-N]]
+[[ru:Категория:User sk-N]]
+[[rw:Category:User sk-N]]
+[[simple:Category:User sk-N]]
+[[sk:Kategória:User sk-N]]
+[[sl:Kategorija:Uporabnik sk-N]]
+[[sm:Category:User sk-N]]
+[[sn:Category:User sk-N]]
+[[so:Category:User sk-N]]
+[[sq:Category:User sk-N]]
+[[su:Kategori:User sk-N]]
+[[sv:Kategori:Användare sk-N]]
+[[sw:Category:User sk-N]]
+[[tpi:Category:Yusa sk-N]]
+[[tr:Kategori:Kullanıcı sk-N]]
+[[ts:Category:User sk-N]]
+[[tt:Törkem:Äğzä sk-N]]
+[[tum:Category:User sk-N]]
+[[udm:Категория:User sk-N]]
+[[ug:Category:User sk-N]]
+[[uk:Категорія:User sk-N]]
+[[ve:Category:User sk-N]]
+[[vec:Categoria:User sk-N]]
+[[vi:Thể loại:User sk-N]]
+[[vls:Categorie:User sk-N]]
+[[wa:Categoreye:Uzeus sk-N]]
+[[war:Category:User sk-N]]
+[[wo:Catégorie:Jëfandikukat sk-N]]
+[[wuu:Category:User sk-N]]
+[[xal:Янз:User sk-N]]
+[[xh:Category:User sk-N]]
+[[yo:Category:User sk-N]]
+[[za:Category:User sk-N]]
+[[zea:Categorie:Gebruker sk-M]]
+[[zh:Category:Sk 母語使用者]]
+[[zh-classical:Category:User sk-N]]
+[[zh-min-nan:Category:User sk-N]]
+[[zh-yue:Category:User sk-N]]
+[[zu:Category:User sk-N]]</text>
+      <sha1>ft8qiflxugnvy4vlx5xqat68jf3g7tt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User sk</title>
+    <ns>14</ns>
+    <id>1982</id>
+    <revision>
+      <id>3954</id>
+      <parentid>3920</parentid>
+      <timestamp>2008-07-04T12:33:29Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Wikipedians by language]]
+
+[[ab:Категория:User sk]]
+[[af:Kategorie:Gebruiker sk]]
+[[ak:Category:User sk]]
+[[als:Kategorie:User sk]]
+[[am:Category:User sk]]
+[[an:Categoría:Usuario sk]]
+[[ang:Category:User sk]]
+[[ar:تصنيف:مستخدم sk]]
+[[arc:Category:User sk]]
+[[as:Category:User sk]]
+[[av:Категория:User sk]]
+[[ay:Categoría:Aru:sk]]
+[[az:Kateqoriya:User sk]]
+[[ba:Категория:User sk]]
+[[bar:Kategorie:User sk]]
+[[bat-smg:Kateguorėjė:User sk]]
+[[be:Катэгорыя:User sk]]
+[[be-x-old:Катэгорыя:Вікіпэдыйцы, якія ведаюць мову sk]]
+[[bg:Категория:Потребител sk]]
+[[bi:Category:User sk]]
+[[bm:Catégorie:User sk]]
+[[br:Rummad:Implijer sk]]
+[[bs:Kategorija:Korisnik sk]]
+[[bxr:Category:User sk]]
+[[ca:Categoria:Usuaris sk]]
+[[cbk-zam:Categoría:User sk]]
+[[ceb:Category:User sk]]
+[[ch:Category:User sk]]
+[[chr:Category:User sk]]
+[[cs:Kategorie:User sk]]
+[[csb:Kategòrëjô:Brëkòwnik sk]]
+[[cv:Категори:User sk]]
+[[cy:Categori:Defnyddiwr sk]]
+[[da:Kategori:Brugere sk]]
+[[de:Kategorie:User sk]]
+[[diq:Category:User sk]]
+[[dsb:Kategorija:Wužywaŕ sk]]
+[[el:Κατηγορία:Χρήστης sk]]
+[[eml:Categoria:User sk]]
+[[en:Category:User sk]]
+[[eo:Kategorio:Vikipediisto sk]]
+[[es:Categoría:Usuarios por idioma - Eslovaco]]
+[[et:Kategooria:User sk]]
+[[eu:Kategoria:Eslovakiera (erabiltzaileak)]]
+[[ff:Catégorie:User sk]]
+[[fi:Luokka:User sk]]
+[[fiu-vro:Katõgooria:User sk]]
+[[fr:Catégorie:Utilisateur sk]]
+[[frp:Catègorie:Utilisator sk]]
+[[fur:Categorie:Utent sk]]
+[[fy:Kategory:Meidogger/Taal sk]]
+[[ga:Catagóir:Úsáideoir sk]]
+[[gn:Ñemohenda:User sk]]
+[[gv:Category:User sk]]
+[[he:קטגוריה:User sk]]
+[[hr:Kategorija:Suradnik sk]]
+[[hsb:Kategorija:User sk]]
+[[hu:Kategória:User sk]]
+[[ia:Categoria:Usator sk]]
+[[id:Kategori:User sk]]
+[[ie:Category:User sk]]
+[[ig:Category:User sk]]
+[[ik:Category:User sk]]
+[[ilo:Category:User sk]]
+[[io:Kategorio:User sk]]
+[[is:Flokkur:Notandi sk]]
+[[it:Categoria:Utenti sk]]
+[[ja:Category:User sk]]
+[[jv:Kategori:User sk]]
+[[ka:კატეგორია:მომხმარებელი sk]]
+[[kg:Category:User sk]]
+[[kk:Санат:User sk]]
+[[kl:Kategori:User sk]]
+[[ko:분류:사용자 sk]]
+[[ksh:Saachjrupp:Wikipedia:Medmaacher kann ßlowakėsh]]
+[[ku:Kategorî:User sk]]
+[[kv:Категория:User sk]]
+[[kw:Category:User sk]]
+[[la:Categoria:Usor sk]]
+[[lad:Categoría:User sk]]
+[[lb:Kategorie:User sk]]
+[[li:Categorie:Gebroeker sk]]
+[[lmo:Categoria:User sk]]
+[[ln:Catégorie:User sk]]
+[[lt:Kategorija:User sk]]
+[[lv:Kategorija:User sk]]
+[[map-bms:Kategori:User sk]]
+[[mg:Catégorie:User sk]]
+[[mi:Category:User sk]]
+[[ml:വിഭാഗം:User sk]]
+[[ms:Kategori:Pengguna sk]]
+[[mt:Category:User sk]]
+[[nl:Categorie:Gebruiker sk]]
+[[nn:Kategori:Brukar sk]]
+[[no:Kategori:Bruker sk]]
+[[nv:T'ááłáhági át'éego:Choinish'įįhí sk]]
+[[ny:Category:User sk]]
+[[oc:Categoria:Utilizaire sk]]
+[[pag:Category:User sk]]
+[[pl:Kategoria:User sk]]
+[[pt:Categoria:Usuários sk]]
+[[rm:Category:User sk]]
+[[ro:Categorie:Utilizator sk]]
+[[roa-rup:Category:User sk]]
+[[roa-tara:Category:User sk]]
+[[ru:Категория:User sk]]
+[[rw:Category:User sk]]
+[[sh:Category:User sk]]
+[[simple:Category:User sk]]
+[[sk:Kategória:User sk]]
+[[sl:Kategorija:Uporabnik sk]]
+[[sm:Category:User sk]]
+[[sn:Category:User sk]]
+[[so:Category:User sk]]
+[[sq:Category:User sk]]
+[[sr:Категорија:Корисник sk]]
+[[su:Kategori:User sk]]
+[[sv:Kategori:Användare sk]]
+[[sw:Category:User sk]]
+[[th:หมวดหมู่:User sk]]
+[[tpi:Category:Yusa sk]]
+[[tr:Kategori:Kullanıcı sk]]
+[[ts:Category:User sk]]
+[[tt:Törkem:Äğzä sk]]
+[[tum:Category:User sk]]
+[[udm:Категория:User sk]]
+[[uk:Категорія:User sk]]
+[[ve:Category:User sk]]
+[[vec:Categoria:User sk]]
+[[vi:Thể loại:User sk]]
+[[wa:Categoreye:Uzeus sk]]
+[[war:Category:User sk]]
+[[wo:Catégorie:Jëfandikukat sk]]
+[[wuu:Category:User sk]]
+[[xal:Янз:User sk]]
+[[xh:Category:User sk]]
+[[yo:Category:User sk]]
+[[za:Category:User sk]]
+[[zea:Categorie:Gebruker sk]]
+[[zh:Category:Sk 使用者]]
+[[zh-classical:Category:User sk]]
+[[zh-min-nan:Category:User sk]]
+[[zh-yue:Category:User sk]]
+[[zu:Category:User sk]]</text>
+      <sha1>e0em2pnd4cqsgmqlo3k6204u5yn6axu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:User:P/Disc frame</title>
+    <ns>10</ns>
+    <id>1992</id>
+    <revision>
+      <id>3397</id>
+      <timestamp>2007-11-20T15:02:33Z</timestamp>
+      <contributor>
+        <username>P~aawiki</username>
+        <id>218</id>
+      </contributor>
+      <comment>New page: &lt;div style=&quot;position:absolute; z-index:100; right:315px; top:20px; font-size:97%;&quot; class=&quot;metadata; plainlinks&quot;&gt; {| | |} &lt;/div&gt; &lt;br /&gt; &lt;div style=&quot;font-family: Trebuchet MS; background: #F...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;position:absolute; z-index:100; right:315px; top:20px; font-size:97%;&quot; class=&quot;metadata; plainlinks&quot;&gt;
+{|
+|
+|}
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div style=&quot;font-family: Trebuchet MS; background: #F1F2EF; padding: 1em; margin-top: -13px; border: solid 5px #079F1A; -moz-border-radius: 0.77em&quot;&gt;&lt;noinclude&gt;&lt;/div&gt;&lt;/noinclude&gt;</text>
+      <sha1>t99b57at01rb2hbiw2wrdwibdt89amk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Style/IPA</title>
+    <ns>10</ns>
+    <id>2001</id>
+    <revision>
+      <id>3421</id>
+      <timestamp>2007-11-25T00:53:10Z</timestamp>
+      <contributor>
+        <username>Gangleri</username>
+        <id>88</id>
+      </contributor>
+      <comment>fun [[wikt:yi:template:style/IPA]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;span style=&quot;white-space: font-size:{{{size|110%}}};padding:4pt;line-height:1.25em; font-family: {{{font-family|'Lucida Sans Unicode', 'Arial Unicode MS', Gentium, GentiumAlt, tahoma, Code2000, 'Doulos SIL', Gentium, 'TITUS Cyberbit Basic', 'Lucida Grande', 'DejaVu Sans', 'Bitstream Vera Sans', 'Bitstream Cyberbit', Arial, sans-serif}}};&quot; dir=&quot;{{{dir|ltr}}}&quot; &gt;{{{IPA|/jidiʃ lɛbt/}}}&lt;/span&gt;</text>
+      <sha1>ilotabcvrgc166ho54cbm92jpi3gl1n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Style/yid</title>
+    <ns>10</ns>
+    <id>2002</id>
+    <revision>
+      <id>3422</id>
+      <timestamp>2007-11-25T00:53:45Z</timestamp>
+      <contributor>
+        <username>Gangleri</username>
+        <id>88</id>
+      </contributor>
+      <comment>fun [[wikt:yi:template:style/yid]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;span style=&quot;font-size:{{{size|12pt}}};padding:4pt;line-height:1.25em; font-family: {{{font-family|'Times New Roman'}}};&quot; dir=&quot;{{{dir|rtl}}}&quot; &gt;{{{yid|ײִדיש לעבט}}}&lt;/span&gt;</text>
+      <sha1>dvv8l5egvjv6jamv7gbgpahzt9x4gvb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Titleblacklist</title>
+    <ns>8</ns>
+    <id>2016</id>
+    <revision>
+      <id>3496</id>
+      <timestamp>2008-01-02T14:31:19Z</timestamp>
+      <contributor>
+        <username>Spacebirdy</username>
+        <id>226</id>
+      </contributor>
+      <comment>New page:  # That's a title blacklist  # Every title that matches regex here are forbidden to create and edit  # Use &quot;#&quot; for comments  .*index\.php.*</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve"> # That's a title blacklist
+ # Every title that matches regex here are forbidden to create and edit
+ # Use &quot;#&quot; for comments
+ .*index\.php.*</text>
+      <sha1>0kd7ycx6c2rs0o473taj6l8tnadbjxl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Cc-by-sa-2.0</title>
+    <ns>10</ns>
+    <id>2061</id>
+    <revision>
+      <id>3675</id>
+      <timestamp>2008-03-20T23:49:38Z</timestamp>
+      <contributor>
+        <username>Glitter</username>
+        <id>257</id>
+      </contributor>
+      <comment>New page: http://en.wikipedia.org/wiki/Creative_Commons</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">http://en.wikipedia.org/wiki/Creative_Commons</text>
+      <sha1>pu2jvirmcc8v3mxuk7vsnduisgyvdtm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Statistics</title>
+    <ns>4</ns>
+    <id>2073</id>
+    <revision>
+      <id>3714</id>
+      <timestamp>2008-04-06T03:54:17Z</timestamp>
+      <contributor>
+        <username>MelancholieBot</username>
+        <id>288</id>
+      </contributor>
+      <minor />
+      <comment>new</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">* [[Special:Statistics]]
+
+* [http://stats.wikimedia.org/EN/TablesArticlesTotal.htm Wikipedia statistics]
+** [http://stats.wikimedia.org/EN/TablesWikipediaAA.htm aa.wikipedia statistics – tables]
+** [http://stats.wikimedia.org/EN/ChartsWikipediaAA.htm aa.wikipedia statistics – charts]
+
+
+* &lt;u&gt;THEwikiStics&lt;/u&gt;: [http://falsikon.de/wikistics/latest/aa/ Page hits (Views) of this wiki] ([http://falsikon.de/wikistics/latest/ comparison])&lt;!-- or: stats.grok.se --&gt;
+
+
+* [http://technorati.com/search/aa.wikipedia.org Technorati]
+
+* [http://www.attentionmeter.com/?d1=aa.wikipedia.org AttentionMeter]
+
+* [http://popuri.us/?u=http%3A%2F%2Faa.wikipedia.org popuri.us]&lt;!-- or: socialmeter.com --&gt;
+
+* [http://toolbar.netcraft.com/site_report?url=aa.wikipedia.org Netcraft statistics]</text>
+      <sha1>nzlgqrg9glj86nwyce1fu8rhmgajyzo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User fr</title>
+    <ns>14</ns>
+    <id>2085</id>
+    <revision>
+      <id>3952</id>
+      <parentid>3760</parentid>
+      <timestamp>2008-07-04T12:33:00Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Wikipedians by language]]
+
+[[fr:Catégorie:Utilisateur fr]]
+
+[[als:Kategorie:User fr]]
+[[am:Category:User fr]]
+[[an:Categoría:Usuario fr]]
+[[ang:Category:User fr]]
+[[ar:تصنيف:مستخدم fr]]
+[[ast:Categoría:Usuarios por idioma - Francés]]
+[[az:Kateqoriya:User fr]]
+[[ba:Категория:User fr]]
+[[bar:Kategorie:User fr]]
+[[bat-smg:Kateguorėjė:User fr]]
+[[be:Катэгорыя:User fr]]
+[[be-x-old:Катэгорыя:Вікіпэдыйцы, якія ведаюць мову fr]]
+[[bg:Категория:Потребител fr]]
+[[bm:Catégorie:User fr]]
+[[br:Rummad:Implijer fr]]
+[[bs:Kategorija:Korisnik fr]]
+[[ca:Categoria:Usuaris fr]]
+[[cdo:Category:User fr]]
+[[ceb:Category:User fr]]
+[[chr:Category:User fr]]
+[[cr:Category:User fr]]
+[[cs:Kategorie:User fr]]
+[[csb:Kategòrëjô:Brëkòwnik fr]]
+[[cu:Катигорї:User fr]]
+[[cy:Categori:User fr]]
+[[da:Kategori:Brugere fr]]
+[[de:Kategorie:User fr]]
+[[ee:Category:User fr]]
+[[el:Κατηγορία:Χρήστης fr]]
+[[eml:Categoria:User fr]]
+[[en:Category:User fr]]
+[[eo:Kategorio:Vikipediisto fr]]
+[[es:Categoría:Usuarios por idioma - Francés]]
+[[et:Kategooria:User fr]]
+[[eu:Kategoria:Frantsesa (erabiltzaileak)]]
+[[fa:رده:User fr]]
+[[fi:Luokka:User fr]]
+[[fiu-vro:Katõgooria:User fr]]
+[[fo:Bólkur:Brúkari fr]]
+[[fur:Categorie:Utent fr]]
+[[fy:Kategory:Meidogger/Taal fr]]
+[[ga:Catagóir:Úsáideoir fr]]
+[[gd:Category:User fr]]
+[[gl:Categoría:Usuario fr]]
+[[gn:Ñemohenda:User fr]]
+[[he:קטגוריה:User fr]]
+[[hr:Kategorija:Suradnik fr]]
+[[hsb:Kategorija:User fr]]
+[[ht:Kategori:User fr]]
+[[hu:Kategória:User fr]]
+[[hy:Կատեգորիա:User fr]]
+[[ia:Categoria:Usator fr]]
+[[id:Kategori:User fr]]
+[[ie:Category:User fr]]
+[[ilo:Category:User fr]]
+[[io:Kategorio:User fr]]
+[[is:Flokkur:Notandi fr]]
+[[it:Categoria:Utenti fr]]
+[[iu:Category:User fr]]
+[[ja:Category:User fr]]
+[[jbo:Category:pilno fr]]
+[[jv:Kategori:User fr]]
+[[ka:კატეგორია:მომხმარებელი fr]]
+[[kk:Санат:User fr]]
+[[km:ចំណាត់ក្រុម:User fr]]
+[[ko:분류:사용자 fr]]
+[[ksh:Saachjrupp:Wikipedia:Medmaacher kann Franzüsesh]]
+[[ku:Kategorî:User fr]]
+[[kv:Категория:User fr]]
+[[kw:Category:User fr]]
+[[ky:Category:User fr]]
+[[la:Categoria:Usor fr]]
+[[lad:Category:User fr]]
+[[lb:Kategorie:User fr]]
+[[li:Categorie:Gebroeker fr]]
+[[ln:Catégorie:User fr]]
+[[lo:ໝວດ:User fr]]
+[[lt:Kategorija:User fr]]
+[[lv:Kategorija:User fr]]
+[[mg:Catégorie:User fr]]
+[[mi:Category:User fr]]
+[[mk:Категорија:Корисник fr]]
+[[mn:Category:User fr]]
+[[ms:Kategori:Pengguna fr]]
+[[mt:Category:User fr]]
+[[na:Category:User fr]]
+[[nap:Categoria:Utenti fr]]
+[[nds:Kategorie:User fr]]
+[[nl:Categorie:Gebruiker fr]]
+[[no:Kategori:Bruker fr]]
+[[oc:Categoria:Utilizaire fr]]
+[[or:Category:User fr]]
+[[pag:Category:User fr]]
+[[pap:Category:User fr]]
+[[pdc:Kategorie:Benutzer fr]]
+[[pl:Kategoria:User fr]]
+[[pt:Categoria:Usuários fr]]
+[[qu:Katiguriya:Ruwaq:fr]]
+[[roa-rup:Category:User fr]]
+[[ru:Категория:User fr]]
+[[scn:Catigurìa:User fr]]
+[[sco:Category:User fr]]
+[[sh:Category:User fr]]
+[[simple:Category:User fr]]
+[[sk:Kategória:User fr]]
+[[sl:Kategorija:Uporabnik fr]]
+[[sm:Category:User fr]]
+[[sq:Category:User fr]]
+[[sr:Категорија:Корисник fr]]
+[[su:Kategori:User fr]]
+[[sv:Kategori:Användare fr]]
+[[sw:Category:User fr]]
+[[ta:பகுப்பு:User fr]]
+[[te:వర్గం:User fr]]
+[[tg:Гурӯҳ:User fr]]
+[[th:หมวดหมู่:User fr]]
+[[tl:Category:User fr]]
+[[tr:Kategori:User fr]]
+[[ty:Catégorie:User fr]]
+[[udm:Категория:User fr]]
+[[uk:Категорія:User fr]]
+[[ur:زمرہ:User fr]]
+[[uz:Kategoriya:User fr]]
+[[vec:Categoria:Utenti fr]]
+[[vi:Thể loại:User fr]]
+[[vo:Klad:Geban fr]]
+[[wa:Categoreye:Uzeus fr]]
+[[war:Category:User fr]]
+[[wo:Catégorie:User fr]]
+[[yi:קאַטעגאָריע:באַניצער fr]]
+[[zh:Category:Fr 使用者]]
+[[zh-classical:Category:User fr]]
+[[zh-min-nan:Category:User fr]]
+[[zh-yue:Category:User fr]]</text>
+      <sha1>9zcms74h56fzecrs0gehsabdr10jcxm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:User fr</title>
+    <ns>10</ns>
+    <id>2087</id>
+    <revision>
+      <id>3763</id>
+      <parentid>3762</parentid>
+      <timestamp>2008-04-23T20:13:59Z</timestamp>
+      <contributor>
+        <username>Hercule</username>
+        <id>293</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;float:left;border:solid #6EF7A7 1px;margin:1px&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width:238px;background:#C5FCDC&quot;
+| style=&quot;width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt&quot; | '''[[Français|fr]]'''
+| style=&quot;font-size:8pt;padding:4pt;line-height:1.25em&quot; | Cet utilisateur a pour '''[[:Category:User fr-N|langue maternelle]]''' le '''[[:Category:User fr|français]]'''. [[Category:User fr|{{PAGENAME}}]] [[Category:User fr-N|{{PAGENAME}}]]
+|} &lt;/div&gt;</text>
+      <sha1>1bnjcfk01guri1rpfbwo4mgfjkelvvx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:User es-2</title>
+    <ns>10</ns>
+    <id>2088</id>
+    <revision>
+      <id>3764</id>
+      <timestamp>2008-04-23T20:14:55Z</timestamp>
+      <contributor>
+        <username>Hercule</username>
+        <id>293</id>
+      </contributor>
+      <comment>New page: &lt;div style=&quot;float:left;border:solid #77E0E8 1px;margin:1px&quot;&gt; {| cellspacing=&quot;0&quot; style=&quot;width:238px;background:#D0F8FF&quot; | style=&quot;width:45px;height:45px;background:#77E0E8;text-align:center;...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;float:left;border:solid #77E0E8 1px;margin:1px&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width:238px;background:#D0F8FF&quot;
+| style=&quot;width:45px;height:45px;background:#77E0E8;text-align:center;font-size:14pt&quot; | '''[[Bahasa Sepanyol|es]]-2'''
+| style=&quot;font-size:8pt;padding:4pt;line-height:1.25em&quot; | Este usuario puede contribuir con un nivel '''[[:Category:User es-2|intermedio]]''' de '''[[:Category:User  es|español]]'''. [[Category:User  es|{{PAGENAME}}]] [[Category:User es-2|{{PAGENAME}}]]
+|} &lt;/div&gt;</text>
+      <sha1>2c2efu1os25ur1jiz00fksxq8xvhwqw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User en</title>
+    <ns>14</ns>
+    <id>2090</id>
+    <revision>
+      <id>3950</id>
+      <parentid>3768</parentid>
+      <timestamp>2008-07-04T12:31:52Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Wikipedians by language]]
+
+[[af:Kategorie:Gebruiker en]]
+[[als:Kategorie:User en]]
+[[am:Category:User en]]
+[[an:Categoría:Usuario en]]
+[[ang:Category:Brūcend en]]
+[[ar:تصنيف:مستخدم en]]
+[[as:Category:User en]]
+[[ast:Categoría:Usuarios por idioma - Inglés]]
+[[ay:Categoría:Aru:en]]
+[[az:Kateqoriya:User en]]
+[[ba:Категория:User en]]
+[[bar:Kategorie:User en]]
+[[bat-smg:Kateguorėjė:User en]]
+[[be:Катэгорыя:User en]]
+[[bg:Категория:Потребител en]]
+[[bm:Catégorie:User en]]
+[[bpy:থাক:सदस्य en]]
+[[br:Rummad:Implijer en]]
+[[bs:Kategorija:Korisnik en]]
+[[ca:Categoria:Usuaris en]]
+[[cdo:Category:User en]]
+[[ceb:Category:User en]]
+[[chr:Category:User en]]
+[[cr:Category:User en]]
+[[cs:Kategorie:User en]]
+[[csb:Kategòrëjô:Brëkòwnik en]]
+[[cu:Катигорї:User en]]
+[[cv:Категори:User en]]
+[[cy:Categori:User en]]
+[[da:Kategori:Brugere en]]
+[[de:Kategorie:User en]]
+[[diq:Category:User en]]
+[[ee:Category:User en]]
+[[el:Κατηγορία:Χρήστης en]]
+[[eml:Categoria:User en]]
+[[en:Category:User en]]
+[[eo:Kategorio:Vikipediisto en]]
+[[es:Categoría:Usuarios por idioma - Inglés]]
+[[et:Kategooria:User en]]
+[[eu:Kategoria:Ingelesa (erabiltzaileak)]]
+[[fa:رده:User en]]
+[[fi:Luokka:User en]]
+[[fiu-vro:Katõgooria:User en]]
+[[fo:Bólkur:Brúkari en]]
+[[fr:Catégorie:Utilisateur en]]
+[[fur:Categorie:Utent en]]
+[[fy:Kategory:Meidogger/Taal en]]
+[[ga:Catagóir:Úsáideoir en]]
+[[gd:Category:User en]]
+[[gl:Categoría:Usuario en]]
+[[gn:Ñemohenda:User en]]
+[[got:Category:Niutands en]]
+[[gv:Category:User en]]
+[[he:קטגוריה:User en]]
+[[hi:श्रेणी:सदस्य en]]
+[[hr:Kategorija:Suradnik en]]
+[[hsb:Kategorija:User en]]
+[[ht:Kategori:User en]]
+[[hu:Kategória:User en]]
+[[hy:Կատեգորիա:User en]]
+[[ia:Categoria:Usator en]]
+[[id:Kategori:User en]]
+[[ie:Category:User en]]
+[[ig:Category:User en]]
+[[ilo:Category:User en]]
+[[io:Kategorio:User en]]
+[[is:Flokkur:Notandi en]]
+[[it:Categoria:Utenti en]]
+[[ja:Category:User en]]
+[[jbo:Category:pilno en]]
+[[jv:Kategori:User en]]
+[[ka:კატეგორია:მომხმარებელი en]]
+[[kk:Санат:User en]]
+[[km:ចំណាត់ក្រុម:User en]]
+[[kn:ವರ್ಗ:ಸದಸ್ಯ en]]
+[[ko:분류:사용자 en]]
+[[ksh:Saachjrupp:Wikipedia:Medmaacher kann Änglish]]
+[[ku:Kategorî:User en]]
+[[kv:Категория:User en]]
+[[kw:Category:User en]]
+[[ky:Category:User en]]
+[[la:Categoria:Usor en]]
+[[lad:Category:User en]]
+[[lb:Kategorie:User en]]
+[[li:Categorie:Gebroeker en]]
+[[lij:Categoria:User en]]
+[[lmo:Categoria:User en]]
+[[ln:Catégorie:User en]]
+[[lo:ໝວດ:User en]]
+[[lt:Kategorija:User en]]
+[[lv:Kategorija:User en]]
+[[map-bms:Category:User en]]
+[[mg:Catégorie:User en]]
+[[mi:Category:User en]]
+[[mk:Категорија:Корисник en]]
+[[mn:Category:User en]]
+[[mr:वर्ग:User en]]
+[[ms:Kategori:Pengguna en]]
+[[mt:Category:User en]]
+[[na:Category:User en]]
+[[nap:Categoria:User eng]]
+[[nds:Kategorie:User en]]
+[[nds-nl:Kattegerie:Gebruker en]]
+[[new:पुचः:User en]]
+[[nl:Categorie:Gebruiker en]]
+[[nn:Kategori:Brukar en]]
+[[no:Kategori:Bruker en]]
+[[oc:Categoria:Utilizaire en]]
+[[or:Category:User en]]
+[[os:Категори:User en]]
+[[pag:Category:User en]]
+[[pap:Category:User en]]
+[[pdc:Kategorie:Benutzer en]]
+[[pl:Kategoria:User en]]
+[[ps:وېشنيزه:User en]]
+[[pt:Categoria:Usuários en]]
+[[qu:Katiguriya:Ruwaq:en]]
+[[rm:Category:User en]]
+[[ro:Categorie:Utilizator en]]
+[[roa-rup:Category:User en]]
+[[ru:Категория:User en]]
+[[scn:Catigurìa:User en]]
+[[sco:Category:User en]]
+[[sd:Category:User en]]
+[[se:Category:User en]]
+[[sh:Category:User en]]
+[[si:Category:User en]]
+[[simple:Category:User en]]
+[[sk:Kategória:User en]]
+[[sl:Kategorija:Uporabnik en]]
+[[sm:Category:User en]]
+[[so:Category:User en]]
+[[sq:Category:User en]]
+[[sr:Категорија:Корисник en]]
+[[su:Kategori:User en]]
+[[sv:Kategori:Användare en]]
+[[sw:Category:User en]]
+[[ta:பகுப்பு:User en]]
+[[te:వర్గం:User en]]
+[[tg:Гурӯҳ:User en]]
+[[th:หมวดหมู่:User en]]
+[[tk:Category:User en]]
+[[tl:Category:User en]]
+[[tpi:Category:Yusa en]]
+[[tr:Kategori:User en]]
+[[tt:Törkem:Äğzä en]]
+[[ty:Catégorie:User en]]
+[[udm:Категория:User en]]
+[[ug:Category:User en]]
+[[uk:Категорія:User en]]
+[[ur:زمرہ:User en]]
+[[uz:Kategoriya:User en]]
+[[vec:Categoria:Utenti en]]
+[[vi:Thể loại:User en]]
+[[vo:Klad:Geban en]]
+[[wa:Categoreye:Uzeus en]]
+[[war:Category:User en]]
+[[wo:Catégorie:User en]]
+[[wuu:Category:User en]]
+[[yi:קאַטעגאָריע:באַניצער en]]
+[[zh:Category:En 使用者]]
+[[zh-classical:Category:User en]]
+[[zh-min-nan:Category:User en]]
+[[zh-yue:Category:User en]]</text>
+      <sha1>kdk363gd3m02xc8ysp2n8vxqpbidvi4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User aa-0</title>
+    <ns>14</ns>
+    <id>2091</id>
+    <revision>
+      <id>3771</id>
+      <parentid>3769</parentid>
+      <timestamp>2008-04-23T21:38:25Z</timestamp>
+      <contributor>
+        <username>Hercule</username>
+        <id>293</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:User aa]]
+
+[[fr:Catégorie:Utilisateur aa-0]]</text>
+      <sha1>0tyo4zq9gy3j7fcrka7alw19dd3e5cu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User fr-N</title>
+    <ns>14</ns>
+    <id>2092</id>
+    <revision>
+      <id>3770</id>
+      <timestamp>2008-04-23T21:36:35Z</timestamp>
+      <contributor>
+        <username>Hercule</username>
+        <id>293</id>
+      </contributor>
+      <comment>New page: [[Category:User fr]]  [[fr:Catégorie:Utilisateur fr]] [[als:Kategorie:User fr]] [[am:Category:User fr]] [[an:Categoría:Usuario fr]] [[ang:Category:User fr]] [[ar:تصنيف:مستخدم ...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:User fr]]
+
+[[fr:Catégorie:Utilisateur fr]]
+[[als:Kategorie:User fr]]
+[[am:Category:User fr]]
+[[an:Categoría:Usuario fr]]
+[[ang:Category:User fr]]
+[[ar:تصنيف:مستخدم fr]]
+[[ast:Categoría:Usuarios por idioma - Francés]]
+[[az:Kateqoriya:User fr]]
+[[ba:Категория:User fr]]
+[[bar:Kategorie:User fr]]
+[[bat-smg:Kateguorėjė:User fr]]
+[[be:Катэгорыя:User fr]]
+[[be-x-old:Катэгорыя:Вікіпэдыйцы, якія ведаюць мову fr]]
+[[bg:Категория:Потребител fr]]
+[[bm:Catégorie:User fr]]
+[[br:Rummad:Implijer fr]]
+[[bs:Kategorija:Korisnik fr]]
+[[ca:Categoria:Usuaris fr]]
+[[cdo:Category:User fr]]
+[[ceb:Category:User fr]]
+[[chr:Category:User fr]]
+[[cr:Category:User fr]]
+[[cs:Kategorie:User fr]]
+[[csb:Kategòrëjô:Brëkòwnik fr]]
+[[cu:Катигорї:User fr]]
+[[cy:Categori:User fr]]
+[[da:Kategori:Brugere fr]]
+[[de:Kategorie:User fr]]
+[[ee:Category:User fr]]
+[[el:Κατηγορία:Χρήστης fr]]
+[[eml:Categoria:User fr]]
+[[en:Category:User fr]]
+[[eo:Kategorio:Vikipediisto fr]]
+[[es:Categoría:Usuarios por idioma - Francés]]
+[[et:Kategooria:User fr]]
+[[eu:Kategoria:Frantsesa (erabiltzaileak)]]
+[[fa:رده:User fr]]
+[[fi:Luokka:User fr]]
+[[fiu-vro:Katõgooria:User fr]]
+[[fo:Bólkur:Brúkari fr]]
+[[fur:Categorie:Utent fr]]
+[[fy:Kategory:Meidogger/Taal fr]]
+[[ga:Catagóir:Úsáideoir fr]]
+[[gd:Category:User fr]]
+[[gl:Categoría:Usuario fr]]
+[[gn:Ñemohenda:User fr]]
+[[he:קטגוריה:User fr]]
+[[hr:Kategorija:Suradnik fr]]
+[[hsb:Kategorija:User fr]]
+[[ht:Kategori:User fr]]
+[[hu:Kategória:User fr]]
+[[hy:Կատեգորիա:User fr]]
+[[ia:Categoria:Usator fr]]
+[[id:Kategori:User fr]]
+[[ie:Category:User fr]]
+[[ilo:Category:User fr]]
+[[io:Kategorio:User fr]]
+[[is:Flokkur:Notandi fr]]
+[[it:Categoria:Utenti fr]]
+[[iu:Category:User fr]]
+[[ja:Category:User fr]]
+[[jbo:Category:pilno fr]]
+[[jv:Kategori:User fr]]
+[[ka:კატეგორია:მომხმარებელი fr]]
+[[kk:Санат:User fr]]
+[[km:ចំណាត់ក្រុម:User fr]]
+[[ko:분류:사용자 fr]]
+[[ksh:Saachjrupp:Wikipedia:Medmaacher kann Franzüsesh]]
+[[ku:Kategorî:User fr]]
+[[kv:Категория:User fr]]
+[[kw:Category:User fr]]
+[[ky:Category:User fr]]
+[[la:Categoria:Usor fr]]
+[[lad:Category:User fr]]
+[[lb:Kategorie:User fr]]
+[[li:Categorie:Gebroeker fr]]
+[[ln:Catégorie:User fr]]
+[[lo:ໝວດ:User fr]]
+[[lt:Kategorija:User fr]]
+[[lv:Kategorija:User fr]]
+[[mg:Catégorie:User fr]]
+[[mi:Category:User fr]]
+[[mk:Категорија:Корисник fr]]
+[[mn:Category:User fr]]
+[[ms:Kategori:Pengguna fr]]
+[[mt:Category:User fr]]
+[[na:Category:User fr]]
+[[nap:Categoria:Utenti fr]]
+[[nds:Kategorie:User fr]]
+[[nl:Categorie:Gebruiker fr]]
+[[no:Kategori:Bruker fr]]
+[[oc:Categoria:Utilizaire fr]]
+[[or:Category:User fr]]
+[[pag:Category:User fr]]
+[[pap:Category:User fr]]
+[[pdc:Kategorie:Benutzer fr]]
+[[pl:Kategoria:User fr]]
+[[pt:Categoria:Usuários fr]]
+[[qu:Katiguriya:Ruwaq:fr]]
+[[roa-rup:Category:User fr]]
+[[ru:Категория:User fr]]
+[[scn:Catigurìa:User fr]]
+[[sco:Category:User fr]]
+[[sh:Category:User fr]]
+[[simple:Category:User fr]]
+[[sk:Kategória:User fr]]
+[[sl:Kategorija:Uporabnik fr]]
+[[sm:Category:User fr]]
+[[sq:Category:User fr]]
+[[sr:Категорија:Корисник fr]]
+[[su:Kategori:User fr]]
+[[sv:Kategori:Användare fr]]
+[[sw:Category:User fr]]
+[[ta:பகுப்பு:User fr]]
+[[te:వర్గం:User fr]]
+[[tg:Гурӯҳ:User fr]]
+[[th:หมวดหมู่:User fr]]
+[[tl:Category:User fr]]
+[[tr:Kategori:User fr]]
+[[ty:Catégorie:User fr]]
+[[udm:Категория:User fr]]
+[[uk:Категорія:User fr]]
+[[ur:زمرہ:User fr]]
+[[uz:Kategoriya:User fr]]
+[[vec:Categoria:Utenti fr]]
+[[vi:Thể loại:User fr]]
+[[vo:Klad:Geban fr]]
+[[wa:Categoreye:Uzeus fr]]
+[[war:Category:User fr]]
+[[wo:Catégorie:User fr]]
+[[yi:קאַטעגאָריע:באַניצער fr]]
+[[zh:Category:Fr 使用者]]
+[[zh-classical:Category:User fr]]
+[[zh-min-nan:Category:User fr]]
+[[zh-yue:Category:User fr]]</text>
+      <sha1>q9313gy92mpo4aetsl6rrkj8gn130e4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User en-3</title>
+    <ns>14</ns>
+    <id>2093</id>
+    <revision>
+      <id>3919</id>
+      <parentid>3918</parentid>
+      <timestamp>2008-06-25T03:18:22Z</timestamp>
+      <contributor>
+        <username>SieBot</username>
+        <id>193</id>
+      </contributor>
+      <minor />
+      <comment>robot  Adding: [[uz:Turkum:User en-3]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:User en]]
+
+[[ab:Категория:User en-3]]
+[[af:Kategorie:Gebruiker en-3]]
+[[als:Kategorie:User en-3]]
+[[am:Category:User en-3]]
+[[an:Categoría:Usuario en-3]]
+[[ar:تصنيف:مستخدم en-3]]
+[[ast:Categoría:Usuarios por idioma - Inglés avanzáu]]
+[[ay:Categoría:Aru:en-3]]
+[[az:Kateqoriya:User en-3]]
+[[bar:Kategorie:User en-3]]
+[[bat-smg:Kateguorėjė:User en-3]]
+[[be:Катэгорыя:User en-3]]
+[[be-x-old:Катэгорыя:Вікіпэдыйцы, якія ведаюць мову en-3]]
+[[bg:Категория:Потребител en-3]]
+[[bpy:থাক:सदस्य en-3]]
+[[br:Rummad:Implijer en-3]]
+[[bs:Kategorija:Korisnik en-3]]
+[[ca:Categoria:Usuaris en-3]]
+[[cdo:Category:User en-3]]
+[[ce:Тоба:Юзер en-3]]
+[[ceb:Category:User en-3]]
+[[co:Category:Utilizatore en-3]]
+[[cr:Category:User en-3]]
+[[cs:Kategorie:User en-3]]
+[[csb:Kategòrëjô:Brëkòwnik en-3]]
+[[cu:Катигорі́ꙗ:User en-3]]
+[[cv:Категори:User en-3]]
+[[cy:Categori:Defnyddiwr en-3]]
+[[da:Kategori:Brugere en-3]]
+[[de:Kategorie:User en-3]]
+[[diq:Category:User en-3]]
+[[dsb:Kategorija:Wužywaŕ en-3]]
+[[ee:Category:User en-3]]
+[[el:Κατηγορία:Χρήστης en-3]]
+[[eml:Categoria:User en-3]]
+[[en:Category:User en-3]]
+[[eo:Kategorio:Vikipediisto en-3]]
+[[es:Categoría:Usuarios por idioma - Inglés avanzado]]
+[[et:Kategooria:User en-3]]
+[[eu:Kategoria:Ingelesa maila aurreratuan]]
+[[fa:رده:User en-3]]
+[[fi:Luokka:User en-3]]
+[[fiu-vro:Katõgooria:User en-3]]
+[[fo:Bólkur:Brúkari en-3]]
+[[fr:Catégorie:Utilisateur en-3]]
+[[fur:Categorie:Utent en-3]]
+[[fy:Kategory:Meidogger/Taal en-3]]
+[[ga:Catagóir:Úsáideoir en-3]]
+[[gl:Categoría:Usuario en-3]]
+[[glk:رده:User en-3]]
+[[gn:Ñemohenda:User en-3]]
+[[got:Category:Niutands en-3]]
+[[he:קטגוריה:User en-3]]
+[[hi:श्रेणी:सदस्य en-3]]
+[[hsb:Kategorija:User en-3]]
+[[ht:Kategori:User en-3]]
+[[hu:Kategória:User en-3]]
+[[hy:Կատեգորիա:User en-3]]
+[[ia:Categoria:Usator en-3]]
+[[id:Kategori:User en-3]]
+[[ie:Category:User en-3]]
+[[ilo:Category:User en-3]]
+[[io:Kategorio:User en-3]]
+[[is:Flokkur:Notandi en-3]]
+[[it:Categoria:Utenti en-3]]
+[[ja:Category:User en-3]]
+[[jbo:Category:pilno en-3]]
+[[jv:Kategori:User en-3]]
+[[ka:კატეგორია:მომხმარებელი en-3]]
+[[kk:Санат:User en-3]]
+[[km:ចំណាត់ថ្នាក់ក្រុម:User en-3]]
+[[kn:ವರ್ಗ:ಸದಸ್ಯ en-3]]
+[[ko:분류:사용자 en-3]]
+[[ksh:Saachjrupp:Wikipedia:Medmaacher kann joodt Änglish]]
+[[ku:Kategorî:User en-3]]
+[[ky:Category:User en-3]]
+[[la:Categoria:Usor en-3]]
+[[lad:Categoría:User en-3]]
+[[lb:Kategorie:User en-3]]
+[[li:Categorie:Gebroeker en-3]]
+[[lmo:Categoria:User en-3]]
+[[ln:Catégorie:User en-3]]
+[[lt:Kategorija:User en-3]]
+[[lv:Kategorija:User en-3]]
+[[map-bms:Kategori:User en-3]]
+[[mdf:Category:User en-3]]
+[[mg:Catégorie:User en-3]]
+[[mi:Category:User en-3]]
+[[mk:Категорија:Корисник en-3]]
+[[ml:വിഭാഗം:ഭാഷാജ്ഞാനം en-3]]
+[[mn:Category:User en-3]]
+[[ms:Kategori:Pengguna en-3]]
+[[mt:Category:User en-3]]
+[[myv:Category:User en-3]]
+[[na:Category:User en-3]]
+[[nap:Categoria:User eng-3]]
+[[nds:Kategorie:User en-3]]
+[[nds-nl:Kattegerie:Gebruker en-3]]
+[[nl:Categorie:Gebruiker en-3]]
+[[nn:Kategori:Brukar en-3]]
+[[no:Kategori:Bruker en-3]]
+[[nv:T'ááłáhági át'éego:Choinish'įįhí en-3]]
+[[oc:Categoria:Utilizaire en-3]]
+[[pap:Category:User en-3]]
+[[pdc:Kategorie:Benutzer en-3]]
+[[pl:Kategoria:User en-3]]
+[[pt:Categoria:Usuário en-3]]
+[[qu:Katiguriya:Ruwaq:en-3]]
+[[ro:Categorie:Utilizator en-3]]
+[[ru:Категория:User en-3]]
+[[scn:Catigurìa:User en-3]]
+[[sco:Category:User en-3]]
+[[sd:Category:User en-3]]
+[[sh:Category:User en-3]]
+[[simple:Category:User en-3]]
+[[sk:Kategória:User en-3]]
+[[sl:Kategorija:Uporabnik en-3]]
+[[sq:Category:User en-3]]
+[[sr:Категорија:Корисник en-3]]
+[[ss:Category:Bantfu en-3]]
+[[su:Kategori:User en-3]]
+[[sv:Kategori:Användare en-3]]
+[[sw:Category:User en-3]]
+[[ta:பகுப்பு:User en-3]]
+[[te:వర్గం:User en-3]]
+[[tg:Гурӯҳ:User en-3]]
+[[th:หมวดหมู่:User en-3]]
+[[tk:Category:User en-3]]
+[[tl:Category:User en-3]]
+[[tpi:Category:Yusa en-3]]
+[[tr:Kategori:User en-3]]
+[[tt:Törkem:Äğzä en-3]]
+[[udm:Категория:User en-3]]
+[[ug:Category:User en-3]]
+[[uk:Категорія:User en-3]]
+[[ur:زمرہ:User en-3]]
+[[uz:Turkum:User en-3]]
+[[vec:Categoria:Utenti en-3]]
+[[vi:Thể loại:User en-3]]
+[[vo:Klad:Geban en-3]]
+[[wa:Categoreye:Uzeus en-3]]
+[[war:Category:User en-3]]
+[[wo:Catégorie:Jëfandikukat en-3]]
+[[wuu:Category:User en-3]]
+[[yi:קאַטעגאָריע:באַניצער en-3]]
+[[zh:Category:En-3 使用者]]
+[[zh-classical:Category:User en-3]]
+[[zh-min-nan:Category:User en-3]]
+[[zh-yue:Category:User en-3]]</text>
+      <sha1>0nf2pj9sitoad13zyihl7n37aloucl3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Babel</title>
+    <ns>4</ns>
+    <id>2094</id>
+    <revision>
+      <id>3775</id>
+      <timestamp>2008-04-23T21:45:45Z</timestamp>
+      <contributor>
+        <username>Hercule</username>
+        <id>293</id>
+      </contributor>
+      <comment>New page: On Wikipedia, the noun '''Babel''' (in reference to the [[Tower of Babel]]) refers to the '''user language templates''' aiding multilingual communication by making it easier to contact som...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">On Wikipedia, the noun '''Babel''' (in reference to the [[Tower of Babel]]) refers to the '''user language templates''' aiding multilingual communication by making it easier to contact someone who speaks a certain language. The idea originated on the [[commons:Commons:Babel|Wikimedia Commons]] and has also been implemented on [[meta:Meta:Babel templates|Meta-Wiki]] and some of the other Wikipedias, to varying extents. To participate, you can add the Babel template to your user page by following these instructions:
+
+*Start off with '''&lt;nowiki&gt;{{Babel|&lt;/nowiki&gt;'''
+*Next add one of the following codes for each language you speak or understand, separated by '''|''', where '''xx''' is the Wikipedia code for the language. The general usage of each code level is as follows (note that not all languages have all levels, but you may create the template you are missing):
+**'''xx-0''' if you don't understand the language at all. Don't use it for every language that you don't know, but only when there is some reason why you might be expected to know it. For example, you may be of Italian descent, but you do not speak the Italian language, or if you are Canadian, and you do not speak French.
+***'''Note:''' Consensus has been determined at [[Wikipedia:User categories for discussion]] that 0-level [[:Category:Wikipedians|user categories]] should not exist.
+**'''xx-1''' for basic ability - enough to understand written material or simple questions in this language.
+**'''xx-2''' for intermediate ability - enough for editing or discussions.
+**'''xx-3''' for advanced level - though you can write in this language with no problem, some small errors might occur.
+**'''xx-4''' for 'near-native' level - although it's not your first language from birth, your ability is something like that of a native speaker.
+**'''xx-5''' for professional proficiency. Note that this template is currently only available for a few languages.
+**'''xx''' (no hyphen or number) for native speakers who use a language every day and have a thorough grasp of it, including colloquialisms and idioms.
+*[[Wikipedia:Babel/Levels|Expanded definitions of these levels]] are also available.
+*Then finish by adding closing braces: '''&lt;nowiki&gt;}}&lt;/nowiki&gt;'''
+ 
+
+&lt;!-- DISCLAIMERS: (1) The languages in the sample Babelbox were chosen arbitrarily. They illustrate ONLY the rules of Babelbox coding, NOT typical skills in the Wikimedia community or the outside world. (2) The ranking scale used in Babelboxes describes ONLY fluency in those languages, not the relative value of those languages to Wikimedia or the outside world. Like any real user's Babelbox, the sample lists some languages higher than others...not because those languages are inherently better, but because the sample speaker knows them better. The absence of any specific language, similarly, does not imply that it is inherently worse than the ones listed. --&gt;
+
+So, for example, '''&lt;nowiki&gt;{{Babel|en|de-1}}&lt;/nowiki&gt;''' would indicate a native speaker of English with basic knowledge of German.
+'''&lt;nowiki&gt;{{Babel|en-5|sv|no-4|he-3|lt-2|es-1|da-0}}&lt;/nowiki&gt;''' would indicate a professional proficiency of the English language, a native speaker of Swedish with an almost-native knowledge of Norwegian, advanced knowledge of Hebrew, an intermediate knowledge of Lithuanian, a basic knowledge of Spanish and no knowledge of Danish.
+
+These templates add you to the category associated with your level of understanding, and to the overall category for that language.
+
+To find someone who speaks a particular language, see '''[[:Category:Wikipedians by language|Wikipedians by languages]]''', and follow the links. For the most part, the two and three letter codes are taken from [[ISO 639]], but see [[meta:Complete list of language wikis available|this list]] for a comprehensive guide.
+
+You can help expand this system by creating templates for your language. Categories have already been created for most languages which have editions of Wikipedia containing over a hundred articles; they just need labelling up! It's recommended to copy the English or French versions when expanding the scheme, as most of the languages listed here are incomplete.
+
+Note that many [[list of sign languages|sign languages]] currently use the same template with language code &quot;sgn&quot;, with the exception of [[:Category:User ase|American Sign Language]] users who should use the [[Wikipedia:Babel#ase|American Sign Language template]]. Other sign languages can be specified within the &lt;nowiki&gt;{{User sgn}}&lt;/nowiki&gt; template itself. The use of this parameter requires the user to perform an extra step when using the &lt;nowiki&gt;{{Babel-#}}&lt;/nowiki&gt; templates, described [[:Category:User sgn|here]].
+
+
+[[af:Wikipedia:Babel]]
+[[als:Wikipedia:Babel]]
+[[am:Wikipedia:ልሳናት]]
+[[ang:Wikipedia:Babel]]
+[[ar:ويكيبيديا:بابل]]
+[[an:Wikipedia:Babel]]
+[[ast:Uiquipedia:Babel]]
+[[az:Vikipediya:Babil]]
+[[zh-min-nan:Wikipedia:Babel]]
+[[be:Вікіпэдыя:Бабілёнская вежа]]
+[[be-x-old:Вікіпэдыя:Бабілёнская вежа]]
+[[bar:Wikipedia:Babel]]
+[[bs:Wikipedia:Babel]]
+[[br:Wikipedia:Babel]]
+[[bg:Уикипедия:Вавилон]]
+[[ca:Viquipèdia:Babel]]
+[[cv:Википеди:Вавилон]]
+[[cs:Wikipedie:Babylón]]
+[[cy:Wicipedia:Babel]]
+[[da:Hjælp:Babel]]
+[[de:Wikipedia:Babel]]
+[[dsb:Wikipedija:Babel]]
+[[et:Vikipeedia:Babel]]
+[[el:Βικιπαίδεια:Βαβέλ]]
+[[en:Wikipedia:Babel]]
+[[es:Wikipedia:Babel]]
+[[eo:Vikipedio:Babel]]
+[[eu:Wikipedia:Babel]]
+[[fa:ویکی‌پدیا:بابل]]
+[[fo:Wikipedia:Málkassi]]
+[[fr:Wikipédia:Babel]]
+[[fy:Wikipedy:Babel]]
+[[fur:Vichipedie:Babel]]
+[[ga:Vicipéid:Baibéal]]
+[[gl:Wikipedia:Babel]]
+[[got:Wikipedia:Babilu]]
+[[hi:विकिपीडिया:बेबल]]
+[[zh-classical:維基大典:Babel]]
+[[ko:위키백과:바벨]]
+[[hsb:Wikipedija:Babel]]
+[[hr:Wikipedija:Babilon]]
+[[io:Wikipedio:Babel]]
+[[id:Wikipedia:Babel]]
+[[zu:Wikipedia:Babel]]
+[[is:Wikipedia:Málkassi]]
+[[it:Wikipedia:Babel]]
+[[he:ויקיפדיה:כישורי שפה]]
+[[jv:Wikipedia:Babel]]
+[[ka:ვიკიპედია:ბაბილონი]]
+[[ky:Wikipedia:Babel]]
+[[ku:Wîkîpediya:Babel]]
+[[lbe:Википедия:Вавилон]]
+[[la:Vicipaedia:Babel formulae]]
+[[lv:Wikipedia:Babel]]
+[[lb:Wikipedia:Babel]]
+[[lt:Wikipedia:Babel]]
+[[li:Wikipedia:Babel]]
+[[ln:Wikipedia:Babel]]
+[[hu:Wikipédia:Bábel]]
+[[mk:Википедија:Вавилон]]
+[[mg:Wikipedia:Babel]]
+[[mt:Wikipedija:Babel]]
+[[mi:Wikipedia:Babel]]
+[[ms:Wikipedia:Babel]]
+[[nah:Wikipedia:Babel]]
+[[na:Wikipedia:Babel]]
+[[nl:Wikipedia:Babel]]
+[[nds-nl:Wikipedie:Babel]]
+[[cr:Wikipedia:Babel]]
+[[ja:Wikipedia:バベル]]
+[[no:Wikipedia:Babel]]
+[[nn:Wikipedia:Babel]]
+[[oc:Wikipèdia:Babèl]]
+[[uz:Vikipediya:Bobil]]
+[[nds:Wikipedia:Babel]]
+[[pl:Wikipedia:Wieża Babel]]
+[[pt:Wikipedia:Babel]]
+[[ksh:Wikipedia:Babel]]
+[[ro:Wikipedia:Babel]]
+[[rmy:Vikipidiya:Babel]]
+[[qu:Wikipedia:Babel]]
+[[ru:Википедия:Вавилон]]
+[[sc:Wikipedia:Babel]]
+[[sq:Wikipedia:Babel]]
+[[scn:Wikipedia:Babeli]]
+[[simple:Wikipedia:Babel]]
+[[sk:Wikipédia:Babylon]]
+[[cu:Википедї:Вавѷлѡнъ]]
+[[sl:Wikipedija:Babilon]]
+[[so:Wikipedia:Babel]]
+[[sr:Википедија:Шаблони/Језичке кутијице]]
+[[sh:Wikipedia:Babel]]
+[[su:Wikipedia:Babel]]
+[[fi:Wikipedia:Babylon]]
+[[sv:Wikipedia:Babel]]
+[[th:วิกิพีเดีย:บาเบล]]
+[[vi:Wikipedia:Ngôn ngữ sử dụng]]
+[[tpi:Wikipedia:Babel]]
+[[tr:Vikipedi:Babil]]
+[[udm:Wikipedia:Вавилон]]
+[[uk:Вікіпедія:Вавілон]]
+[[vec:Wikipedia:Babel]]
+[[wa:Wikipedia:Babel]]
+[[war:Wikipedia:Babel]]
+[[wuu:Wikipedia:巴别]]
+[[yi:װיקיפּעדיע:באבעל]]
+[[zh-yue:Wikipedia:Babel]]
+[[zh:Wikipedia:巴別]]</text>
+      <sha1>nat6rxt6klshdvaanv4hbpgimjv3mtd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia</title>
+    <ns>0</ns>
+    <id>2105</id>
+    <revision>
+      <id>3975</id>
+      <parentid>3945</parentid>
+      <timestamp>2008-07-04T12:57:04Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Image:Wikipedia-logo-en.png|right|150px]]
+'''Wikipedia''' bödero kœáth amliethog e rhyδ gē gell tō un gelœga. Denn grëað zero œáthws ar ðechre di zera gentannwm hon.
+
+[[Category:Wikipedia| ]]
+[[Category:Articles]]
+{{Link FA|ceb}}
+
+[[af:Wikipedia]]
+[[als:Wikipedia]]
+[[am:ውክፔዲያ]]
+[[an:Biquipedia]]
+[[ang:Wicipǣdia]]
+[[ar:ويكيبيديا]]
+[[arc:ܘܝܟܝܦܕܝܐ]]
+[[ast:Uiquipedia]]
+[[ay:Wikipidiya]]
+[[az:Vikipediya]]
+[[ba:Википедия]]
+[[bar:Wikipedia]]
+[[bat-smg:Vikipedėjė]]
+[[be:Вікіпедыя]]
+[[be-x-old:Вікіпэдыя]]
+[[bg:Уикипедия]]
+[[bm:Wikipedia]]
+[[bn:উইকিপিডিয়া]]
+[[bpy:উইকিপিডিয়া]]
+[[br:Wikipedia]]
+[[bs:Wikipedia]]
+[[bug:Wikipedia]]
+[[ca:Viquipèdia]]
+[[cdo:Wikipedia]]
+[[ceb:Wikipedya]]
+[[ch:Wikipedia]]
+[[chr:ᏫᎩᏇᏗᏯ]]
+[[chy:Wikipedia]]
+[[co:Wikipedia]]
+[[crh:Vikipediya]]
+[[cs:Wikipedie]]
+[[csb:Wikipedijô]]
+[[cu:Википє́дїꙗ]]
+[[cv:Википеди]]
+[[cy:Wicipedia]]
+[[da:Wikipedia]]
+[[de:Wikipedia]]
+[[diq:Wikipediya]]
+[[dsb:Wikipedija]]
+[[el:Βικιπαίδεια]]
+[[en:Wikipedia]]
+[[eo:Vikipedio]]
+[[es:Wikipedia]]
+[[et:Vikipeedia]]
+[[eu:Wikipedia]]
+[[ext:Wikipédia]]
+[[fa:ویکی‌پدیا]]
+[[ff:Wikipeediya]]
+[[fi:Wikipedia]]
+[[fiu-vro:Vikipeediä]]
+[[fo:Wikipedia]]
+[[fr:Wikipédia]]
+[[frp:Vouiquipèdia]]
+[[fur:Vichipedie]]
+[[fy:Wikipedy]]
+[[ga:Vicipéid]]
+[[gan:維基百科]]
+[[gd:Bhicipèidia]]
+[[gl:Wikipedia]]
+[[gn:Vikipetã]]
+[[gu:વિકિપીડિયા]]
+[[gv:Wikipedia]]
+[[hak:Wikipedia]]
+[[he:ויקיפדיה]]
+[[hi:विकिपीडिया]]
+[[hr:Wikipedija]]
+[[hsb:Wikipedija]]
+[[ht:Wikipedya]]
+[[hu:Wikipédia]]
+[[hy:Վիքիփեդիա]]
+[[ia:Wikipedia]]
+[[id:Wikipedia]]
+[[ig:Wikipedia]]
+[[ik:Wikipedia]]
+[[ilo:Wikipedia]]
+[[io:Wikipedio]]
+[[is:Wikipedia]]
+[[it:Wikipedia]]
+[[iu:ᐅᐃᑭᐱᑎᐊ/uikipitia]]
+[[ja:ウィキペディア]]
+[[jbo:uikipedias]]
+[[jv:Wikipedia]]
+[[ka:ვიკიპედია]]
+[[kaa:Wikipedia]]
+[[kab:Wikipedia]]
+[[kk:Уикипедия]]
+[[kl:Wikipedia]]
+[[km:វិគីភីឌា]]
+[[kn:ವಿಕಿಪೀಡಿಯ]]
+[[ko:위키백과]]
+[[ksh:Wikkipedija]]
+[[ku:Wikipedia]]
+[[kw:Wikipedya]]
+[[la:Wikipedia]]
+[[lad:ויקיפידיה]]
+[[lb:Wikipedia]]
+[[lbe:Википедия]]
+[[li:Wikipedia]]
+[[lij:Wikipedia]]
+[[lmo:Wikipedia]]
+[[ln:Wikipedia]]
+[[lo:ວິກິພີເດຍ]]
+[[lt:Vikipedija]]
+[[lv:Vikipēdija]]
+[[map-bms:Wikipedia]]
+[[mdf:Википедиесь]]
+[[mg:Wikipedia]]
+[[mi:Wikipedia]]
+[[mk:Википедија]]
+[[ml:വിക്കിപീഡിയ]]
+[[mn:Википедиа]]
+[[mr:विकिपीडिया]]
+[[ms:Wikipedia]]
+[[mt:Wikipedija]]
+[[myv:Википедиясь]]
+[[mzn:ویکیپدیا]]
+[[na:Wikipedia]]
+[[nah:Huiquipedia]]
+[[nap:Wikipedia]]
+[[nds:Wikipedia]]
+[[nds-nl:Wikipedia]]
+[[ne:विकिपीडिया]]
+[[ng:Wikipedia]]
+[[nl:Wikipedia]]
+[[nn:Wikipedia]]
+[[no:Wikipedia]]
+[[nrm:Viqùipédie]]
+[[nv:Wikiibíídiiya]]
+[[oc:Wikipèdia]]
+[[os:Википеди]]
+[[pa:ਵਿਕਿਪੀਡਿਆ]]
+[[pag:Wikipedia]]
+[[pap:Wikipedia]]
+[[pl:Wikipedia]]
+[[pms:Wikipedia]]
+[[ps:پروژه:په هکله]]
+[[pt:Wikipédia]]
+[[qu:Wikipidiya]]
+[[rm:Vichipedia]]
+[[rmy:Vikipidiya]]
+[[ro:Wikipedia]]
+[[roa-rup:Wikipedia]]
+[[roa-tara:Uicchipèdie]]
+[[ru:Википедия]]
+[[sc:Wikipedia]]
+[[scn:Wikipedia]]
+[[sco:Wikipaedia]]
+[[sd:وڪيپيڊيا]]
+[[se:Wikipediija]]
+[[sh:Wikipedia]]
+[[si:විකිපීඩියා]]
+[[simple:Wikipedia]]
+[[sk:Wikipédia]]
+[[sl:Wikipedija]]
+[[so:Wikipedia]]
+[[sq:Wikipedia]]
+[[sr:Википедија]]
+[[su:Wikipédia]]
+[[sv:Wikipedia]]
+[[sw:Wikipedia]]
+[[szl:Wikipedyjo]]
+[[ta:விக்கிப்பீடியா]]
+[[te:వికీపీడియా]]
+[[tet:Wikipédia]]
+[[tg:Википедиа]]
+[[th:วิกิพีเดีย]]
+[[tk:Wikipediýa]]
+[[tl:Wikipedia]]
+[[tpi:Wikipedia]]
+[[tr:Vikipedi]]
+[[tt:Wikipedia]]
+[[tum:Vikipedi]]
+[[udm:Википедия]]
+[[ug:Wikipédiye]]
+[[uk:Вікіпедія]]
+[[uz:Vikipediya]]
+[[vec:Wikipedia]]
+[[vi:Wikipedia]]
+[[vls:Wikipedia]]
+[[wa:Wikipedia]]
+[[war:Wikipedia]]
+[[wo:Wikipedia]]
+[[wuu:维基百科]]
+[[yi:‫װיקיפעדיע]]
+[[yo:Wikipedia]]
+[[za:维基百科]]
+[[zea:Wikipedia]]
+[[zh:维基百科]]
+[[zh-classical:維基大典]]
+[[zh-min-nan:Wikipedia]]
+[[zh-yue:維基百科]]</text>
+      <sha1>qwtkmv99q75e20ui1df6qauigdmlekp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:User he</title>
+    <ns>10</ns>
+    <id>2144</id>
+    <revision>
+      <id>3946</id>
+      <timestamp>2008-07-04T12:27:06Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: &lt;div style=&quot;float:left;border:solid #6EF7A7 1px;margin:1px&quot;&gt; {| cellspacing=&quot;0&quot; style=&quot;width:238px;background:#C5FCDC&quot; | style=&quot;width:45px;height:45px;background:#6EF7A7;text-align:center;...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;float:left;border:solid #6EF7A7 1px;margin:1px&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width:238px;background:#C5FCDC&quot;
+| style=&quot;width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt&quot;|'''[[Hebrew language|he]]'''
+| style=&quot;text-align:right;font-size:8pt;padding:4pt;line-height:1.25em&quot; dir=&quot;rtl&quot;|משתמש זה דובר '''[[:Category:User_he|עברית]]''' כ'''[[:Category:User he-N|שפת אם]]'''.
+&lt;includeonly&gt;[[Category:User he|{{PAGENAME}}]][[Category:User he-N|{{PAGENAME}}]]&lt;/includeonly&gt;
+|}&lt;/div&gt;&lt;noinclude&gt;
+[[ko:틀:User he]]
+[[he:תבנית:User he]]
+[[mk:Шаблон:Корисник he]]
+[[ms:Templat:Pengguna he]]
+&lt;/noinclude&gt;</text>
+      <sha1>qsm43mvl7bdghcxzieayp7uhn6ksgox</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Wikipedians by language</title>
+    <ns>14</ns>
+    <id>2145</id>
+    <revision>
+      <id>3972</id>
+      <parentid>3947</parentid>
+      <timestamp>2008-07-04T12:53:22Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Wikipedia]]
+
+[[en:Category:Wikipedians by language]]
+[[af:Kategorie:Gebruiker]]
+[[als:Kategorie:Benutzer nach Sprache]]
+[[am:Category:የአባሎች ልሳናት]]
+[[ang:Category:Brūcendsprǣc]]
+[[ar:تصنيف:المستخدمون حسب اللغات]]
+[[an:Categoría:Usuarios por idioma]]
+[[ast:Categoría:Usuarios por idioma]]
+[[ay:Categoría:Babel]]
+[[az:Kateqoriya:Dillərinə görə vikipediyaçılar]]
+[[bm:Catégorie:Wikipedia:Babel]]
+[[zh-min-nan:Category:User languages]]
+[[map-bms:Kategori:Basa anggota]]
+[[be:Катэгорыя:Users by language]]
+[[be-x-old:Катэгорыя:Вікіпэдыйцы паводле мовы]]
+[[bar:Kategorie:Benutzer nach Sprache]]
+[[bs:Kategorija:Korisnički jezici]]
+[[br:Rummad:Wikipedourien dre o yezhoù]]
+[[bg:Категория:Потребители на Уикипедия по език]]
+[[ca:Categoria:Usuaris per idioma]]
+[[cv:Категори:User languages]]
+[[ceb:Category:User languages]]
+[[cs:Kategorie:Wikipedisté podle jazyka]]
+[[za:Category:用户语言]]
+[[cy:Categori:Ieithoedd defnyddwyr]]
+[[da:Kategori:Wikipedianere efter sprogkundskaber]]
+[[pdc:Kategorie:Benutzer natt Schprooche]]
+[[de:Kategorie:Benutzer nach Sprache]]
+[[dv:Category:User languages]]
+[[dsb:Kategorija:Wužywarje pó rěcach]]
+[[et:Kategooria:Kasutaja:keeled]]
+[[el:Κατηγορία:Χρήστες ανά γλώσσα]]
+[[eml:Categoria:Lèngui d'uteint]]
+[[es:Categoría:Usuarios por idioma]]
+[[eo:Kategorio:Vikipediistoj laŭ lingvo]]
+[[eu:Kategoria:Hizkuntzaren araberako erabiltzaileak]]
+[[ee:Category:Wikipiɖia zãlawo ƒe gbe]]
+[[fa:رده:زبان‌های کاربران]]
+[[fo:Bólkur:Brúkari eftir máli]]
+[[fr:Catégorie:Wikipédiens par langue]]
+[[fy:Kategory:Meidogger/Taal]]
+[[ff:Catégorie:Babel]]
+[[fur:Categorie:Utent par lenghe]]
+[[ga:Catagóir:Teangacha na n-úsáideoirí]]
+[[gv:Category:Wikipedians by language]]
+[[gd:Category:Cànain an luchd-cleachdaidh]]
+[[gl:Categoría:Usuarios por lingua]]
+[[got:Category:Wikiniutands (Razdos)]]
+[[zh-classical:Category:維基人]]
+[[ko:분류:언어별 위키백과 사용자]]
+[[hy:Կատեգորիա:Վիքիփեդիա:Օգտվողների լեզուները]]
+[[hi:श्रेणी:सदस्य]]
+[[hsb:Kategorija:Wužiwarjo po rěčach]]
+[[hr:Kategorija:Suradnički jezici]]
+[[io:Kategorio:Lingui dil uzanti]]
+[[bpy:থাক:আতাকুরার ঠার]]
+[[id:Kategori:Pengguna menurut bahasa]]
+[[ia:Categoria:Wikipedianos per lingua]]
+[[ie:Category:Wikipedians by language]]
+[[iu:Category:Babel]]
+[[os:Категори:Википеди:Архайджытæ æвзагмæ гæсгæ]]
+[[is:Flokkur:Notendur eftir tungumáli]]
+[[it:Categoria:Utenti per lingua]]
+[[he:קטגוריה:ויקיפדיה: כישורי שפה]]
+[[jv:Kategori:Bahasa pengguna]]
+[[kn:ವರ್ಗ:ವಿಕಿಪೀಡಿಯ ಪುಟಗಳು]]
+[[ka:კატეგორია:მომხმარებლის ენები]]
+[[csb:Kategòrëjô:Jãzëczi brëkòwników]]
+[[kk:Санат:Қатысушы тілдері]]
+[[kw:Category:Yethow devnydhyoryon]]
+[[sw:Category:Wanawikipedia lugha kwa lugha]]
+[[kv:Категория:Википедия:Участники по языкам]]
+[[ht:Kategori:Lang User]]
+[[ku:Kategorî:Bikarhêner]]
+[[lad:Categoría:Usuarios por linguas]]
+[[lbe:Категория:Википедия:Участники по языкам]]
+[[lo:ໝວດ:ຜູ້ໃຊ້ແບ່ງຕາມພາສາ]]
+[[la:Categoria:Linguae usorum]]
+[[lv:Kategorija:Lietotāju valodas]]
+[[lb:Kategorie:User no Sproochen]]
+[[lt:Kategorija:Naudotojai pagal kalbas]]
+[[li:Categorie:Wikipedia:Babel]]
+[[ln:Catégorie:Wikipediens par langue]]
+[[jbo:Category:pilno bangu]]
+[[lg:Category:Wikipedians by language]]
+[[hu:Kategória:Felhasználók nyelvei]]
+[[mk:Категорија:Корисници по јазици]]
+[[mg:Catégorie:Fiteny ny mpikambana]]
+[[mt:Category:Lingwi tal-users]]
+[[mi:Category:Reo-ā-kaimahi]]
+[[mr:वर्ग:भाषेप्रमाणे विकि संपादक]]
+[[ms:Kategori:Bahasa pengguna]]
+[[cdo:Category:Ê̤ṳng-hô]]
+[[mn:Category:Babel]]
+[[nah:Categoría:Tlatequitiltililli ic tlahtōlli]]
+[[na:Category:Wikipedia:Babel]]
+[[fj:Category:Wikipedians by language]]
+[[nl:Categorie:Wikipedia:Babel]]
+[[nds-nl:Kattegerie:Wikipedie:Babel]]
+[[cr:Category:User languages]]
+[[new:पुचः:User languages]]
+[[ja:Category:言語別の利用者]]
+[[nap:Categoria:Utenti per lingua]]
+[[ce:Тоба:Мотт-гІутакхаш]]
+[[no:Kategori:Wikipedia-brukere etter språk]]
+[[nn:Kategori:Wikipedantar]]
+[[nov:Category:Lingues de usere]]
+[[oc:Categoria:Wikipedians per lenga]]
+[[or:Category:Wikipedians by language]]
+[[uz:Kategoriya:Vikipediyachilar]]
+[[pap:Category:Idiomanan di uzadónan]]
+[[ps:وېشنيزه:User languages]]
+[[pms:Categorìa:User languages]]
+[[nds:Kategorie:Brukers na Spraak]]
+[[pl:Kategoria:Babel]]
+[[pt:Categoria:Usuários línguas]]
+[[crh:Kategoriya:Vikipediya:Tilge köre qullanıcılar]]
+[[ty:Catégorie:Hōho’a fāito]]
+[[ksh:Saachjrupp:Wikipedia:Medmaacher ier Shprooche]]
+[[ro:Categorie:Limbi vorbite de utilizatori]]
+[[rmy:Shopni:Chiba jangle le jenendar kathar]]
+[[rm:Category:Utilisaders per linguatg]]
+[[qu:Katiguriya:Babel]]
+[[ru:Категория:Википедия:Участники по языкам]]
+[[sc:Category:Utenti per lingua]]
+[[sco:Category:User languages]]
+[[sq:Category:Përdorues sipas gjuhës]]
+[[scn:Catigurìa:User languages]]
+[[si:ප්‍රවර්ගය:Babel]]
+[[simple:Category:Users by language]]
+[[ss:Category:Wikipedia:Babel]]
+[[sk:Kategória:Wikipédia:Redaktori podľa jazyka]]
+[[cu:Катигорї:Википедї:Польѕевателъ ѩзыци]]
+[[sl:Kategorija:Uporabniški jeziki]]
+[[sr:Категорија:Језичке кутијице]]
+[[sh:Category:Babel]]
+[[stq:Kategorie:Benutser/Sproake]]
+[[su:Kategori:Basa pamaké]]
+[[fi:Luokka:Käyttäjien kielet]]
+[[sv:Kategori:Användare efter språk]]
+[[tl:Category:Mga manggagamit ayon sa wika]]
+[[ta:பகுப்பு:பயனர்]]
+[[roa-tara:Category:Utenti]]
+[[te:వర్గం:భాష వారిగా వికీపీడియనులు]]
+[[th:หมวดหมู่:ผู้ใช้แบ่งตามภาษา]]
+[[vi:Thể loại:Wikipedia:Babel]]
+[[tg:Гурӯҳ:User languages]]
+[[to:Category:Ngaahi lea ʻo e kau ʻetita]]
+[[tr:Kategori:Konuşabildikleri dillere göre Vikipedistler]]
+[[tk:Category:Kullanıcı dilleri]]
+[[udm:Категория:Википедия:Викиавторъёс кылъёссыя]]
+[[bug:Kategori:Bahasa pengguna]]
+[[uk:Категорія:User languages]]
+[[ur:زمرہ:Page for non-Urdu-Speakers]]
+[[vec:Categoria:Utenti par lengoa]]
+[[vo:Klad:Gebans ma pük]]
+[[fiu-vro:Katõgooria:Pruukja:keeleq]]
+[[wa:Categoreye:Lingaedjes des uzeus]]
+[[vls:Categorie:Wikipedia:Babel]]
+[[war:Category:User languages]]
+[[yi:קאַטעגאָריע:באַניצער]]
+[[zh-yue:Category:用戶語言]]
+[[zea:Categorie:Wikipedia:Babel]]
+[[bat-smg:Kateguorėjė:Nauduotuojē palē kalbas]]
+[[zh:Category:用户语言]]</text>
+      <sha1>q82zlfwf1hiuxoitg50t02l00auatre</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User de</title>
+    <ns>14</ns>
+    <id>2148</id>
+    <revision>
+      <id>3955</id>
+      <timestamp>2008-07-04T12:35:31Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: [[Category:Wikipedians by language]]  [[en:Category:User de]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Wikipedians by language]]
+
+[[en:Category:User de]]</text>
+      <sha1>ojsomp228a383lobgvftvkjx8r0t92f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User de-1</title>
+    <ns>14</ns>
+    <id>2149</id>
+    <revision>
+      <id>3963</id>
+      <parentid>3956</parentid>
+      <timestamp>2008-07-04T12:40:12Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:User de]]
+
+[[en:Category:User de-1]]</text>
+      <sha1>041zcnf7g4rbfyb66rmjdp582l4r0w1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User es</title>
+    <ns>14</ns>
+    <id>2150</id>
+    <revision>
+      <id>3957</id>
+      <timestamp>2008-07-04T12:37:04Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: [[Category:Wikipedians by language]]  [[en:Category:User es]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Wikipedians by language]]
+
+[[en:Category:User es]]</text>
+      <sha1>7dzdlcx83dskm4r0f9gm8n7fmq786y3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User es-2</title>
+    <ns>14</ns>
+    <id>2151</id>
+    <revision>
+      <id>3964</id>
+      <parentid>3958</parentid>
+      <timestamp>2008-07-04T12:41:12Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:User es]]
+
+[[en:Category:User es-2]]</text>
+      <sha1>mcly5an4kinac3qk2c67e2mjdsk45vx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User fr-1</title>
+    <ns>14</ns>
+    <id>2152</id>
+    <revision>
+      <id>3965</id>
+      <parentid>3959</parentid>
+      <timestamp>2008-07-04T12:41:38Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:User fr]]
+
+[[en:Category:User fr-1]]</text>
+      <sha1>bj894noxyyjijx200z8smsh5qfckcj2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User nl</title>
+    <ns>14</ns>
+    <id>2153</id>
+    <revision>
+      <id>3961</id>
+      <parentid>3960</parentid>
+      <timestamp>2008-07-04T12:38:58Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Wikipedians by language]]
+
+[[en:Category:User nl]]</text>
+      <sha1>6e9hw4bbqoua1ep2jhtbhdbnnpcmarr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User nl-N</title>
+    <ns>14</ns>
+    <id>2154</id>
+    <revision>
+      <id>3962</id>
+      <timestamp>2008-07-04T12:39:41Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: [[Category:User nl]]  [[en:Category:User nl-N]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:User nl]]
+
+[[en:Category:User nl-N]]</text>
+      <sha1>8nru3422936i8nxsmsz5kqwtc4lrujs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User templates de</title>
+    <ns>14</ns>
+    <id>2155</id>
+    <revision>
+      <id>3966</id>
+      <timestamp>2008-07-04T12:44:47Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: [[Category:Language user templates]]  [[en:Category:User templates de]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Language user templates]]
+
+[[en:Category:User templates de]]</text>
+      <sha1>khvstc3u2j58i7ta3rt3svbdt7wfhmq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Language user templates</title>
+    <ns>14</ns>
+    <id>2156</id>
+    <revision>
+      <id>3967</id>
+      <timestamp>2008-07-04T12:45:55Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: [[Category:Userboxes]]  [[en:Category:Language user templates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Userboxes]]
+
+[[en:Category:Language user templates]]</text>
+      <sha1>qe1wlnq5sub6szi7ik6hz10blpvcmmq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Userboxes</title>
+    <ns>14</ns>
+    <id>2157</id>
+    <revision>
+      <id>3968</id>
+      <timestamp>2008-07-04T12:47:32Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: [[Category:Wikipedia]]  [[en:Category:Userboxes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Wikipedia]]
+
+[[en:Category:Userboxes]]</text>
+      <sha1>n0oo7p46qaaz5ogowtmipw6hn4t2vpc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User templates fr</title>
+    <ns>14</ns>
+    <id>2158</id>
+    <revision>
+      <id>3969</id>
+      <timestamp>2008-07-04T12:49:40Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: [[Category:Language user templates]]  [[en:Category:User templates fr]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Language user templates]]
+
+[[en:Category:User templates fr]]</text>
+      <sha1>42umr364nioob6w12uunx4od7efizbi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User templates nl</title>
+    <ns>14</ns>
+    <id>2159</id>
+    <revision>
+      <id>3970</id>
+      <timestamp>2008-07-04T12:50:08Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: [[Category:Language user templates]]  [[en:Category:User templates nl]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Language user templates]]
+
+[[en:Category:User templates nl]]</text>
+      <sha1>1xrtk8cj647a5jazaasftvqm3lgdmue</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Top Level</title>
+    <ns>14</ns>
+    <id>2160</id>
+    <revision>
+      <id>3974</id>
+      <timestamp>2008-07-04T12:56:12Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: This is the '''root''', or '''top level''', of [[Wikipedia:Categorization|Wikipedia's category system]], including encyclopedia articles as well as project pages.  [[en:Category:Contents]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This is the '''root''', or '''top level''', of [[Wikipedia:Categorization|Wikipedia's category system]], including encyclopedia articles as well as project pages.
+
+[[en:Category:Contents]]</text>
+      <sha1>i4u9xe540x6ioj5qg7mxq7bv8ydi6le</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Articles</title>
+    <ns>14</ns>
+    <id>2161</id>
+    <revision>
+      <id>3976</id>
+      <timestamp>2008-07-04T12:57:54Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: [[Category:Top Level]]  [[en:Category:Articles]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Top Level]]
+
+[[en:Category:Articles]]</text>
+      <sha1>qveg7ah3mbtsvow7hpyyo1yd6fnai5v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User he</title>
+    <ns>14</ns>
+    <id>2162</id>
+    <revision>
+      <id>3977</id>
+      <timestamp>2008-07-04T12:59:16Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: [[Category:Wikipedians by language]]  [[en:Category:User he]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Wikipedians by language]]
+
+[[en:Category:User he]]</text>
+      <sha1>nhf3qdjayb9q3y2gehkte72b9i33lcn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User he-N</title>
+    <ns>14</ns>
+    <id>2163</id>
+    <revision>
+      <id>3978</id>
+      <timestamp>2008-07-04T12:59:58Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: [[Category:User he]]  [[en:Category:User he-N]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:User he]]
+
+[[en:Category:User he-N]]</text>
+      <sha1>peeul4pv29ulb8fglz9lx4z3dkiicc9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:User en-2</title>
+    <ns>10</ns>
+    <id>2164</id>
+    <revision>
+      <id>3981</id>
+      <parentid>3979</parentid>
+      <timestamp>2008-07-04T13:07:05Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;float:left; border:1px solid #77E0E8; margin:1px;&quot; class=&quot;wikipediauserbox&quot;&gt;
+{| cellspacing=&quot;0&quot; style=&quot;width:238px; background:#D0F8FF;&quot;
+| style=&quot;width:45px; height:45px; background:#77E0E8; text-align:center; font-size:14pt; color:black; padding:1pt; line-height:1.25em; ; vertical-align: middle;&quot; |'''[[English language|en]]-2'''
+| style=&quot;font-size:8pt; padding:4pt; line-height:1.25em; color:black; ; vertical-align: middle;&quot; | This user is able to contribute with an '''[[:Category:User en-2|intermediate]]''' level of '''[[:Category:User en|English]]'''.
+|}&lt;/div&gt;&lt;includeonly&gt;{{#ifeq:{{{categories}}}|no||[[Category:User en|{{PAGENAME}}]][[Category:User en-2|{{PAGENAME}}]]}}&lt;/includeonly&gt;&lt;noinclude&gt;[[Category:User templates en]]
+
+[[en:Template:User en-2]]
+&lt;/noinclude&gt;</text>
+      <sha1>13kfrbfmqbwk1htxcx99spo6dzawdwz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User templates en</title>
+    <ns>14</ns>
+    <id>2165</id>
+    <revision>
+      <id>3980</id>
+      <timestamp>2008-07-04T13:02:50Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: [[Category:Language user templates]]  [[en:Category:User templates en]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Language user templates]]
+
+[[en:Category:User templates en]]</text>
+      <sha1>l2jjuecogw1ltlocy1fy3bzmfmo89iv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:User en-2</title>
+    <ns>14</ns>
+    <id>2166</id>
+    <revision>
+      <id>3983</id>
+      <timestamp>2008-07-04T18:34:58Z</timestamp>
+      <contributor>
+        <username>כל יכול</username>
+        <id>361</id>
+      </contributor>
+      <comment>New page: [[Category:User en]]  [[en:Category:User en-2]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:User en]]
+
+[[en:Category:User en-2]]</text>
+      <sha1>3zm3xinuex1g95dbii0uls7vu8d69kh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sitenotice</title>
+    <ns>8</ns>
+    <id>2167</id>
+    <revision>
+      <id>4102</id>
+      <parentid>3986</parentid>
+      <timestamp>2014-09-10T12:19:45Z</timestamp>
+      <contributor>
+        <username>Billinghurst</username>
+        <id>3232</id>
+      </contributor>
+      <minor />
+      <comment>locked -&gt; closed, to match naming within http://noc.wikimedia.org/conf/highlight.php?file=closed.dblist, replaced: locked → closed using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;border:3px solid #000; padding:1em;&quot;&gt;'''This wiki has been closed (see [[m:Proposals for closing projects/Closure of Afar Wikipedia|discussion]]).''' To contribute to a future wiki, see the [[incubator:Wp/aa|Wikimedia Incubator project]].&lt;/div&gt;</text>
+      <sha1>887tqic6dmvp2kknibvti08wj0gkguj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Configuredpages-def-stable</title>
+    <ns>8</ns>
+    <id>2170</id>
+    <revision>
+      <id>3991</id>
+      <timestamp>2010-06-12T00:58:57Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Created page with 'accepted revision'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">accepted revision</text>
+      <sha1>d4kwpt05hh7hsq8iykd0wyragae02d3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Flaggedrevs</title>
+    <ns>8</ns>
+    <id>2171</id>
+    <revision>
+      <id>3992</id>
+      <timestamp>2010-05-28T22:26:49Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Pending changes</text>
+      <sha1>olim1lmy2poahwh5lmdqwsnzuw1rdol</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Flaggedrevs-backlog</title>
+    <ns>8</ns>
+    <id>2172</id>
+    <revision>
+      <id>3993</id>
+      <timestamp>2010-05-26T02:38:53Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[User:RobLa/Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">There is currently a backlog of [[Special:OldReviewedPages|pending revisions]] to reviewed pages. '''Your attention is needed!'''</text>
+      <sha1>3osos8nntit20yvk3g6mgjckibbtcfl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Flaggedrevs-desc</title>
+    <ns>8</ns>
+    <id>2173</id>
+    <revision>
+      <id>3994</id>
+      <timestamp>2010-05-26T03:27:01Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Created page with 'Gives autoconfirmed users the ability to review and accept page revisions prior to display'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Gives autoconfirmed users the ability to review and accept page revisions prior to display</text>
+      <sha1>bycsnkumtchb8hdah74krzgmf673rtk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Flaggedrevs-prefs-editdiffs</title>
+    <ns>8</ns>
+    <id>2174</id>
+    <revision>
+      <id>3995</id>
+      <timestamp>2010-05-26T03:28:08Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[User:RobLa/Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Show the difference between the latest accepted version and the latest pending revision when editing pages</text>
+      <sha1>04p7yyjgbf8edc1jy9gt7hnlx1viuxm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Flaggedrevs-prefs-stable</title>
+    <ns>8</ns>
+    <id>2175</id>
+    <revision>
+      <id>3996</id>
+      <timestamp>2010-06-08T16:16:19Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Following terminology guide: http://en.wikipedia.org/wiki/Wikipedia:Pending_changes/Terminology</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Always show the latest accepted revision (if there is one) of a page by default</text>
+      <sha1>oivx0fr45ii5exvj5b98d3u4t8jq73v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Flaggedrevs-prefs-viewdiffs</title>
+    <ns>8</ns>
+    <id>2176</id>
+    <revision>
+      <id>3997</id>
+      <timestamp>2010-05-26T03:35:16Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[User:RobLa/Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Show the difference between the accepted and latest revisions when viewing the latest pending revision</text>
+      <sha1>gfeewy1fsynl9qbxctcabi4co7gldg3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Flaggedrevs-protect-autoconfirmed</title>
+    <ns>8</ns>
+    <id>2177</id>
+    <revision>
+      <id>3998</id>
+      <timestamp>2010-05-26T03:44:04Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[User:RobLa/Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Require review for revisions from new and unregistered users</text>
+      <sha1>6yiexlucgmuhpwhdx9lqjtueeb0a5t3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Flaggedrevs-protect-legend</title>
+    <ns>8</ns>
+    <id>2178</id>
+    <revision>
+      <id>3999</id>
+      <timestamp>2010-05-28T22:28:03Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Pending changes ([[{{MediaWiki:Validationpage}}|?]])</text>
+      <sha1>okq6fl3gpdf8gtbmym3w72guccu1j40</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Flaggedrevs-protect-none</title>
+    <ns>8</ns>
+    <id>2179</id>
+    <revision>
+      <id>4000</id>
+      <timestamp>2010-05-26T05:54:27Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Accept revisions from all users automatically</text>
+      <sha1>lnejb5vl6pkuzfrmsjq2pu9eam4okbl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Flaggedrevs-protect-review</title>
+    <ns>8</ns>
+    <id>2180</id>
+    <revision>
+      <id>4001</id>
+      <timestamp>2010-05-26T05:56:03Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Require review for revisions from everyone except Reviewers</text>
+      <sha1>3coypg7bi63rfo3uo07jpcyutgh1ksj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Flaggedrevs-watched-pending</title>
+    <ns>8</ns>
+    <id>2181</id>
+    <revision>
+      <id>4002</id>
+      <timestamp>2010-05-26T05:58:05Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">There are currently [{{fullurl:{{#Special:OldReviewedPages}}|watched=1}} pending revisions] to pages on your watchlist. '''Your attention is needed!'''</text>
+      <sha1>97g1xmbna1vyau3bcme574pp7wkd7rh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Oldreviewed-stable</title>
+    <ns>8</ns>
+    <id>2182</id>
+    <revision>
+      <id>4003</id>
+      <timestamp>2010-05-28T22:38:02Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Pages using pending changes</text>
+      <sha1>9nnvb4r2p0mhu15j0nah8cbllu78olp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-flaggedrevs</title>
+    <ns>8</ns>
+    <id>2183</id>
+    <revision>
+      <id>4004</id>
+      <timestamp>2010-05-28T22:30:21Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Pending changes</text>
+      <sha1>olim1lmy2poahwh5lmdqwsnzuw1rdol</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Prefs-flaggedrevs-ui</title>
+    <ns>8</ns>
+    <id>2184</id>
+    <revision>
+      <id>4005</id>
+      <timestamp>2010-06-08T16:20:09Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Undoing....won't let me link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Pending changes</text>
+      <sha1>olim1lmy2poahwh5lmdqwsnzuw1rdol</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Review-diff2stable</title>
+    <ns>8</ns>
+    <id>2185</id>
+    <revision>
+      <id>4006</id>
+      <timestamp>2010-05-26T06:08:26Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">View all pending revisions</text>
+      <sha1>435nf3gej6kkv21ebki2fcveprwukl8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Review-edit-diff</title>
+    <ns>8</ns>
+    <id>2186</id>
+    <revision>
+      <id>4007</id>
+      <timestamp>2010-05-26T06:08:48Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''The edit form below includes changes that have not yet been accepted.'''</text>
+      <sha1>mq44oc0693ygx5moj9uoyh075y1t6do</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Review-logentry-app</title>
+    <ns>8</ns>
+    <id>2187</id>
+    <revision>
+      <id>4008</id>
+      <timestamp>2010-05-26T06:09:09Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">reviewed a revision of [[$1]]</text>
+      <sha1>spp7i5hdcd7vpy19q2a1lawj3kkdzva</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Review-logentry-dis</title>
+    <ns>8</ns>
+    <id>2188</id>
+    <revision>
+      <id>4009</id>
+      <timestamp>2010-05-26T06:09:30Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">deprecated a revision of [[$1]]</text>
+      <sha1>61byknocs4txpiowjgih5gimd4fc53i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Review-logpagetext</title>
+    <ns>8</ns>
+    <id>2189</id>
+    <revision>
+      <id>4010</id>
+      <timestamp>2010-05-28T22:32:08Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This is a log of changes to the review status for pages under [[{{MediaWiki:Validationpage}}|Pending changes]].</text>
+      <sha1>jyf0fo4lexq138rih6k0764edcobzg5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-accuracy-0</title>
+    <ns>8</ns>
+    <id>2190</id>
+    <revision>
+      <id>4011</id>
+      <timestamp>2010-05-26T06:12:36Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Unaccepted</text>
+      <sha1>mw69zhf06684x0itwip6qr6sk8hrxfh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-basic</title>
+    <ns>8</ns>
+    <id>2191</id>
+    <revision>
+      <id>4012</id>
+      <timestamp>2010-05-26T17:25:50Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This is the [[{{MediaWiki:Validationpage}}|latest accepted revision]], [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} accepted] on &lt;i&gt;$2&lt;/i&gt;.
+There {{PLURAL:$3|is|are}} [{{fullurl:{{FULLPAGENAMEE}}|oldid=$1&amp;diff=cur&amp;diffonly=0}} $3 pending {{PLURAL:$3|revision|revisions}}] awaiting review.</text>
+      <sha1>rior13ls6opbjf7rpr5kzmcdo7ckdx4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-basic-i</title>
+    <ns>8</ns>
+    <id>2192</id>
+    <revision>
+      <id>4013</id>
+      <timestamp>2010-06-12T00:37:35Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>saving this string before it gets reverted</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This is the [[{{MediaWiki:Validationpage}}|accepted version]], [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} checked] on &lt;i&gt;$2&lt;/i&gt;.
+There are [{{fullurl:{{FULLPAGENAMEE}}|oldid=$1&amp;diff=cur&amp;diffonly=0}} template/file changes] awaiting review.</text>
+      <sha1>fl0pg9j0ck6yakugeo4205jz8twb1tt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-basic-old</title>
+    <ns>8</ns>
+    <id>2193</id>
+    <revision>
+      <id>4014</id>
+      <timestamp>2010-05-26T17:23:50Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This is a [[{{MediaWiki:Validationpage}}|accepted]] version ([{{fullurl:{{#Special:ReviewedVersions}}|page={{FULLPAGENAMEE}}}} list all]), [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} accepted] on &lt;i&gt;$2&lt;/i&gt;.
+	New [{{fullurl:{{FULLPAGENAMEE}}|oldid=$1&amp;diff=cur&amp;diffonly=0}} changes] may have been made.</text>
+      <sha1>8q302atbevvx3ntcu6fheg6yjg7difu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-basic-same</title>
+    <ns>8</ns>
+    <id>2194</id>
+    <revision>
+      <id>4015</id>
+      <timestamp>2010-05-26T17:24:28Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This is the [[{{MediaWiki:Validationpage}}|latest accepted revision]], [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} accepted] on &lt;i&gt;$2&lt;/i&gt;.</text>
+      <sha1>56otmmj2t4fe3e9q7bo53kdz2mi7gk9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-basic-source</title>
+    <ns>8</ns>
+    <id>2195</id>
+    <revision>
+      <id>4016</id>
+      <timestamp>2010-05-26T17:24:46Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">An [{{fullurl:{{FULLPAGENAMEE}}|stableid=$1}} accepted version] of this page, [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} accepted] on &lt;i&gt;$2&lt;/i&gt;, was based off this revision.</text>
+      <sha1>jrc2vfkmjm5drvu6rzwb2inx4jw64vm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-basic-title</title>
+    <ns>8</ns>
+    <id>2196</id>
+    <revision>
+      <id>4017</id>
+      <timestamp>2010-05-26T17:26:15Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This is an accepted version of this page</text>
+      <sha1>suauidd48xecv6b9xm0drsmifg7wm9a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-check-flag</title>
+    <ns>8</ns>
+    <id>2197</id>
+    <revision>
+      <id>4018</id>
+      <timestamp>2010-05-28T12:53:09Z</timestamp>
+      <contributor>
+        <username>AGK</username>
+        <id>242</id>
+      </contributor>
+      <comment>Gr</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Accept this pending revision</text>
+      <sha1>cn4ketatngwd1vguoadaj4ky7a6uci4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-def-stable</title>
+    <ns>8</ns>
+    <id>2199</id>
+    <revision>
+      <id>4020</id>
+      <timestamp>2010-06-12T00:57:27Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>saving this string before it gets reverted</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">accepted</text>
+      <sha1>9jwoz4muuyqy3rcg8ia2g4bcf2006ph</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-depth-0</title>
+    <ns>8</ns>
+    <id>2200</id>
+    <revision>
+      <id>4021</id>
+      <timestamp>2010-05-26T17:32:04Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Unaccepted</text>
+      <sha1>mw69zhf06684x0itwip6qr6sk8hrxfh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-diff-toggle-title</title>
+    <ns>8</ns>
+    <id>2201</id>
+    <revision>
+      <id>4022</id>
+      <timestamp>2010-06-12T00:56:57Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>use &quot;revision&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Toggle display of pending changes to the latest accepted revision</text>
+      <sha1>e1mhr7tjphdp35er5oug3r1puvkupi0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-draft-title</title>
+    <ns>8</ns>
+    <id>2202</id>
+    <revision>
+      <id>4023</id>
+      <timestamp>2010-05-26T17:35:52Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Another tweak</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">The latest pending revision is displayed on this page</text>
+      <sha1>p7ek5ojwwfwxkasz7ligtllcp5y5hvo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-edited</title>
+    <ns>8</ns>
+    <id>2203</id>
+    <revision>
+      <id>4024</id>
+      <timestamp>2010-06-12T00:56:29Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Thank you for contributing to Wikipedia! Your changes will be reviewed shortly ([[{{MediaWiki:Validationpage}}|?]])'''
+
+There {{PLURAL:$2|is|are}} [{{fullurl:{{FULLPAGENAMEE}}|oldid=$1&amp;diff=cur&amp;diffonly=0}} $2 pending {{PLURAL:$2|revision|revisions}}] ''(shown below)'' awaiting review.</text>
+      <sha1>lnkrq23dl5hao5jfdw2s8ddguc28b2k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-editnotice</title>
+    <ns>8</ns>
+    <id>2204</id>
+    <revision>
+      <id>4025</id>
+      <timestamp>2010-06-12T00:56:02Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Using &quot;changes&quot; here</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Thank you for contributing to Wikipedia! Your changes will be reviewed shortly ([[{{MediaWiki:Validationpage}}|?]])'''</text>
+      <sha1>2ljdy0mp2lej1sorj7aewsmwtjvqvyi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-filter-approved</title>
+    <ns>8</ns>
+    <id>2205</id>
+    <revision>
+      <id>4026</id>
+      <timestamp>2010-05-26T17:43:39Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Accepted</text>
+      <sha1>bejdrh7280hix9q7w3yu0q4i96f5hch</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-filter-reapproved</title>
+    <ns>8</ns>
+    <id>2206</id>
+    <revision>
+      <id>4027</id>
+      <timestamp>2010-05-26T17:43:58Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Reaccepted</text>
+      <sha1>qlw1b1qv1hol4k9rre8cjwy0z5l993u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-filter-stable</title>
+    <ns>8</ns>
+    <id>2207</id>
+    <revision>
+      <id>4028</id>
+      <timestamp>2010-06-12T00:54:02Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>saving this string before it gets reverted</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">accepted</text>
+      <sha1>9jwoz4muuyqy3rcg8ia2g4bcf2006ph</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-filter-unapproved</title>
+    <ns>8</ns>
+    <id>2208</id>
+    <revision>
+      <id>4029</id>
+      <timestamp>2010-05-26T17:44:16Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Unaccepted</text>
+      <sha1>mw69zhf06684x0itwip6qr6sk8hrxfh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-hist-basic</title>
+    <ns>8</ns>
+    <id>2209</id>
+    <revision>
+      <id>4030</id>
+      <timestamp>2010-05-26T17:45:04Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">accepted revision</text>
+      <sha1>d4kwpt05hh7hsq8iykd0wyragae02d3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-hist-basic-auto</title>
+    <ns>8</ns>
+    <id>2210</id>
+    <revision>
+      <id>4031</id>
+      <timestamp>2010-05-26T17:45:28Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[{{fullurl:$1|stableid=$2}} automatically accepted]</text>
+      <sha1>l3z173wht4g0a5hw4ypj1w3gnj0emev</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-hist-basic-user</title>
+    <ns>8</ns>
+    <id>2211</id>
+    <revision>
+      <id>4032</id>
+      <timestamp>2010-05-26T17:45:53Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[{{fullurl:$1|stableid=$2}} accepted] by [[User:$3|$3]]</text>
+      <sha1>pu6u627m8hi564bjyn3cs561xge1q6h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-hist-draft</title>
+    <ns>8</ns>
+    <id>2212</id>
+    <revision>
+      <id>4033</id>
+      <timestamp>2010-05-26T17:46:23Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">pending revision</text>
+      <sha1>lc16ek9xjgrzazjkq76bh8ev6bttgik</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-lev-basic</title>
+    <ns>8</ns>
+    <id>2213</id>
+    <revision>
+      <id>4034</id>
+      <timestamp>2010-05-26T17:47:45Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">accepted</text>
+      <sha1>9jwoz4muuyqy3rcg8ia2g4bcf2006ph</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-locked</title>
+    <ns>8</ns>
+    <id>2214</id>
+    <revision>
+      <id>4035</id>
+      <timestamp>2010-05-26T17:48:40Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Note:''' Edits to this page are subject to review ([[{{MediaWiki:Validationpage}}|help]]).</text>
+      <sha1>86kloh3wic8sx67ccra317hyee4yaiy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-locked-title</title>
+    <ns>8</ns>
+    <id>2215</id>
+    <revision>
+      <id>4036</id>
+      <timestamp>2010-06-12T00:54:28Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Using &quot;changes&quot; here</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Changes must be reviewed before being displayed on this page.</text>
+      <sha1>38xtqsseeu7c6m5bths1p2eoy6q6i23</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-log-details-title</title>
+    <ns>8</ns>
+    <id>2216</id>
+    <revision>
+      <id>4037</id>
+      <timestamp>2010-05-28T22:33:21Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Toggle display of pending changes log</text>
+      <sha1>bziq7cybxym1gpgk1w13qf9yujciu4b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-log-toggle-hide</title>
+    <ns>8</ns>
+    <id>2217</id>
+    <revision>
+      <id>4038</id>
+      <timestamp>2010-06-04T20:53:50Z</timestamp>
+      <contributor>
+        <username>imported&gt;Voice of All</username>
+        <id>0</id>
+      </contributor>
+      <comment>Created page with 'hide pending changes log'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">hide pending changes log</text>
+      <sha1>qznbr3laspr2vtnn9sagakbky87276s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-log-toggle-show</title>
+    <ns>8</ns>
+    <id>2218</id>
+    <revision>
+      <id>4039</id>
+      <timestamp>2010-05-28T22:33:32Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">show pending changes log</text>
+      <sha1>lbu6yp1ykahy2ed96djlfdc2skwhdt2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-newest-basic</title>
+    <ns>8</ns>
+    <id>2219</id>
+    <revision>
+      <id>4040</id>
+      <timestamp>2010-05-26T20:28:00Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">The [{{fullurl:{{FULLPAGENAMEE}}|stable=1}} latest accepted version] was [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} accepted] on &lt;i&gt;$2&lt;/i&gt;. There {{PLURAL:$3|is|are}} [{{fullurl:{{FULLPAGENAMEE}}|oldid=$1&amp;diff=cur&amp;diffonly=0}} $3 pending {{PLURAL:$3|revision|revisions}}] awaiting review.</text>
+      <sha1>fc21eryi5d963pv24lc4uqyynnf9lv7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-newest-basic-i</title>
+    <ns>8</ns>
+    <id>2220</id>
+    <revision>
+      <id>4041</id>
+      <timestamp>2010-05-26T20:27:07Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">The [{{fullurl:{{FULLPAGENAMEE}}|stable=1}} latest accepted revision] was [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} accepted] on &lt;i&gt;$2&lt;/i&gt;. There are [{{fullurl:{{FULLPAGENAMEE}}|oldid=$1&amp;diff=cur&amp;diffonly=0}} template/file revisions] awaiting review.</text>
+      <sha1>9r8842u3syoalscp946ay7939wa5zvx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-newest-quality</title>
+    <ns>8</ns>
+    <id>2221</id>
+    <revision>
+      <id>4042</id>
+      <timestamp>2010-06-12T00:53:29Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">The [{{fullurl:{{FULLPAGENAMEE}}|stable=1}} latest accepted revision] was [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} reviewed] on &lt;i&gt;$2&lt;/i&gt;. There {{PLURAL:$3|is|are}} [{{fullurl:{{FULLPAGENAMEE}}|oldid=$1&amp;diff=cur&amp;diffonly=0}} $3 pending {{PLURAL:$3|revision|revisions}}] awaiting review.</text>
+      <sha1>ekk1y8upuylj5aojsgjyl4vvze8pu0r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-newest-quality-i</title>
+    <ns>8</ns>
+    <id>2222</id>
+    <revision>
+      <id>4043</id>
+      <timestamp>2010-06-12T00:51:14Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>saving this string before it gets reverted</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">The [{{fullurl:{{FULLPAGENAMEE}}|stable=1}} accepted version] was [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} reviewed] on &lt;i&gt;$2&lt;/i&gt;. There are [{{fullurl:{{FULLPAGENAMEE}}|oldid=$1&amp;diff=cur&amp;diffonly=0}} template/file changes] awaiting review.</text>
+      <sha1>a52eao1mzptmqu09yhz2v7b067z23hd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-noflagged</title>
+    <ns>8</ns>
+    <id>2223</id>
+    <revision>
+      <id>4044</id>
+      <timestamp>2010-05-26T20:30:01Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">There are no [[{{MediaWiki:Validationpage}}|accepted]] revisions of this page, so it may '''not''' have been [[{{MediaWiki:Validationpage}}|reviewed]] by anyone but the original author</text>
+      <sha1>gyb9i6fkzfinqxqe1p0fok34e06qvvl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-pending-basic</title>
+    <ns>8</ns>
+    <id>2224</id>
+    <revision>
+      <id>4045</id>
+      <timestamp>2010-06-12T00:46:17Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Using &quot;reviewed&quot; in this context, since &quot;accepted&quot; is assumed from &quot;latest accepted revision&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">The [{{fullurl:{{FULLPAGENAMEE}}|stable=1}} latest accepted version] was [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} reviewed] on &lt;i&gt;$2&lt;/i&gt;. There {{PLURAL:$3|is|are}} [{{fullurl:{{FULLPAGENAMEE}}|oldid=$1&amp;diff=cur&amp;diffonly=0}} $3 pending {{PLURAL:$3|revision|revisions}}] awaiting review.</text>
+      <sha1>cterg94yg9l136rflt7a7zztgi25hi2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-pending-quality</title>
+    <ns>8</ns>
+    <id>2225</id>
+    <revision>
+      <id>4046</id>
+      <timestamp>2010-06-12T00:44:30Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Created page with 'The [{{fullurl:{{FULLPAGENAMEE}}|stable=1}} accepted version] was [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} reviewed] on &lt;i&gt;$2&lt;/i&gt;. There {{PLURAL:$3|is|ar...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">The [{{fullurl:{{FULLPAGENAMEE}}|stable=1}} accepted version] was [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} reviewed] on &lt;i&gt;$2&lt;/i&gt;. There {{PLURAL:$3|is|are}} [{{fullurl:{{FULLPAGENAMEE}}|oldid=$1&amp;diff=cur&amp;diffonly=0}} $3 pending {{PLURAL:$3|change|changes}}] awaiting review.</text>
+      <sha1>ma6b65j8zop3i38xqafud9ug1v185vz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-quality</title>
+    <ns>8</ns>
+    <id>2226</id>
+    <revision>
+      <id>4047</id>
+      <timestamp>2010-06-12T00:44:09Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Created page with 'This is the [[{{MediaWiki:Validationpage}}|accepted version]], [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} reviewed] on &lt;i&gt;$2&lt;/i&gt;. There {{PLURAL:$3|is|are}}...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This is the [[{{MediaWiki:Validationpage}}|accepted version]], [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} reviewed] on &lt;i&gt;$2&lt;/i&gt;.
+There {{PLURAL:$3|is|are}} [{{fullurl:{{FULLPAGENAMEE}}|oldid=$1&amp;diff=cur&amp;diffonly=0}} $3 pending {{PLURAL:$3|change|changes}}] awaiting review.</text>
+      <sha1>i9l30jv9b6v706sqo96t2fhhl9lhwoj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-quality-i</title>
+    <ns>8</ns>
+    <id>2227</id>
+    <revision>
+      <id>4048</id>
+      <timestamp>2010-06-12T00:43:39Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Using &quot;reviewed&quot; rather than &quot;approved&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This is the [[{{MediaWiki:Validationpage}}|accepted version]], [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} reviewed] on &lt;i&gt;$2&lt;/i&gt;.
+There are [{{fullurl:{{FULLPAGENAMEE}}|oldid=$1&amp;diff=cur&amp;diffonly=0}} template/file changes] awaiting review.</text>
+      <sha1>s0x8xwurlbrswe5pdqw4zt1yqjl1kek</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-quality-same</title>
+    <ns>8</ns>
+    <id>2228</id>
+    <revision>
+      <id>4049</id>
+      <timestamp>2010-06-12T00:42:33Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This is the [[{{MediaWiki:Validationpage}}|accepted version]], [{{fullurl:{{#Special:Log}}|type=review&amp;page={{FULLPAGENAMEE}}}} reviewed] on &lt;i&gt;$2&lt;/i&gt;.</text>
+      <sha1>n94npz6mr51euszovt23ijy9rgxnjpv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-quick-basic</title>
+    <ns>8</ns>
+    <id>2229</id>
+    <revision>
+      <id>4050</id>
+      <timestamp>2010-05-26T20:31:30Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''[[{{MediaWiki:Validationpage}}|Accepted]]''' [[{{fullurl:{{FULLPAGENAMEE}}|oldid=$1&amp;diff=cur&amp;diffonly=0}} review pending revisions]]</text>
+      <sha1>lemwx97613swzl1xzh92pg2rdl0k688</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-quick-basic-old</title>
+    <ns>8</ns>
+    <id>2230</id>
+    <revision>
+      <id>4051</id>
+      <timestamp>2010-05-26T20:32:03Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''[[{{MediaWiki:Validationpage}}|Accepted]]'''</text>
+      <sha1>g0bp5r7nuz7bvasbc3wbpwo7dwqbfcy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-quick-basic-same</title>
+    <ns>8</ns>
+    <id>2231</id>
+    <revision>
+      <id>4052</id>
+      <timestamp>2010-05-26T20:32:37Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''[[{{MediaWiki:Validationpage}}|Accepted]]'''</text>
+      <sha1>g0bp5r7nuz7bvasbc3wbpwo7dwqbfcy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-quick-none</title>
+    <ns>8</ns>
+    <id>2232</id>
+    <revision>
+      <id>4053</id>
+      <timestamp>2010-05-26T20:33:15Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''[[{{MediaWiki:Validationpage}}|Unaccepted]]'''</text>
+      <sha1>pkxq7q4u8j794tsad75bhbctlfr2zvf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-quick-see-basic</title>
+    <ns>8</ns>
+    <id>2233</id>
+    <revision>
+      <id>4054</id>
+      <timestamp>2010-05-26T20:36:04Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[{{fullurl:{{FULLPAGENAMEE}}|oldid=$1&amp;diff=cur&amp;diffonly=0}} review pending revisions]]</text>
+      <sha1>5qe2s44il9n1aw73r98snrbjc0ueuh9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-reviewlink</title>
+    <ns>8</ns>
+    <id>2234</id>
+    <revision>
+      <id>4055</id>
+      <timestamp>2010-05-26T20:36:37Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">pending revisions</text>
+      <sha1>7kaivf9mmby9bhrpmq8q1hmjh0o4uk1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-reviewlink-title</title>
+    <ns>8</ns>
+    <id>2235</id>
+    <revision>
+      <id>4056</id>
+      <timestamp>2010-05-26T20:38:03Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">View difference between latest accepted and pending revisions</text>
+      <sha1>6zl9rn5xuyztzut16k94tfpyhov9hmd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-stable</title>
+    <ns>8</ns>
+    <id>2236</id>
+    <revision>
+      <id>4057</id>
+      <timestamp>2010-05-27T18:53:47Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Accepted page</text>
+      <sha1>k9resudmrhm1sozcefv4um9s7zvqvr5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-stable1</title>
+    <ns>8</ns>
+    <id>2237</id>
+    <revision>
+      <id>4058</id>
+      <timestamp>2010-05-26T20:39:30Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">You may want to view [{{fullurl:$1|stableid=$2}} this accepted revision] and see if it is now the [{{fullurl:$1|stable=1}} latest accepted revision] of this page.</text>
+      <sha1>6jyk50kr0v9kscu3d6m4jfkmyt045y6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-stable2</title>
+    <ns>8</ns>
+    <id>2238</id>
+    <revision>
+      <id>4059</id>
+      <timestamp>2010-05-26T20:40:06Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">You may want to view the [{{fullurl:$1|stable=1}} latest accepted revision] of this page.</text>
+      <sha1>pivyma00rk7kadfcidxd67dxp2d1evu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-text</title>
+    <ns>8</ns>
+    <id>2240</id>
+    <revision>
+      <id>4061</id>
+      <timestamp>2010-05-26T21:13:21Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">''[[{{MediaWiki:Validationpage}}|Accepted revisions]] are all pages that have historically been marked as accepted.  The latest accepted revision is shown to most users.''</text>
+      <sha1>33x0v41qxc3tzk70yrf787mjr06arkq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-tt-flag</title>
+    <ns>8</ns>
+    <id>2241</id>
+    <revision>
+      <id>4062</id>
+      <timestamp>2010-05-26T21:14:40Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Mark this revision as accepted</text>
+      <sha1>5hw6b93scdtjc9zeof5mviro5ovb9bg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-tt-unflag</title>
+    <ns>8</ns>
+    <id>2242</id>
+    <revision>
+      <id>4063</id>
+      <timestamp>2010-05-26T21:15:39Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Revoke acceptance of this revision by marking it as unaccepted</text>
+      <sha1>cwbdbvx3j5yu4of8vz2jl1kg4c7hs6y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-unlocked</title>
+    <ns>8</ns>
+    <id>2243</id>
+    <revision>
+      <id>4064</id>
+      <timestamp>2010-05-26T21:20:04Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Note:''' Edits to this page are not subject to review.  Your changes will immediately become visible to everyone. ([[{{MediaWiki:Validationpage}}|help]])</text>
+      <sha1>etued6xjmss6iqji8it39gpwqr3hjk3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-unlocked-title</title>
+    <ns>8</ns>
+    <id>2244</id>
+    <revision>
+      <id>4065</id>
+      <timestamp>2010-05-26T21:21:13Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Changes do not require review before being visible to everyone.</text>
+      <sha1>c0v61yf5b9sckz5xkn902i6gzphzucx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-unreviewedpage</title>
+    <ns>8</ns>
+    <id>2245</id>
+    <revision>
+      <id>4066</id>
+      <timestamp>2010-05-27T18:54:24Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">unreviewed page</text>
+      <sha1>2h80fk6tfl5jpksiitvnvz68wznchi4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-update</title>
+    <ns>8</ns>
+    <id>2246</id>
+    <revision>
+      <id>4067</id>
+      <timestamp>2010-05-26T21:24:27Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Please [[{{MediaWiki:Validationpage}}|review]] the pending revision below.</text>
+      <sha1>n59waxhzst4fje652uzdxobvt6wusbj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-update-edited</title>
+    <ns>8</ns>
+    <id>2247</id>
+    <revision>
+      <id>4068</id>
+      <timestamp>2010-05-30T21:10:11Z</timestamp>
+      <contributor>
+        <username>imported&gt;Voice of All</username>
+        <id>0</id>
+      </contributor>
+      <comment>msg split</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;span class=&quot;flaggedrevs_important&quot;&gt;Your changes have not yet been accepted.&lt;/span&gt;
+
+To display your changes to all readers, please review all of the changes shown below.  You may first need to follow-up on or &quot;undo&quot; edits.</text>
+      <sha1>f3ze957m00amvgk7j9h6gb0amgvtge2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-update-edited-prev</title>
+    <ns>8</ns>
+    <id>2248</id>
+    <revision>
+      <id>4069</id>
+      <timestamp>2010-05-30T21:09:55Z</timestamp>
+      <contributor>
+        <username>imported&gt;Voice of All</username>
+        <id>0</id>
+      </contributor>
+      <comment>Created page with '&lt;span class=&quot;flaggedrevs_important&quot;&gt;Your changes have not yet been accepted.&lt;/span&gt;  There are pending revisions awaiting review. To display your changes to all readers, please r...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;span class=&quot;flaggedrevs_important&quot;&gt;Your changes have not yet been accepted.&lt;/span&gt;
+
+There are pending revisions awaiting review. To display your changes to all readers, please review all of the changes shown below.  You may first need to follow-up on or &quot;undo&quot; edits.</text>
+      <sha1>gqukqcokcd2ijsdbpair39mmsilby1v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-update-use</title>
+    <ns>8</ns>
+    <id>2249</id>
+    <revision>
+      <id>4070</id>
+      <timestamp>2010-05-26T21:25:32Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''NOTE:''' The accepted revision of each of these templates/files is included in the accepted revision of this page.</text>
+      <sha1>hvz4r6aczsocdm8bkhe25ul6ge80tfq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-visibility</title>
+    <ns>8</ns>
+    <id>2250</id>
+    <revision>
+      <id>4071</id>
+      <timestamp>2010-05-28T22:34:32Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''This page has an updated [[{{MediaWiki:Validationpage}}|accepted revision]]; Pending changes settings can be [{{fullurl:{{#Special:Stabilization}}|page={{FULLPAGENAMEE}}}} configured].'''</text>
+      <sha1>68m8hd0uwtahd05r07628i1xxagj9a7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-visibility2</title>
+    <ns>8</ns>
+    <id>2251</id>
+    <revision>
+      <id>4072</id>
+      <timestamp>2010-05-26T21:26:54Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]].  This is a placeholder until we decide the name (want to make sure search/replace works)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''This page has an outdated [[{{MediaWiki:Validationpage}}|accepted revision]]; Flagged protection settings can be [{{fullurl:{{#Special:Stabilization}}|page={{FULLPAGENAMEE}}}} configured].'''</text>
+      <sha1>18obzw2xmf65evcl0kj56a8e7oes29k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Revreview-visibility3</title>
+    <ns>8</ns>
+    <id>2252</id>
+    <revision>
+      <id>4073</id>
+      <timestamp>2010-05-26T21:27:15Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]].  This is a placeholder until we decide the name (want to make sure search/replace works)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''This page does not have a [[{{MediaWiki:Validationpage}}|accepted revision]]; Flagged protection settings can be [{{fullurl:{{#Special:Stabilization}}|page={{FULLPAGENAMEE}}}} configured].'''</text>
+      <sha1>4pzwnci8jk0vcl6u88557zogqs3pfl1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Right-autoreview</title>
+    <ns>8</ns>
+    <id>2253</id>
+    <revision>
+      <id>4074</id>
+      <timestamp>2010-05-26T21:28:35Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Have one's own revisions automatically marked as &quot;accepted&quot;</text>
+      <sha1>tiluezz98ultohh2cbb8y6xxgug160k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Right-movestable</title>
+    <ns>8</ns>
+    <id>2254</id>
+    <revision>
+      <id>4075</id>
+      <timestamp>2010-05-28T22:35:01Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Move pages under pending changes</text>
+      <sha1>8nune5lykq76q91i0d6y0hfhgo5m8c2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Right-review</title>
+    <ns>8</ns>
+    <id>2255</id>
+    <revision>
+      <id>4076</id>
+      <timestamp>2010-05-26T21:30:38Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Mark revisions as being &quot;accepted&quot;</text>
+      <sha1>fnk6gdvxe5bh8pzpj465m5zofqf8aid</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Right-stablesettings</title>
+    <ns>8</ns>
+    <id>2256</id>
+    <revision>
+      <id>4077</id>
+      <timestamp>2010-06-12T01:07:31Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Configure how the latest accepted revision is selected and displayed</text>
+      <sha1>ke81zs0dffyncj7lyb7rjqy99y159j1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Specialpages-group-quality</title>
+    <ns>8</ns>
+    <id>2257</id>
+    <revision>
+      <id>4078</id>
+      <timestamp>2010-05-28T22:35:26Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Pending changes</text>
+      <sha1>olim1lmy2poahwh5lmdqwsnzuw1rdol</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Stabilization-def1</title>
+    <ns>8</ns>
+    <id>2258</id>
+    <revision>
+      <id>4079</id>
+      <timestamp>2010-06-12T01:06:52Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Created page with 'The accepted revision if present; otherwise the latest revision'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">The accepted revision if present; otherwise the latest revision</text>
+      <sha1>l35ai7ffie1pd6qdiflvbzqe2usijd9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Stabilization-def-short-1</title>
+    <ns>8</ns>
+    <id>2259</id>
+    <revision>
+      <id>4080</id>
+      <timestamp>2010-06-12T01:05:43Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Created page with 'Accepted'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Accepted</text>
+      <sha1>bejdrh7280hix9q7w3yu0q4i96f5hch</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Stabilization-leg</title>
+    <ns>8</ns>
+    <id>2260</id>
+    <revision>
+      <id>4081</id>
+      <timestamp>2010-06-12T01:05:28Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Created page with 'Confirm settings for pending changes'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Confirm settings for pending changes</text>
+      <sha1>67i3tght9ccryuf3cztzqmjwx67tq5v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Stabilization-perm</title>
+    <ns>8</ns>
+    <id>2261</id>
+    <revision>
+      <id>4082</id>
+      <timestamp>2010-06-12T01:04:42Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Created page with 'Your account does not have permission to alter the pending changes configuration. Here are the current settings for [[:$1|$1]]:'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Your account does not have permission to alter the pending changes configuration.
+Here are the current settings for [[:$1|$1]]:</text>
+      <sha1>dir0no0fswkahejlcopa6n8sm1ajs81</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Stabilize protect quota</title>
+    <ns>8</ns>
+    <id>2262</id>
+    <revision>
+      <id>4083</id>
+      <timestamp>2010-06-11T22:07:45Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>customized for enwiki</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Sorry, no more pages can be put under pending changes protection (limit: 2000 pages)</text>
+      <sha1>i0u8fcvrus372mdp5lrjr572bt3q0uc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Stable-logentry-config</title>
+    <ns>8</ns>
+    <id>2263</id>
+    <revision>
+      <id>4084</id>
+      <timestamp>2010-05-28T22:35:41Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">configured pending changes settings for [[$1]]</text>
+      <sha1>fasxae69xb9mor0tk825x7bt20q9ne3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Stable-logentry-modify</title>
+    <ns>8</ns>
+    <id>2264</id>
+    <revision>
+      <id>4085</id>
+      <timestamp>2010-06-12T01:01:40Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Created page with 'altered pending changes settings for $1'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">altered pending changes settings for $1</text>
+      <sha1>g3di4i2xthwdg0b71ljri2kx7fhky2y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Stable-logentry-reset</title>
+    <ns>8</ns>
+    <id>2265</id>
+    <revision>
+      <id>4086</id>
+      <timestamp>2010-05-28T22:36:07Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">reset pending changes settings for [[$1]]</text>
+      <sha1>cuml25ett545qaowscr30oaaitpsqpx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Stable-logpage</title>
+    <ns>8</ns>
+    <id>2266</id>
+    <revision>
+      <id>4087</id>
+      <timestamp>2010-05-28T22:36:19Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Pending changes log</text>
+      <sha1>rwlbnl4bgi6pg7xvi1ol3s8lyg4zs61</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Stable-logpagetext</title>
+    <ns>8</ns>
+    <id>2267</id>
+    <revision>
+      <id>4088</id>
+      <timestamp>2010-06-12T01:00:46Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>cleanup</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This is a log of changes to the [[{{MediaWiki:Validationpage}}|pending changes]] configuration for individual pages.</text>
+      <sha1>9b1a40srx5ff30g0zry0q1ny1xhk7cd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Stable-log-restriction</title>
+    <ns>8</ns>
+    <id>2268</id>
+    <revision>
+      <id>4089</id>
+      <timestamp>2010-05-26T21:39:56Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Accept: require &quot;$1&quot; permission</text>
+      <sha1>cqmppv7ox9c6yzveuvac0ayb9irj9yu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Stablepages</title>
+    <ns>8</ns>
+    <id>2269</id>
+    <revision>
+      <id>4090</id>
+      <timestamp>2010-05-28T22:37:47Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Pages using pending changes</text>
+      <sha1>9nnvb4r2p0mhu15j0nah8cbllu78olp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Stablepages-text</title>
+    <ns>8</ns>
+    <id>2270</id>
+    <revision>
+      <id>4091</id>
+      <timestamp>2010-05-27T18:52:47Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Below is a list of pages that are restricted so that revisions from new and unregistered users require review.  Unreviewed revisions are not shown by default until an authorized user accepts them.</text>
+      <sha1>i0gwesa41smmi3wyz8dw1zcdsww7ien</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Tooltip-ca-stable</title>
+    <ns>8</ns>
+    <id>2271</id>
+    <revision>
+      <id>4092</id>
+      <timestamp>2010-05-26T21:40:32Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">View the accepted revision of this page</text>
+      <sha1>ncs1xe6utcw3ewfnyk8ildyzuuojz4r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Validationpage</title>
+    <ns>8</ns>
+    <id>2272</id>
+    <revision>
+      <id>4093</id>
+      <timestamp>2010-06-04T18:16:26Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>Using the feature name</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{ns:help}}:Pending changes</text>
+      <sha1>6gc8kj7gtmr2aal2gc1nnsnhg0qhtsx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Validationstatistics-latest</title>
+    <ns>8</ns>
+    <id>2273</id>
+    <revision>
+      <id>4094</id>
+      <timestamp>2010-05-26T21:45:15Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>See [[Wikimedia:Message updates]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Fully reviewed</text>
+      <sha1>qujxkworop460vkngmhhjrhs8353166</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Validationstatistics-stable</title>
+    <ns>8</ns>
+    <id>2274</id>
+    <revision>
+      <id>4095</id>
+      <timestamp>2010-05-28T22:37:04Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Using &quot;pending changes&quot; (% of all articles)</text>
+      <sha1>cza9ohxiyox20bfh488zy4jda91d2vf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Validationstatistics-synced</title>
+    <ns>8</ns>
+    <id>2275</id>
+    <revision>
+      <id>4096</id>
+      <timestamp>2010-05-28T22:37:32Z</timestamp>
+      <contributor>
+        <username>imported&gt;RobLa</username>
+        <id>0</id>
+      </contributor>
+      <comment>New name: &quot;Pending changes&quot;.  See http://lists.wikimedia.org/pipermail/wikien-l/2010-May/106800.html</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Fully reviewed as % of subset using pending changes</text>
+      <sha1>1i7i227s25zkkfa0b59fmlszcazbtyc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:FlowMention</title>
+    <ns>10</ns>
+    <id>2388</id>
+    <revision>
+      <id>4439</id>
+      <timestamp>2015-08-03T23:29:02Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>3247</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">@[[User:{{{1|Example}}}|{{{2|{{{1|Example}}}}}}]]</text>
+      <sha1>ht62w5zp7ueoczj6k5jj4tnpk907kdj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:LQT Moved thread stub converted to Flow</title>
+    <ns>10</ns>
+    <id>2389</id>
+    <revision>
+      <id>4440</id>
+      <timestamp>2015-10-02T19:51:54Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>3247</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This post by {{{author}}} was moved on {{{date}}}. You can find it at [[{{{title}}}]].</text>
+      <sha1>e5j16chw2130kmdotptl65jvxa6lw5w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:LQT page converted to Flow</title>
+    <ns>10</ns>
+    <id>2390</id>
+    <revision>
+      <id>4441</id>
+      <timestamp>2015-10-02T19:51:55Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>3247</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Previous page history was archived for backup purposes at &lt;span class='flow-link-to-archive'&gt;[[{{{archive}}}]]&lt;/span&gt; on {{#time: Y-m-d|{{{date}}}}}.</text>
+      <sha1>njhr9sbh7lx81p2xfwikn7amdd3n1zn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Archive for converted LQT page</title>
+    <ns>10</ns>
+    <id>2391</id>
+    <revision>
+      <id>4442</id>
+      <timestamp>2015-10-02T19:51:55Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>3247</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This page is an archived LiquidThreads page. '''Do not edit the contents of this page'''. Please direct any additional comments to the [[{{{from}}}|current talk page]].</text>
+      <sha1>nigyidinm7czjt0s9dq851dwhckapia</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:LQT post imported with supressed user</title>
+    <ns>10</ns>
+    <id>2392</id>
+    <revision>
+      <id>4443</id>
+      <timestamp>2015-10-02T19:51:55Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>3247</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This revision was imported from LiquidThreads with a suppressed user. It has been reassigned to the current user.</text>
+      <sha1>1pswkbcu7hauadd98nklgf3pku080ee</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:LQT post imported with different signature user</title>
+    <ns>10</ns>
+    <id>2393</id>
+    <revision>
+      <id>4444</id>
+      <timestamp>2015-10-02T19:51:55Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>3247</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">''This post was posted by [[User:{{{authorUser}}}|{{{authorUser}}}]], but signed as [[User:{{{signatureUser}}}|{{{signatureUser}}}]].''</text>
+      <sha1>gr9xg2oo9p9alcaf8usi587bcmsi65s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Wikitext talk page converted to Flow</title>
+    <ns>10</ns>
+    <id>2394</id>
+    <revision>
+      <id>4445</id>
+      <timestamp>2015-10-02T19:51:55Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>3247</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Previous discussion was archived at &lt;span class='flow-link-to-archive'&gt;[[{{{archive}}}]]&lt;/span&gt; on {{#time: Y-m-d|{{{date}}}}}.</text>
+      <sha1>ccusakfp9y2sl227h5sbt4ok1ptcsxi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Archive for converted wikitext talk page</title>
+    <ns>10</ns>
+    <id>2395</id>
+    <revision>
+      <id>4446</id>
+      <timestamp>2015-10-02T19:51:55Z</timestamp>
+      <contributor>
+        <username>Flow talk page manager</username>
+        <id>3247</id>
+      </contributor>
+      <comment>/* Automatically created by Flow */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This page is an archive. '''Do not edit the contents of this page'''. Please direct any additional comments to the [[{{{from|{{TALKSPACE}}:{{BASEPAGENAME}}}}}|current talk page]].</text>
+      <sha1>hd1xxik7k0u7gcb9oq9ddgh20zmhpy4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sitesupport-url</title>
+    <ns>8</ns>
+    <id>2396</id>
+    <revision>
+      <id>4447</id>
+      <timestamp>2016-02-11T23:14:42Z</timestamp>
+      <contributor>
+        <ip>127.0.0.1</ip>
+      </contributor>
+      <comment>Setting sidebar link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=ady.wikipedia.org&amp;uselang=ady</text>
+      <sha1>f01r6ohxf2qf1lc4dgzind9cao6sawg</sha1>
+    </revision>
+  </page>
+</mediawiki>

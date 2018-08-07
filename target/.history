@@ -1,0 +1,8 @@
+scalac MapFold.scaka
+scalac MapFold.scala
+build
+import cats._
+build
+sbt suild
+compile
+exit

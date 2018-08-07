@@ -1,0 +1,62 @@
+<xml>
+<page>
+<title>
+A
+</title>
+<id>
+19
+</id>
+<text>
+
+a [[f]]
+c [[C|the dog is happy]] b c [[D]] c d [[Category:B]]
+</text>
+</page>
+
+<page>
+<title>
+Category:B
+</title>
+<id>
+2
+</id>
+<text>
+a c [[Category:9]] d e f 
+b [[Category:E| the happy family]] '@!$'
+</text>
+</page>
+
+<page>
+<title>
+C
+</title>
+<id>
+101
+</id>
+<text> 
+</text>
+</page>
+
+<page>
+<title>
+D
+</title>
+<id>
+101321
+</id>
+<text>
+[[c|a|b]] p q [[Category:E|e]] d
+</text>
+</page>
+<page>
+<title>
+Category:E
+</title>
+<id>
+11101
+</id>
+<text>
+[[Category: A]] [[Category:B]]
+</text>
+</page>
+</xml>

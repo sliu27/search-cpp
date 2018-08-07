@@ -1,0 +1,28 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/susan/Search/Index.scala:2:14: object xml is not a member of package scala[0m
+[0m[[0m[31merror[0m] [0m[0mimport scala.xml.Node[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/susan/Search/Index.scala:3:14: object xml is not a member of package scala[0m
+[0m[[0m[31merror[0m] [0m[0mimport scala.xml.NodeSeq[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/susan/Search/Index.scala:11:15: object src is not a member of package search[0m
+[0m[[0m[31merror[0m] [0m[0mimport search.src.PorterStemmer[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/susan/Search/Index.scala:24:27: not found: type NodeSeq[0m
+[0m[[0m[31merror[0m] [0m[0m  private val corpusNode: NodeSeq = xml.XML.loadFile(corpus) \ "page"[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/susan/Search/Index.scala:24:37: not found: value xml[0m
+[0m[[0m[31merror[0m] [0m[0m  private val corpusNode: NodeSeq = xml.XML.loadFile(corpus) \ "page"[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/susan/Search/Index.scala:257:5: not found: value PorterStemmer[0m
+[0m[[0m[31merror[0m] [0m[0m    PorterStemmer.stem(word.toLowerCase)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/susan/Search/MapFold.scala:16:9: not found: value B[0m
+[0m[[0m[31merror[0m] [0m[0m        B[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/susan/Search/MapFold.scala:19:33: could not find implicit value for evidence parameter of type cats.Monoid[Int][0m
+[0m[[0m[31merror[0m] [0m[0m        foldMap(Vector(1, 2, 3))(identity) == 6[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/susan/Search/Query.scala:6:15: object src is not a member of package search[0m
+[0m[[0m[31merror[0m] [0m[0mimport search.src.PorterStemmer[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m9 errors found[0m
